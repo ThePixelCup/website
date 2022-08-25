@@ -10,6 +10,12 @@ module.exports = {
       options: {
         icon: 'src/images/icon.png',
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ['G-GN9X1LDV3N']
+      }
     }
   ]
 };
