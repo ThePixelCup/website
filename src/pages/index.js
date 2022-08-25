@@ -1,7 +1,9 @@
 import * as React from "react"
 import styled, { createGlobalStyle } from "styled-components"
+import '@fortawesome/fontawesome-svg-core/styles.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faTwitter, faGithub } from "@fortawesome/free-brands-svg-icons"
+import { config } from '@fortawesome/fontawesome-svg-core';
 import { Script } from "gatsby"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
 
@@ -11,11 +13,15 @@ import packFront from "../images/pack-front.png";
 import packBack from "../images/pack-back.png"
 import bodyBg from "../images/bg.svg";
 
+// Colors
 const primaryColor = "#B2ED09";
 const whiteColor = '#FEFEFC';
 const blackColor = '#1D1D1B';
 const grayColor = '#7B7B79';
 const fontFamily = 'Cabin';
+
+// Fix issue with icons appearing big
+config.autoAddCss = false; 
 
 const PageStyle = createGlobalStyle`
   body {
