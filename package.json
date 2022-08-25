@@ -1,12 +1,18 @@
 {
-  "name": "the-pixel-cup",
+  "name": "pixelcup-website",
   "version": "1.0.0",
   "private": true,
-  "description": "the-pixel-cup",
+  "description": "The Pixel Cup Website",
   "author": "Guillermo Gette",
   "keywords": [
-    "gatsby"
+    "nft",
+    "crypto",
+    "etherium",
+    "blockchain"
   ],
+  "engines": {
+    "node": "^14.15.0"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -15,8 +21,14 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/cabin": "^4.5.7",
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-brands-svg-icons": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^4.21.1",
+    "gatsby-plugin-manifest": "^4.21.0",
     "gatsby-plugin-styled-components": "^5.21.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",

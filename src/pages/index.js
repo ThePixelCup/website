@@ -1,173 +1,192 @@
 import * as React from "react"
+import styled, { createGlobalStyle } from "styled-components"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faDiscord, faTwitter, faGithub } from "@fortawesome/free-brands-svg-icons"
 
-const pageStyles = {
-  color: "#232129",
-  padding: 96,
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
-const headingStyles = {
-  marginTop: 0,
-  marginBottom: 64,
-  maxWidth: 320,
-}
-const headingAccentStyles = {
-  color: "#663399",
-}
-const paragraphStyles = {
-  marginBottom: 48,
-}
-const codeStyles = {
-  color: "#8A6534",
-  padding: 4,
-  backgroundColor: "#FFF4DB",
-  fontSize: "1.25rem",
-  borderRadius: 4,
-}
-const listStyles = {
-  marginBottom: 96,
-  paddingLeft: 0,
-}
-const listItemStyles = {
-  fontWeight: 300,
-  fontSize: 24,
-  maxWidth: 560,
-  marginBottom: 30,
-}
+// Images
+import logo from "../images/logo.png";
+import packFront from "../images/pack-front.png";
+import packBack from "../images/pack-back.png"
+import bodyBg from "../images/bg.svg";
 
-const linkStyle = {
-  color: "#8954A8",
-  fontWeight: "bold",
-  fontSize: 16,
-  verticalAlign: "5%",
-}
+const primaryColor = "#B2ED09";
+const whiteColor = '#FEFEFC';
+const blackColor = '#1D1D1B';
+const grayColor = '#7B7B79';
+const fontFamily = 'Cabin';
 
-const docLinkStyle = {
-  ...linkStyle,
-  listStyleType: "none",
-  marginBottom: 24,
-}
+const PageStyle = createGlobalStyle`
+  body {
+    background-color: ${blackColor};
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(${bodyBg});
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: ${whiteColor};
+    font-family: ${fontFamily};
+  }
+  .mobile-only {
+    display: block;
+  }
+  .desktop-only {
+    display: none;
+  }
+  @media (min-width: 768px) {
+    .mobile-only {
+      display: none;
+    }
+    .desktop-only {
+      display: block;
+    }
+  }
+  h1 {
+    font-size: 24px;
+    line-height: 34px;
+    @media (max-width: 768px) {
+      width: 300px;
+      margin: 40px auto 0;
+    }
+  }
+  p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+`;
+const Container = styled.div`
+  text-align: center;
+  width: 100%;
+  padding: 40px 0;
+  .logo {
+    width: 90px;
+    margin: 0 auto;
+  }
+  @media (min-width: 768px) {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 100px 25px;
+    text-align: left;
+    .logo {
+      width: 120px;
+    }
+  }
+`;
 
-const descriptionStyle = {
-  color: "#232129",
-  fontSize: 14,
-  marginTop: 10,
-  marginBottom: 0,
-  lineHeight: 1.25,
-}
+const Text = styled.div`
+  width: 300px;
+  margin: 40px auto;
+  @media (min-width: 768px) {
+    margin: 100px 0 40px;
+  }
+`;
 
-const docLink = {
-  text: "Documentation",
-  url: "https://www.gatsbyjs.com/docs/",
-  color: "#8954A8",
-}
-
-const badgeStyle = {
-  color: "#fff",
-  backgroundColor: "#088413",
-  border: "1px solid #088413",
-  fontSize: 11,
-  fontWeight: "bold",
-  letterSpacing: 1,
-  borderRadius: 4,
-  padding: "4px 6px",
-  display: "inline-block",
-  position: "relative",
-  top: -2,
-  marginLeft: 10,
-  lineHeight: 1,
-}
-
-const links = [
-  {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial/",
-    description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
-    color: "#E95800",
-  },
-  {
-    text: "How to Guides",
-    url: "https://www.gatsbyjs.com/docs/how-to/",
-    description:
-      "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
-    color: "#1099A8",
-  },
-  {
-    text: "Reference Guides",
-    url: "https://www.gatsbyjs.com/docs/reference/",
-    description:
-      "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
-    color: "#BC027F",
-  },
-  {
-    text: "Conceptual Guides",
-    url: "https://www.gatsbyjs.com/docs/conceptual/",
-    description:
-      "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
-    color: "#0D96F2",
-  },
-  {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
-    description:
-      "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
-    color: "#8EB814",
-  },
-  {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
-    badge: true,
-    description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
-    color: "#663399",
-  },
-]
-
+const Pack = styled.div`
+  background:radial-gradient(circle at 50% 50%, #000000 26%, #1D1D1B 70%);
+  position: relative;
+  width: 100%;
+  height: 380px;
+  margin-top: 40px;
+  img {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    margin-left: -150px;
+  }
+  @media (min-width: 768px) {
+    float: right;
+    width: 50%;
+    height: 500px;
+    img {
+      width: 350px;
+      position: absolute;
+      left: 50%;
+      margin-left: -175px;
+    }
+  }
+`;
+const Social = styled.div`
+  color: ${primaryColor};
+  text-align: center;
+  margin-top: 40px;
+  @media (min-width: 768px) {
+    float: right;
+    width: 50%;
+    margin-top: 10px;
+  }
+  p {
+    font-family: ${fontFamily};
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .icon {
+    margin: 0 5px;
+  }
+`;
+const FormContainer = styled.div`
+  margin-top: 40px;
+  @media (min-width: 768px) {
+    float: left;
+  }
+  .email {
+    border-radius: 18px;
+    font-family: ${fontFamily};
+    background: transparent;
+    font-size: 16px;
+    padding: 4px 16px;
+    width: 260px;
+    color: ${whiteColor};
+    border: solid 1px ${primaryColor};
+    margin-right: 20px;
+    outline: none;
+    ::placeholder {
+      color: ${grayColor};
+      opacity: 1; /* Firefox */
+    }
+    @media (max-width: 768px) {
+      display: block;
+      margin: 0 auto 20px;
+    }
+  }
+  .submit {
+    border-radius: 24px;
+    font-family: ${fontFamily};
+    background: ${primaryColor};
+    color: ${blackColor};
+    font-size: 16px;
+    padding: 4px 16px;
+  }
+`;
 const IndexPage = () => {
   return (
-    <main style={pageStyles}>
-      <h1 style={headingStyles}>
-        Congratulations
-        <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
-      </h1>
-      <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time. 😎
-      </p>
-      <ul style={listStyles}>
-        <li style={docLinkStyle}>
-          <a
-            style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
-          >
-            {docLink.text}
-          </a>
-        </li>
-        {links.map(link => (
-          <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
-            <span>
-              <a
-                style={linkStyle}
-                href={`${link.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
-              >
-                {link.text}
-              </a>
-              {link.badge && (
-                <span style={badgeStyle} aria-label="New Badge">
-                  NEW!
-                </span>
-              )}
-              <p style={descriptionStyle}>{link.description}</p>
-            </span>
-          </li>
-        ))}
-      </ul>
-      <img
-        alt="Gatsby G Logo"
-        src="data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 2a10 10 0 110 20 10 10 0 010-20zm0 2c-3.73 0-6.86 2.55-7.75 6L14 19.75c3.45-.89 6-4.02 6-7.75h-5.25v1.5h3.45a6.37 6.37 0 01-3.89 4.44L6.06 9.69C7 7.31 9.3 5.63 12 5.63c2.13 0 4 1.04 5.18 2.65l1.23-1.06A7.959 7.959 0 0012 4zm-8 8a8 8 0 008 8c.04 0 .09 0-8-8z' fill='%23639'/%3E%3C/svg%3E"
-      />
-    </main>
+    <React.Fragment>
+      <PageStyle/>
+      <Container>
+        <img className="logo" src={logo} alt="The Pixel Cup" />
+        <h1 className="mobile-only">The first fully decentralized <strong>NFT</strong> sticker album</h1>
+        <Pack>
+          <img src={packBack} alt="The Pixel Cup Pack Back" />
+          <img src={packFront} alt="The Pixel Cup Pack Front" />
+        </Pack>
+        <Text>
+          <h1 className="desktop-only">The first fully decentralized <strong>NFT</strong> sticker album</h1>
+          <p>Buy a pack, collect the unique 96 pixel jerseys from the WC 2022 teams and win the cas$h pool prize</p>
+        </Text>
+        <FormContainer>
+          <form>
+            <input className="email" type="email" placeholder="Enter your email" />
+            <input className="submit" type="submit" value="Join Waitlist"/>
+          </form>
+        </FormContainer>
+        <Social>
+          <FontAwesomeIcon icon={faDiscord} size="xl" className="icon" />
+          <FontAwesomeIcon icon={faTwitter} size="xl" className="icon" />
+          <FontAwesomeIcon icon={faGithub} size="xl" className="icon" />
+          <p>Join the pixel cup club</p>
+        </Social>
+      </Container>
+    </React.Fragment>
   )
 }
 
