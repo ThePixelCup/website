@@ -28,7 +28,12 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "autoprefixer": "^10.4.8",
+    "@thirdweb-dev/react": "^2.8.1",
+    "@thirdweb-dev/sdk": "^2.4.1",
+    "assert": "^2.0.0",
     "babel-plugin-styled-components": "^2.0.7",
+    "buffer": "^6.0.3",
+    "ethers": "^5.7.0",
     "gatsby": "^4.21.1",
     "gatsby-plugin-google-gtag": "^4.21.0",
     "gatsby-plugin-manifest": "^4.21.0",
@@ -46,6 +51,9 @@
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.5",
-    "tailwindcss": "^3.1.8"
+    "tailwindcss": "^3.1.8",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.4"
   }
 }
