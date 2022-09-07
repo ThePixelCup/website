@@ -25,16 +25,9 @@ config.autoAddCss = false;
 
 const PageStyle = createGlobalStyle`
   body {
-    background-color: ${blackColor};
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    height: 100%;
     background-image: url(${bodyBg});
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: ${whiteColor};
-    font-family: ${fontFamily};
   }
   .mobile-only {
     display: block;
