@@ -4,10 +4,11 @@
 
 @layer base {
   body {
+    font-family: 'Nunito';
+    background: url(../images/bg.svg) no-repeat center center fixed; 
+    @apply bg-cover;
     @apply bg-neutral-900;
     @apply text-neutral-100;
-    font-family: 'Nunito';
-    background-image: url(../images/bg.svg);
     @apply bg-fixed;
     @apply bg-no-repeat;
   }
