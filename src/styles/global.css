@@ -6,7 +6,10 @@
   body {
     @apply bg-neutral-900;
     @apply text-neutral-100;
-    font-family: 'Cabin';
+    font-family: 'Nunito';
+    background-image: url(../images/bg.svg);
+    @apply bg-fixed;
+    @apply bg-no-repeat;
   }
   .doc h1 {
     @apply text-4xl;
@@ -14,10 +17,12 @@
     @apply pb-4;
     @apply border-b;
     @apply border-lime-400;
+    @apply font-semibold
   }
   .doc h2 {
     @apply text-xl;
     @apply mt-4 mb-2;
+    @apply font-semibold
   }
   .doc p {
     @apply leading-relaxed;
@@ -39,5 +44,18 @@
   }
   .doc li {
     @apply mb-2;
+    @apply ml-4;
+    @apply pl-1;
+  }
+  .doc a {
+    @apply decoration-lime-400;
+    @apply underline;
+    @apply underline-offset-4;
+  }
+  .doc strong {
+    @apply font-semibold;
+    @apply bg-lime-400;
+    @apply text-neutral-900;
+    @apply px-2;
   }
 }

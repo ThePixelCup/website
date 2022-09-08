@@ -2,10 +2,9 @@ import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faArrowRight, faArrowLeft, faBars } from "@fortawesome/free-solid-svg-icons";
-import { OutboundLink } from "gatsby-plugin-google-gtag"
-import { faTwitter, faGithub, faDiscord } from "@fortawesome/free-brands-svg-icons"
 
 import logo from "../../images/logo.png";
+import Social from "../../components/Social";
 
 const DocLink = (props) => <Link to={props.to} className={`block px-4 py-2 my-2 transform hover:bg-neutral-700 transition duration-300 ${props.active && 'bg-neutral-700'} rounded-md`}>{props.children}</Link>;
 const DocRec = ({doc, next = false}) => (
@@ -20,7 +19,6 @@ export default function Template({
 }) {
   const path = typeof window !== 'undefined' ? window.location.pathname : '';
   const { allMarkdownRemark: { edges: allDocs } } = data;
-  console.log('Path: ', path)
   const docLinks = allDocs.filter(doc => doc.node.frontmatter.slug).map((doc, i) => {
     const slug = `/docs${doc.node.frontmatter.slug}`
     return (
@@ -54,14 +52,8 @@ export default function Template({
               </ul>
             </div>
             <div className="flex px-4 flex-row mt-10 space-x-4 text-lime-400 items-center">
-              <p className="w-28 uppercase text-sm">Join the community</p>
-              <FontAwesomeIcon icon={faDiscord} size="xl" />
-              <OutboundLink href="https://twitter.com/the_pixelcup" rel="noreferrer" target="_blank" aria-label="Twitter">
-                <FontAwesomeIcon icon={faTwitter} size="xl" />
-              </OutboundLink>
-              <OutboundLink href="https://github.com/thepixelcup" rel="noreferrer" target="_blank" aria-label="Github">
-                <FontAwesomeIcon icon={faGithub} size="xl" />
-              </OutboundLink>
+              <p className="w-28 uppercase text-sm">Join The Pixel Cup Club</p>
+              <Social />
             </div>
           </div>
           <div className="doc md:basis-3/4 px-4 mt-20 md:mt-10 md:ml-72 pb-10">

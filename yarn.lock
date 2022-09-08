@@ -1112,10 +1112,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fontsource/cabin@^4.5.7":
-  version "4.5.7"
-  resolved "https://registry.yarnpkg.com/@fontsource/cabin/-/cabin-4.5.7.tgz#bcf1ef81ecf589f71accad9c412f55d8c047af0b"
-  integrity sha512-UXqN46WKawd9uCuMqSdt6UJXo32gqeJUiuIvZLUfCe6reXBmnkyoG+V62UVEf/Dmw9TII6DNwJujpa0rgiAHjQ==
+"@fontsource/nunito@^4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/nunito/-/nunito-4.5.10.tgz#159d52126fda9acc57681687cbe3c8509c3782ca"
+  integrity sha512-pxbv8qtPhtA3fTmJ727PsKgUQqhSzJc0wIe4Wt8mYZ73bkM/jWfCr3944D3pz2Er5CfLum+M9Zwq0G7y+Avk3A==
 
 "@fortawesome/fontawesome-common-types@6.1.2":
   version "6.1.2"
