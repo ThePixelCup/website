@@ -1,215 +1,60 @@
-import * as React from "react"
-import styled, { createGlobalStyle } from "styled-components"
-import '@fortawesome/fontawesome-svg-core/styles.css';
+import React from "react"
+import { Link, Script } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faTwitter, faGithub } from "@fortawesome/free-brands-svg-icons"
-import { config } from '@fortawesome/fontawesome-svg-core';
-import { Script } from "gatsby"
-import { OutboundLink } from "gatsby-plugin-google-gtag"
+import { faStar } from "@fortawesome/free-solid-svg-icons";
 
-// Images
 import logo from "../images/logo.png";
 import packFront from "../images/pack-front.png";
 import packBack from "../images/pack-back.png"
-import bodyBg from "../images/bg.svg";
 
-// Colors
-const primaryColor = "#B2ED09";
-const whiteColor = '#FEFEFC';
-const blackColor = '#1D1D1B';
-const grayColor = '#7B7B79';
-const fontFamily = 'Cabin';
+import Social from "../components/Social";
 
-// Fix issue with icons appearing big
-config.autoAddCss = false; 
-
-const PageStyle = createGlobalStyle`
-  body {
-    background-color: ${blackColor};
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url(${bodyBg});
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: ${whiteColor};
-    font-family: ${fontFamily};
-  }
-  .mobile-only {
-    display: block;
-  }
-  .desktop-only {
-    display: none;
-  }
-  @media (min-width: 768px) {
-    .mobile-only {
-      display: none;
-    }
-    .desktop-only {
-      display: block;
-    }
-  }
-  h1 {
-    font-size: 24px;
-    line-height: 34px;
-    @media (max-width: 768px) {
-      width: 300px;
-      margin: 40px auto 0;
-    }
-  }
-  p {
-    font-size: 16px;
-    line-height: 24px;
-  }
-`;
-const Container = styled.div`
-  text-align: center;
-  width: 100%;
-  padding: 40px 0;
-  .logo {
-    width: 90px;
-    margin: 0 auto;
-  }
-  @media (min-width: 768px) {
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 100px 25px;
-    text-align: left;
-    .logo {
-      width: 120px;
-    }
-  }
-`;
-
-const Text = styled.div`
-  width: 310px;
-  margin: 40px auto;
-  @media (min-width: 768px) {
-    margin: 100px 0 40px;
-  }
-`;
-
-const Pack = styled.div`
-  background:radial-gradient(circle at 50% 50%, #000000 26%, #1D1D1B 70%);
-  position: relative;
-  width: 100%;
-  height: 380px;
-  margin-top: 40px;
-  img {
-    width: 300px;
-    position: absolute;
-    left: 50%;
-    margin-left: -150px;
-  }
-  @media (min-width: 768px) {
-    float: right;
-    width: 50%;
-    height: 500px;
-    img {
-      width: 350px;
-      position: absolute;
-      left: 50%;
-      margin-left: -175px;
-    }
-  }
-`;
-const Social = styled.div`
-  color: ${primaryColor};
-  text-align: center;
-  margin-top: 40px;
-  @media (min-width: 768px) {
-    float: right;
-    width: 50%;
-    margin-top: 10px;
-  }
-  p {
-    font-family: ${fontFamily};
-    text-transform: uppercase;
-    font-weight: 500;
-  }
-  .icon {
-    margin: 0 5px;
-  }
-  a {
-    text-decoration: none;
-    color: ${primaryColor};
-  }
-`;
-const FormContainer = styled.div`
-  margin-top: 40px;
-  @media (min-width: 768px) {
-    float: left;
-  }
-  .email {
-    border-radius: 18px;
-    font-family: ${fontFamily};
-    background: transparent;
-    font-size: 16px;
-    padding: 4px 16px;
-    width: 260px;
-    color: ${whiteColor};
-    border: solid 1px ${primaryColor};
-    margin-right: 20px;
-    ::placeholder {
-      color: ${grayColor};
-      opacity: 1; /* Firefox */
-    }
-    @media (max-width: 768px) {
-      display: block;
-      margin: 0 auto 20px;
-    }
-  }
-  .submit {
-    border-radius: 24px;
-    font-family: ${fontFamily};
-    background: ${primaryColor};
-    color: ${blackColor};
-    font-size: 16px;
-    padding: 6px 16px;
-  }
-  input {
-    outline: none;
-    border: none;
-  }
-`;
 const IndexPage = () => {
   return (
     <React.Fragment>
-      <PageStyle/>
       <Script src="https://getlaunchlist.com/js/widget-diy.js" defer />
-      <Container>
-        <img className="logo" src={logo} alt="The Pixel Cup" />
-        <h1 className="mobile-only">The first fully decentralized <strong>NFT</strong> sticker album</h1>
-        <Pack>
-          <img src={packBack} alt="The Pixel Cup Pack Back" />
-          <img src={packFront} alt="The Pixel Cup Pack Front" />
-        </Pack>
-        <Text>
-          <h1 className="desktop-only">The first fully decentralized <strong>NFT</strong> sticker album</h1>
-          <p>Buy a pack, collect the unique 96 pixel jerseys from the WC 2022 teams and win the ca$h pool prize</p>
-        </Text>
-        <FormContainer>
-          <form className="launchlist-form" action="https://getlaunchlist.com/s/QNlPv0" method="POST">
-            <input className="email" name="email" type="email" placeholder="Enter your email" />
-            <input className="submit" type="submit" value="Join Waitlist"/>
-          </form>
-        </FormContainer>
-        <Social>
-          {/* <FontAwesomeIcon icon={faDiscord} size="xl" className="icon" /> */}
-          <OutboundLink href="https://twitter.com/the_pixelcup" rel="noreferrer" target="_blank" aria-label="Twitter">
-            <FontAwesomeIcon icon={faTwitter} size="xl" className="icon" />
-          </OutboundLink>
-          <OutboundLink href="https://github.com/thepixelcup" rel="noreferrer" target="_blank" aria-label="Github">
-            <FontAwesomeIcon icon={faGithub} size="xl" className="icon" />
-          </OutboundLink>
-          <p>Join the pixel cup club</p>
-        </Social>
-      </Container>
+      <div className="container mx-auto max-w-6xl">
+        <div className="grid grid-flow-row md:grid-cols-2 gap-4 mx-4">
+          <div className="order-1 text-center md:text-left">
+            <img className="w-1/3 md:w-1/5 inline-block mt-6" src={logo} alt="The Pixel Cup" />
+          </div>
+          <div className="md:row-span-3 order-3 md:order-2">
+            <div className="w-2/3 md:w-2/3 lg:w-3/5 relative mx-auto mt-2 md:mt-20">
+              <img src={packBack} alt="The Pixel Cup Pack Back" />
+              <img className="absolute top-0" src={packFront} alt="The Pixel Cup Pack Front" />
+            </div>
+          </div>
+          <div className="order-2 md:order-3">
+            <h1 className="text-2xl md:text-4xl text-center md:text-left mt-6 mx-4 md:mx-0 font-semibold lg:pr-16">The first fully decentralized NFT sticker album</h1>
+          </div>
+          <div className="order-4">
+            <p className="text-neutral-300 mt-4 md:mt-2 lg:pr-16">Mint a pack to get a random set of stickers. Collect the unique 96 pixel jerseys from the WC 2022 teams and win the ca$h pool prize. </p>
+            <p className="text-neutral-300 mt-2 md:mt-4"><Link className="decoration-lime-400 underline underline-offset-8" to="/docs/">Read the whitepaper.</Link></p>
+          </div>
+          <div className="order-5">
+            <form className="launchlist-form" action="https://getlaunchlist.com/s/QNlPv0" method="POST">
+              <div className="flex flex-col md:flex-row items-stretch w-full space-y-4 md:space-y-0 md:space-x-2 mt-4 md:mt-6 lg:pr-16">
+                <input className="grow focus:outline-none focus:border-lime-400 bg-neutral-700 border border-neutral-700 text-neutral-400 sm:text-sm rounded-md p-2.5" name="email" type="email" placeholder="Enter your email" />
+                <input className="cursor-pointer bg-lime-400 hover:bg-lime-500 rounded-md text-neutral-900 md:w-36 p-2.5" type="submit" value="Join Waitlist"/>
+              </div>
+            </form>
+            <p className="mt-4"><FontAwesomeIcon icon={faStar} size="m" className="" /> Top referrers get a place in the whitelist and a free pack. </p>
+          </div>
+          <div className="order-6 text-lime-400 space-x-4 text-center mt-8">
+              <Social />
+              <p className="mt-2 uppercase">Join The Pixel Cup Club</p>
+          </div>
+        </div>
+      </div>
     </React.Fragment>
   )
 }
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => (
+  <>
+    <title>The Pixel Cup</title>
+    <meta name="description" content="The first fully decentralized NFT sticker album. Collect the unique 96 pixel jerseys from the WC 2022 teams and win the ca$h pool prize." />
+  </>
+)
