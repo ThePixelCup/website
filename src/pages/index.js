@@ -52,4 +52,9 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => (
+  <>
+    <title>The Pixel Cup</title>
+    <meta name="description" content="The first fully decentralized NFT sticker album. Collect the unique 96 pixel jerseys from the WC 2022 teams and win the ca$h pool prize." />
+  </>
+)

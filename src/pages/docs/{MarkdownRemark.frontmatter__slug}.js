@@ -14,18 +14,29 @@ const DocRec = ({doc, next = false}) => (
   </Link>
 );
 
+export const Head = ({
+  data
+}) => {
+  const { markdownRemark: currentDoc } = data;
+  return (
+    <>
+      <title>{`The Pixel Cup | ${currentDoc.frontmatter.title}`}</title>
+      <meta name="description" content={currentDoc.excerpt.replace(`${currentDoc.frontmatter.title} `, '')} />
+    </>
+  )
+};
+
 export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
+  data,
 }) {
-  const path = typeof window !== 'undefined' ? window.location.pathname : '';
   const { allMarkdownRemark: { edges: allDocs } } = data;
+  const { markdownRemark } = data;
   const docLinks = allDocs.filter(doc => doc.node.frontmatter.slug).map((doc, i) => {
     const slug = `/docs${doc.node.frontmatter.slug}`
     return (
-      <li key={slug}><DocLink active={path === slug} to={slug}>{doc.node.frontmatter.title}</DocLink></li>
+      <li key={slug}><DocLink active={markdownRemark.frontmatter.slug === doc.node.frontmatter.slug} to={slug}>{doc.node.frontmatter.title}</DocLink></li>
     )
   });
-  const { markdownRemark } = data;
   const currentIndex = allDocs.findIndex(doc => doc.node.frontmatter.slug === markdownRemark.frontmatter.slug);
   let nextDoc = null;
   let prevDoc = null;
@@ -79,6 +90,7 @@ export const pageQuery = graphql`
   query($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
+      excerpt
       frontmatter {
         slug
         title,
