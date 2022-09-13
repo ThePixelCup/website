@@ -13,7 +13,7 @@ Users will be able to join the waitlist. The top 1000 referral members (those th
 Whitelist members will be able to start buying packs
 
 ## October 20th: The Pixel Cup 2022 sticker album game begins
-Everyone can start buying packs. Packs holders can exchange their packs for stickers and start filling the album
+Everyone can start buying packs. Pack holders can exchange their packs for stickers and start filling the album
 
 ## Nov 22nd: WC 2022 begins
 Expect physical and digital prizes, competitions and new games in our Discord while we enjoy the biggest football competition.

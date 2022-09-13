@@ -7,12 +7,12 @@ order: 2
 
 Have you ever tried to complete a sticker album? 
 
-- Running to the shops to buy sticker packs 
+- Running to the shops to buy sticker packs.
 - Open the packs hoping to get a sticker that you don’t have yet. 
-- The closer you get to complete the album, the harder it is to get new stickers.
-- Compare with friends the stickers you have/don’t have
+- The closer you get to completing the album, the harder it is to get new stickers.
+- Compare with friends the stickers you have / are missing.
 - Trade, compete or sell the repeated ones with friends.
-- Stick the stickers into the album
+- Stick the stickers into the album.
 
 We are bringing that experience to the blockchain in a fully decentralized and transparent way. In contrast to the traditional sticker albums, we will be offering:
 

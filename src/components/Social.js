@@ -11,7 +11,9 @@ config.autoAddCss = false;
 const Social = ({size = 'xl'}) => {
   return (
     <React.Fragment>
-      <FontAwesomeIcon icon={faDiscord} size={size} />
+      <OutboundLink href="https://discord.gg/uRyYuaAd4W" rel="noreferrer" target="_blank" aria-label="Discord">
+        <FontAwesomeIcon icon={faDiscord} size={size} />
+      </OutboundLink>
       <OutboundLink href="https://twitter.com/the_pixelcup" rel="noreferrer" target="_blank" aria-label="Twitter">
         <FontAwesomeIcon icon={faTwitter} size={size} />
       </OutboundLink>
