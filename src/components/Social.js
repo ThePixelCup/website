@@ -1,6 +1,6 @@
 import React from "react"
 import '@fortawesome/fontawesome-svg-core/styles.css';
-import { faTwitter, faGithub, faDiscord } from "@fortawesome/free-brands-svg-icons"
+import { faTwitter, faGithub, faDiscord, faInstagram } from "@fortawesome/free-brands-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
 import { config } from '@fortawesome/fontawesome-svg-core';
@@ -13,6 +13,9 @@ const Social = ({size = 'xl'}) => {
     <React.Fragment>
       <OutboundLink href="https://discord.gg/uRyYuaAd4W" rel="noreferrer" target="_blank" aria-label="Discord">
         <FontAwesomeIcon icon={faDiscord} size={size} />
+      </OutboundLink>
+      <OutboundLink href="https://www.instagram.com/the_pixelcup/" rel="noreferrer" target="_blank" aria-label="Twitter">
+        <FontAwesomeIcon icon={faInstagram} size={size} />
       </OutboundLink>
       <OutboundLink href="https://twitter.com/the_pixelcup" rel="noreferrer" target="_blank" aria-label="Twitter">
         <FontAwesomeIcon icon={faTwitter} size={size} />
