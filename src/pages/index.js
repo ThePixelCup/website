@@ -108,7 +108,7 @@ const IndexPage = () => {
             <img className="w-1/3 md:w-1/5 inline-block mt-6" src={logo} alt="The Pixel Cup" />
           </div>
           <div className="md:row-span-3 order-1 md:order-2 md:pt-24">
-            <video loop="true" autoPlay="autoplay" muted className="h-[480px] mx-auto">
+            <video loop="loop" autoplay="autoplay" muted defaultMuted playsinline oncontextmenu="return false;"  preload="auto" className="h-[480px] mx-auto">
               <source src={packVideo} type="video/mp4" />
               <img src={packBack} alt="The Pixel Cup Pack Back" />
               <img className="absolute top-0" src={packFront} alt="The Pixel Cup Pack Front" />
@@ -118,16 +118,16 @@ const IndexPage = () => {
             <h1 className="text-2xl md:text-4xl mt-6 mx-4 md:mx-0 font-semibold lg:pr-16">The first fully decentralized NFT sticker album</h1>
             <p className="text-neutral-300 mt-4 md:mt-8 lg:pr-16 ">Mint a pack to get a random set of stickers. Collect the unique 96 pixel jerseys from the WC 2022 teams and win the ca$h pool prize. </p>
             <button className={`${buttonClass} mt-8`}>Buy a Pack</button>
-            <div className="flex mt-12">
-              <div className="w-1/5 md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
+            <div className="flex mt-12 justify-center md:justify-start">
+              <div className=" md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
                 <div className="md:inline md:w-14 md:h-14 text-center pt-1"><FontAwesomeIcon className="text-neutral-300 text-5xl" icon={faEthereum} /></div>
                 <div className="md:w-24 md:h-14 text-center md:text-left text-3xl">0.01 <span className="text-sm block">eth / pack</span></div>
               </div>
-              <div className="w-2/5 md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
+              <div className="mx-8 md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
                 <div className="md:inline md:w-20 md:h-14 text-center pt-1"><FontAwesomeIcon className="text-neutral-300 text-5xl" icon={faLayerGroup} /></div>
                 <div className="md:w-32 md:h-14 text-center md:text-left text-3xl">10,000 <span className="text-sm block">packs left</span></div>
               </div>
-              <div className="w-2/5 md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
+              <div className=" md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
                 <div className="md:inline md:w-20 md:h-14 text-center pt-1"><FontAwesomeIcon className="text-neutral-300 text-5xl" icon={faSackDollar} /></div>
                 <div className="md:w-32 md:h-14 text-center md:text-left text-3xl">$1,234 <span className="text-sm block">1.1 eth pool prize</span></div>
               </div>
@@ -173,7 +173,7 @@ const IndexPage = () => {
               <img className="mx-auto max-h-64"  src={packsImg} alt="The Pixel Cup Pack" />
               <div>
                 <h3 className="text-xl md:text-2xl mt-6 mx-4 md:mx-0 font-semibold">1. Buy a Pack</h3>
-                <p className="text-neutral-300 mt-2 md:mt-4">
+                <p className="mx-6 md:mx-auto text-neutral-300 mt-2 md:mt-4">
                   Using your cyrpto wallet you can buy 1 or many packs of stickers. There are only 10,000 packs.
                 </p>
               </div>
@@ -182,7 +182,7 @@ const IndexPage = () => {
               <img className="mx-auto max-h-64" src={packOpenedImg} alt="The Pixel Cup Pack Opened" />
               <div>
                 <h3 className="text-xl md:text-2xl mt-6 mx-4 md:mx-0 font-semibold">2. Open a Pack</h3>
-                <p className="text-neutral-300 mt-2 md:mt-4">
+                <p className="mx-6 md:mx-auto text-neutral-300 mt-2 md:mt-4">
                   If you hold a pack in your wallet you can exchange it for 3 random stickers. &nbsp;
                   <span className="text-lime-400">Starts on Nov. 22nd.</span>
                 </p>
@@ -192,7 +192,7 @@ const IndexPage = () => {
               <img className="mx-auto max-h-64" src={albumImg} alt="The Pixel Cup Album" />
               <div>
                 <h3 className="text-xl md:text-2xl mt-6 mx-4 md:mx-0 font-semibold">3. Complete the album</h3>
-                <p className="text-neutral-300 mt-2 md:mt-4">
+                <p className="mx-6 md:mx-auto text-neutral-300 mt-2 md:mt-4">
                   Collect the 96 unique stickers in your album. Only 10 albums can be completed.
                 </p>
               </div>
