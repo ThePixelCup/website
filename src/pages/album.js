@@ -1,5 +1,5 @@
 import * as React from "react"
-import { ThirdwebProvider, ChainId, useAddress, useContract, useContractCall } from "@thirdweb-dev/react";
+import { ThirdwebProvider, ChainId, useAddress, useContract, useContractWrite } from "@thirdweb-dev/react";
 import { ConnectWallet } from "@thirdweb-dev/react";
 import { ethers } from "ethers";
 
@@ -8,7 +8,7 @@ const desiredChainId = ChainId.Goerli;
 const App = () => {
   const address = useAddress();
   const { contract, isLoading: isContractLoading } = useContract('0x714a27164cF6C161ebE3bA8AB4EcC1094d3018Ad');
-  const { mutate: mintPacks, isLoading: isMintLoading, error } = useContractCall(contract, "mintPacks");
+  const { mutate: mintPacks, isLoading: isMintLoading, error } = useContractWrite(contract, "mintPacks");
   console.log({error});
   if (address) {
     return (
