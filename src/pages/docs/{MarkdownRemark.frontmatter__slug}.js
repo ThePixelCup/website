@@ -62,8 +62,7 @@ export default function Template({
                 {docLinks}
               </ul>
             </div>
-            <div className="flex px-4 flex-row mt-10 space-x-4 text-lime-400 items-center">
-              <p className="w-28 uppercase text-sm">Join The Pixel Cup Club</p>
+            <div className="flex px-4 flex-row mt-10 space-x-4  items-center">
               <Social />
             </div>
           </div>
