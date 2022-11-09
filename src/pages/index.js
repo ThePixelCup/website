@@ -146,7 +146,7 @@ const IndexPage = () => {
               <div>
                 <h3 className="text-xl md:text-2xl mt-6 mx-4 md:mx-0 font-semibold">3. Complete the album</h3>
                 <p className="mx-6 md:mx-auto text-neutral-300 mt-2 md:mt-4">
-                  Collect the 96 unique stickers in your album. Only 10 albums can be completed.
+                  Collect the 96 unique stickers to complete the album and claim the prize.
                 </p>
               </div>
             </div>
@@ -177,7 +177,7 @@ const IndexPage = () => {
           <div className="flex-1">
             <h3 className="text-4xl mt-6 font-semibold">Win The Cash Prize</h3>
             <p className="text-neutral-300 mt-2 md:mt-4">
-              50% of each pack sale, goes towards a pool prize. Every time someone completes the album, they can claim 50% of the available pool prize. Only 10 possible winners. The last one takes it all.
+              50% of each pack sale, goes towards a pool prize. Every time someone completes the album, they can claim 50% of the available pool prize. Only 32 possible winners. The last one takes it all.
             </p>
             <Link className="decoration-lime-400 underline underline-offset-8 mt-6 inline-block" to="/docs/">Learn more.</Link>
           </div>
@@ -221,10 +221,10 @@ const IndexPage = () => {
       </div>
       <div id="footer" className="border-t-4 border-lime-400 mt-12 bg-neutral-900">
         <div className="container mx-auto max-w-6xl p-4 items-center flex flex-row">
-          <div className="flex-1 space-x-4">
+          <div className="hidden md:block space-x-4">
             <Link className="decoration-lime-400 underline underline-offset-8" to="/docs/">Documentation</Link>
           </div>
-          <div className="flex-1 text-right space-x-4">
+          <div className="flex-grow text-center md:text-right space-x-4">
             <Social size="2x"/>
           </div>
         </div>
