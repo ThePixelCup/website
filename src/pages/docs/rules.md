@@ -7,12 +7,12 @@ order: 4
 A fully transparent, decentralized and open sourced sticker album. 
 
 ## Albumetrics
-- **??** is the mint price per pack.
-- **??** Available packs to mint.
-- **??** Stickers you can mint per pack.
-- **??** Unique stickers. (*)
-- **??** Total stickers.
-- **??** Possible winners.
+- **0.01 eth** Price per pack.
+- **10,000** Available packs to mint.
+- **3** Stickers you can mint per pack.
+- **1,568** Unique stickers. (*)
+- **30,000** Total stickers.
+- **32** Possible winners.
 - **50%** of pack sales go towards the prize pool.
 - **15%** of pack sales go to the team.
 - **15%** of pack sales will be kept in a treasury for future projects.
