@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faArrowRight, faArrowLeft, faBars } from "@fortawesome/free-solid-svg-icons";
 
-import logo from "../../images/logo.png";
+import logo from "../../assets/images/logo.png";
 import Social from "../../components/Social";
 
 const DocLink = (props) => <Link to={props.to} className={`block px-4 py-2 my-2 transform hover:bg-neutral-700 transition duration-300 ${props.active && 'bg-neutral-700'} rounded-md`}>{props.children}</Link>;

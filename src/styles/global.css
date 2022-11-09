@@ -7,7 +7,8 @@
     font-family: 'Nunito';
     background: url(https://ik.imagekit.io/thepixelcup/website/bg_l0MOTE3He.svg) no-repeat center center fixed; 
     @apply bg-cover;
-    @apply bg-neutral-900;
+    /* @apply bg-neutral-900; */
+    background-color: #1D1D1B;
     @apply text-neutral-100;
     @apply bg-fixed;
     @apply bg-no-repeat;

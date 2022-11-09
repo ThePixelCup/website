@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env`,
+})
+
 module.exports = {
   siteMetadata: {
     title: `The Pixel Cup`,
@@ -8,7 +12,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        icon: 'src/images/icon.png',
+        icon: 'src/assets/images/icon.png',
       }
     },
     {
