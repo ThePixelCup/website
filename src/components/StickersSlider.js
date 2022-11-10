@@ -1,11 +1,6 @@
 import React from "react"
 import Slider from "react-slick";
-
-// Assets
-import sticker1 from "../assets/images/stickers/1.png";
-import sticker2 from "../assets/images/stickers/2.png";
-import sticker3 from "../assets/images/stickers/3.png";
-import sticker4 from "../assets/images/stickers/4.png";
+import { StaticImage } from "gatsby-plugin-image"
 
 // Settings
 const settings = {
@@ -54,28 +49,52 @@ const StickersSlider = () => {
   return (
     <Slider {...settings}>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker1} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/1.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker2} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/3.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker3} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/4.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker4} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/5.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker1} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/13.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker2} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/6.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker3} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/7.jpg" alt="Pixel Cup Sticker" />
       </div>
       <div className="mx-4 !w-40 md:!w-36">
-        <img className="" src={sticker4} alt="The Pixel Cup Sticker" />
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/8.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/2.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/9.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/10.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/11.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/12.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/14.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/15.jpg" alt="Pixel Cup Sticker" />
+      </div>
+      <div className="mx-4 !w-40 md:!w-36">
+        <StaticImage width={288} height={360} placeholder="blurred" src="../assets/images/stickers/16.jpg" alt="Pixel Cup Sticker" />
       </div>
     </Slider>
   )
