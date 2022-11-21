@@ -137,7 +137,7 @@ const IndexPage = () => {
                 <h3 className="text-xl md:text-2xl mt-6 mx-4 md:mx-0 font-semibold">2. Open a Pack</h3>
                 <p className="mx-6 md:mx-auto text-neutral-300 mt-2 md:mt-4">
                   If you hold a pack in your wallet you can exchange it for 3 random stickers. &nbsp;
-                  <span className="text-lime-400">Starts on Nov. 22nd.</span>
+                  <span className="text-lime-400">Coming soon.</span>
                 </p>
               </div>
             </div>

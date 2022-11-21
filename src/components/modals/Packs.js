@@ -84,7 +84,7 @@ const Packs = ({show, onClose, contract, onError}) => {
             {!purchaseCompleted && <Button className="w-full" onClick={buyPacks} isLoading={isMintLoading} loadingText="Waiting Confirmation...">
               Buy
             </Button>}
-            {purchaseCompleted && <p className="text-center mt-4 text-lime-400">You will be able to open packs on Nov. 22nd,</p>}
+            {purchaseCompleted && <p className="text-center mt-4 text-lime-400">Join our community to see when you can start opening your packs.</p>}
             <div className="mt-4 flex flex-row items-center">
               <button onClick={() => {disconnect(); onClose();}} className="text-sm text-neutral-400 decoration-lime-400 underline underline-offset-8">
                 Disconnect Wallet
