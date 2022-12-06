@@ -1,7 +1,11 @@
 import React, { useEffect, useState } from "react";
+import { navigate } from "gatsby";
 
 // Assets
 import logoMini from "../assets/images/logo-mini.png";
+
+// Components
+import Button from "../components/Button";
 
 const TopBar = () => {
   const [topBarFixed, fixTopBar] = useState(false);
@@ -23,7 +27,7 @@ const TopBar = () => {
           <img className="mx-auto h-12" src={logoMini} alt="The Pixel Cup" />
         </div>
         <div className="grow text-right">
-          {/* <span className="hidden md:inline">Already have a pack?</span> <button className="ml-4 cursor-pointer hover:bg-lime-400 border-lime-400 border text-lime-400 hover:text-neutral-900 rounded-md md:w-36 p-2.5">Connect Wallet</button> */}
+          <span className="hidden md:inline">Already have a pack?</span> <Button onClick={() => navigate('/album/')} alternate className="ml-4">Go to album</Button>
         </div>
       </div>
     </div>

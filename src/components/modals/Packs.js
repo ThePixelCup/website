@@ -11,7 +11,7 @@ import packImg from "../../assets/images/pack-front-st.png";
 // components
 import Button from "../Button";
 
-const Packs = ({show, onClose, contract, onError}) => {
+const Packs = ({show, onClose, contract, onError, onComplete, completeText}) => {
   const wallet = useAddress();
   const [numberOfPacks, setNumberOfPacks] = useState(3);
   const [purchaseInProgress, setPurchaseInProgress] = useState(false);
@@ -76,15 +76,14 @@ const Packs = ({show, onClose, contract, onError}) => {
             </div>
             <p className="text-sm text-neutral-400">Select the number of packs to mint. Save on gas fees buying multiple packs.</p>
             <div className="flex flex-row items-center my-4">
-              <button onClick={() => numberOfPacks > 1 ? setNumberOfPacks(numberOfPacks - 1) : null} className="hover:bg-lime-400 border-lime-400 border text-lime-400 hover:text-neutral-900 rounded-md py-2.5 px-5">-</button>
+              <Button alternate onClick={() => numberOfPacks > 1 ? setNumberOfPacks(numberOfPacks - 1) : null} className="py-2.5 px-5">-</Button>
               <span className="flex-grow text-center text-2xl">{numberOfPacks}</span>
-              <button onClick={() => setNumberOfPacks(numberOfPacks + 1)} className="hover:bg-lime-400 border-lime-400 border text-lime-400 hover:text-neutral-900 rounded-md py-2.5 px-5">+</button>
+              <Button alternate onClick={() => setNumberOfPacks(numberOfPacks + 1)} className="py-2.5 px-5">+</Button>
             </div>
-            {purchaseCompleted && <Button className="w-full"><FontAwesomeIcon icon={faCircleCheck} /> Completed</Button>}
+            {purchaseCompleted && <Button onClick={onComplete} className="w-full"><FontAwesomeIcon icon={faCircleCheck} /> {completeText}</Button>}
             {!purchaseCompleted && <Button className="w-full" onClick={buyPacks} isLoading={isMintLoading} loadingText="Waiting Confirmation...">
               Buy
             </Button>}
-            {purchaseCompleted && <p className="text-center mt-4 text-lime-400">Join our community to see when you can start opening your packs.</p>}
             <div className="mt-4 flex flex-row items-center">
               <button onClick={() => {disconnect(); onClose();}} className="text-sm text-neutral-400 decoration-lime-400 underline underline-offset-8">
                 Disconnect Wallet

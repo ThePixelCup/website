@@ -1,5 +1,5 @@
-import React, { useState } from "react"
-import { Link } from "gatsby"
+import React, { useState, useEffect } from "react"
+import { Link, navigate } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEthereum } from "@fortawesome/free-brands-svg-icons"
 import { faLayerGroup, faSackDollar, faSpinner } from "@fortawesome/free-solid-svg-icons";
@@ -42,6 +42,7 @@ const IndexPage = () => {
   const [ buyPacksVisibile, showBuyPacks] = useState(false);
   const [ errorVisible, showErrorNotice] = useState(false);
   const [ errorMessage, setErrorMessage ] = useState('');
+  const [ buyingPack, startBuyingPack ] = useState(false);
 
   const totalPacks = Number(process.env.GATSBY_TOTAL_PACKS);
   const packPrice = Number(process.env.GATSBY_PACK_PRICE);
@@ -60,6 +61,7 @@ const IndexPage = () => {
   if (errorLoadingPoolPrize) showError(errorLoadingPoolPrize.message);
 
   function buyPack(){
+    startBuyingPack(true);
     if (wallet) {
       return showBuyPacks(true);
     }
@@ -69,8 +71,8 @@ const IndexPage = () => {
   return (
     <React.Fragment>
       <Error message={errorMessage} hide={!errorVisible} onClick={() => showErrorNotice(false)} />
-      <WalletModal show={connectWalletVisibile} onClose={() => showConnectWallet(false)} onSucced={() => showBuyPacks(true)} />
-      <PacksModal onError={showError} show={buyPacksVisibile} onClose={() => showBuyPacks(false)} contract={contract} />
+      {buyingPack && <WalletModal show={connectWalletVisibile} onClose={() => showConnectWallet(false)} onSucced={() => showBuyPacks(true)} />}
+      {buyingPack && <PacksModal onComplete={() => navigate('/album/')} completeText="Go to album" onError={showError} show={buyPacksVisibile} onClose={() => showBuyPacks(false)} contract={contract} />}
       <TopBar />
       
       <div className="container pt-16 md:pt-0 mx-auto max-w-6xl">
