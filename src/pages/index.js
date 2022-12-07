@@ -241,7 +241,9 @@ const App = () => {
       desiredChainId={Number(process.env.GATSBY_CHAIN_ID)}
       chainRpc={{
         [ChainId.Goerli]: 'https://goerli.infura.io/v3/b2db0a6a309a4d71aa2fd1e87cea5a07',
-        [ChainId.Mainnet]: 'https://mainnet.infura.io/v3/b2db0a6a309a4d71aa2fd1e87cea5a07'
+        [ChainId.Mainnet]: 'https://mainnet.infura.io/v3/b2db0a6a309a4d71aa2fd1e87cea5a07',
+        [ChainId.Mumbai]: 'https://polygon-mumbai.infura.io/v3/b2db0a6a309a4d71aa2fd1e87cea5a07',
+        [ChainId.Polygon]: 'https://polygon-mainnet.infura.io/v3/b2db0a6a309a4d71aa2fd1e87cea5a07'
       }}
     >
       <IndexPage />

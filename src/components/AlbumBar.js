@@ -55,12 +55,12 @@ const AlbumBar = ({contract, wallet, collection}) => {
         <div className="flex flex-row">
           <span className="w-10 text-center"><FontAwesomeIcon className="text-neutral-800 text-xl" icon={faLayerGroup} /></span>
           <span>Packs balance</span>
-          <span className="grow text-right mr-1">{totalStickers}</span>
+          <span className="grow text-right mr-1">{packBalance ? packBalance.toNumber() : 0}</span>
         </div>
         <div className="flex flex-row">
           <span className="w-10 text-center"><FontAwesomeIcon className="text-neutral-800 text-xl" icon={faNoteSticky} /></span>
           <span>Stickers balance</span>
-          <span className="grow text-right mr-1">{packBalance ? packBalance.toNumber() : 0}</span>
+          <span className="grow text-right mr-1">{totalStickers}</span>
         </div>
         <div className="flex flex-row">
           <span className="w-10 text-center"><FontAwesomeIcon className="text-neutral-800 text-xl" icon={faCircleXmark} /></span>
