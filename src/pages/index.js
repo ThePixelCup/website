@@ -10,7 +10,7 @@ import logo from "../assets/images/logo.png";
 import packFront from "../assets/images/pack-front.png";
 import packBack from "../assets/images/pack-back.png";
 import packVideo from "../assets/videos/pack-open.mp4";
-
+import polygonIcon from "../assets/images/icons/polygon.svg";
 import packsImg from "../assets/images/packs.png";
 import albumImg from "../assets/images/album.png";
 import packOpenedImg from "../assets/images/pack-opened.png";
@@ -93,8 +93,8 @@ const IndexPage = () => {
             <Button onClick={buyPack} className="mt-8" isLoading={isContractLoading} loadingText="Connecting...">Buy a Pack</Button>
             <div className="flex mt-12 justify-center md:justify-start">
               <div className=" md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
-                <div className="md:inline md:w-14 md:h-14 text-center pt-1"><FontAwesomeIcon className="text-neutral-300 text-5xl" icon={faEthereum} /></div>
-                <div className="md:w-24 md:h-14 text-center md:text-left text-3xl">{packPrice} <span className="text-sm block">eth / pack</span></div>
+                <div className="md:inline md:w-16 md:h-14 text-left pt-1 md:mr-2"><img className="inline h-12" src={polygonIcon} alt="Polygon Matic" /></div>
+                <div className="md:w-24 md:h-14 text-center md:text-left text-3xl">{packPrice} <span className="text-sm block">matic / pack</span></div>
               </div>
               <div className="mx-8 md:w-auto flex flex-col md:flex-row space-y-4 md:space-y-0">
                 <div className="md:inline md:w-20 md:h-14 text-center pt-1"><FontAwesomeIcon className="text-neutral-300 text-5xl" icon={faLayerGroup} /></div>
@@ -107,7 +107,7 @@ const IndexPage = () => {
                 <div className="md:w-32 md:h-14 text-center md:text-left text-3xl">
                   {isPoolPrizeLoading || errorLoadingPoolPrize || !ethPrice ? <FontAwesomeIcon icon={faSpinner} className="fa-spin" /> : '$'+(Number(ethers.utils.formatEther(poolPrize)) * ethPrice).toFixed(2)}
                   <span className="text-sm block">
-                    {isPoolPrizeLoading ? 'pool prize' : `${ethers.utils.formatEther(poolPrize)} eth pool prize`}
+                    {isPoolPrizeLoading ? 'pool prize' : `${ethers.utils.formatEther(poolPrize)} matic prize`}
                   </span>
                 </div>
               </div>
@@ -138,8 +138,7 @@ const IndexPage = () => {
               <div>
                 <h3 className="text-xl md:text-2xl mt-6 mx-4 md:mx-0 font-semibold">2. Open a Pack</h3>
                 <p className="mx-6 md:mx-auto text-neutral-300 mt-2 md:mt-4">
-                  If you hold a pack in your wallet you can exchange it for 3 random stickers. &nbsp;
-                  <span className="text-lime-400">Coming soon.</span>
+                  If you hold a pack in your wallet you can exchange it for 3 random stickers.
                 </p>
               </div>
             </div>

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { navigate } from "gatsby";
+import { Link, navigate } from "gatsby";
 import { useContractRead, useDisconnect } from "@thirdweb-dev/react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLayerGroup, faNoteSticky, faCircleXmark, faUserCircle } from "@fortawesome/free-solid-svg-icons";
@@ -34,7 +34,7 @@ const AlbumBar = ({contract, wallet, collection}) => {
     </div>
     <div className="flex flex-row relative">
       <div className="inline">
-        <img className="mx-auto h-12" src={logoMini} alt="The Pixel Cup" />
+        <Link to="/"><img className="mx-auto h-12" src={logoMini} alt="The Pixel Cup" /></Link>
       </div>
       <div className="grow text-right">
         <div className="flex flex-row-reverse items-center">
