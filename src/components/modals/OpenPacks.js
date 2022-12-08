@@ -117,6 +117,10 @@ const OpenPacks = ({show, onClose, contract, collection, onError}) => {
     if (isMintLoading) return null;
     try {
       setPackOpening(true);
+      const gasLimit = await contract.estimator.gasLimitOf('openPacks', [1]);
+      contract.interceptor.overrideNextTransaction(() => ({
+        gasLimit: gasLimit.add(gasLimit.div(4))
+      }));
       const { receipt } = await openPack([1]);
       const stickers = receipt.events.find(e => e.event === 'PackOpened').args._stickers;
       setStickersInPack(stickers.map((s, i) => ({id: s.toNumber(), active: i === 2})));

@@ -87,7 +87,6 @@ const AlbumPage = () => {
 };
 
 const Album = () => {
-  console.log(ChainId);
   return (
     <ThirdwebProvider
       desiredChainId={Number(process.env.GATSBY_CHAIN_ID)}
