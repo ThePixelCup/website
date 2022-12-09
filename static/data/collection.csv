@@ -1,0 +1,1572 @@
+COUNTRY_ID,COUNTRY_NAME,TYPE_ID,TYPE_NAME,NUMBER,QTY,TOKEN_ID,CAMISETA,POS,FULL_NAME,FIRST_NAME,LAST_NAME,SHIRT_NAME,DOB,CLUB,HEIGHT
+1,Qatar,1,Home,1,5,1101,19,DC,Almoez Ali,Almoez Ali Zainelabdeen M,Abdulla,Almoez,19/8/1996,Al Duhail SC (QAT),180
+1,Qatar,1,Home,2,11,1102,2,DF,Pedro Miguel,Pedro Miguel D D,Correia,Pedro,6/8/1990,Al Sadd SC (QAT),180
+1,Qatar,1,Home,3,11,1103,3,MC,Abdelkarim Hassan,Abdelkarim Hassan A,Fadlalla,Abdelkarim,28/8/1993,Al Sadd SC (QAT),185
+1,Qatar,1,Home,4,11,1104,4,DF,Mohammed Waad,Mohammed Waad A,Albayati,Waad,18/9/1999,Al Sadd SC (QAT),183
+1,Qatar,1,Home,5,11,1105,5,DF,Tarek Salman,Tarek Salman S,Salman,Tarek,5/12/1997,Al Sadd SC (QAT),179
+1,Qatar,1,Home,6,11,1106,6,MC,Abdulaziz Hatem,Abdelaziz Hatim A,Mohamed,A. Hatem,1/1/1990,Al Rayyan SC (QAT),182
+1,Qatar,1,Home,7,11,1107,8,MC,Ali Asad,Ali Asadalla Q B,Thaimn,Ali,19/1/1993,Al Sadd SC (QAT),174
+1,Qatar,1,Home,8,11,1108,10,MC,Hassan Alhaydos,Hasan Khalid H,Alhaydos,Alhaydos,11/12/1990,Al Sadd SC (QAT),174
+1,Qatar,1,Home,9,11,1109,11,DC,Akram Afif,Akram Hassan A Y,Afif,Afif,18/11/1996,Al Sadd SC (QAT),176
+1,Qatar,1,Home,10,11,1110,12,MC,Karim Boudiaf,Karim,Boudiaf,Boudiaf,16/9/1990,Al Duhail SC (QAT),190
+1,Qatar,1,Home,11,11,1111,14,DF,Homam Ahmed,Homam Elamin M,Ahmed,Homam,25/8/1999,Al Gharafa SC (QAT),188
+1,Qatar,1,Home,12,11,1112,15,DF,Bassam Alrawi,Bassam Husham A,Alrawi,Bassam,16/12/1997,Al Duhail SC (QAT),175
+1,Qatar,1,Home,13,11,1113,16,DF,Boualem Khoukhi,Boualem,Khoukhi,Khoukhi,9/7/1990,Al Sadd SC (QAT),185
+1,Qatar,1,Home,14,11,1114,17,DF,Ismail Mohamad,Ismail Mohamad M,B,Ismail M.,5/4/1990,Al Duhail SC (QAT),172
+1,Qatar,1,Home,15,11,1115,7,DC,Ahmed Alaaeldin,Ahmed Alaaeldin B M,Abdelmotaal,Alaadin,31/1/1993,Al Gharafa SC (QAT),176
+1,Qatar,1,Home,16,15,1116,9,DC,Mohammed Muntari,Mohammed,Muntari,Muntari,20/12/1993,Al Duhail SC (QAT),192
+1,Qatar,1,Home,17,15,1117,13,DF,Musaab Khidir,Musaab Khidir K,Mohamed,Musaab,1/1/1993,Al Sadd SC (QAT),176
+1,Qatar,1,Home,18,15,1118,18,DC,Khalid Muneer,Khalid Muneer A A,Mazeed,K. Muneer,24/2/1998,Al Wakrah SC (QAT),174
+1,Qatar,1,Home,19,15,1119,20,MC,Salem Alhajri,Salem Ali S S,Al-Hajri,Salem,10/4/1996,Al Sadd SC (QAT),183
+1,Qatar,1,Home,20,15,1120,23,MC,Assim Madibo,Assim Omer A,Madibo,Madibo,22/10/1996,Al Duhail SC (QAT),168
+1,Qatar,1,Home,21,15,1121,24,MC,Naif Alhadhrami,Naif Abdulraheem O,Alhadhrami,Nayef,18/7/2001,Al Rayyan SC (QAT),180
+1,Qatar,1,Home,22,15,1122,25,MC,Jassem Gaber,Jassem Gaber E,Abdulsallam,Jassem,20/2/2002,Al Arabi SC (QAT),182
+1,Qatar,1,Home,23,15,1123,26,MC,Moustafa Tarek,Moustafa Tarek M M,Mashal,Mustafa,28/3/2001,Al Sadd SC (QAT),174
+1,Qatar,2,Away,1,7,1201,19,DC,Almoez Ali,Almoez Ali Zainelabdeen M,Abdulla,Almoez,19/8/1996,Al Duhail SC (QAT),180
+1,Qatar,2,Away,2,16,1202,2,DF,Pedro Miguel,Pedro Miguel D D,Correia,Pedro,6/8/1990,Al Sadd SC (QAT),180
+1,Qatar,2,Away,3,16,1203,3,MC,Abdelkarim Hassan,Abdelkarim Hassan A,Fadlalla,Abdelkarim,28/8/1993,Al Sadd SC (QAT),185
+1,Qatar,2,Away,4,16,1204,4,DF,Mohammed Waad,Mohammed Waad A,Albayati,Waad,18/9/1999,Al Sadd SC (QAT),183
+1,Qatar,2,Away,5,16,1205,5,DF,Tarek Salman,Tarek Salman S,Salman,Tarek,5/12/1997,Al Sadd SC (QAT),179
+1,Qatar,2,Away,6,16,1206,6,MC,Abdulaziz Hatem,Abdelaziz Hatim A,Mohamed,A. Hatem,1/1/1990,Al Rayyan SC (QAT),182
+1,Qatar,2,Away,7,16,1207,8,MC,Ali Asad,Ali Asadalla Q B,Thaimn,Ali,19/1/1993,Al Sadd SC (QAT),174
+1,Qatar,2,Away,8,16,1208,10,MC,Hassan Alhaydos,Hasan Khalid H,Alhaydos,Alhaydos,11/12/1990,Al Sadd SC (QAT),174
+1,Qatar,2,Away,9,16,1209,11,DC,Akram Afif,Akram Hassan A Y,Afif,Afif,18/11/1996,Al Sadd SC (QAT),176
+1,Qatar,2,Away,10,16,1210,12,MC,Karim Boudiaf,Karim,Boudiaf,Boudiaf,16/9/1990,Al Duhail SC (QAT),190
+1,Qatar,2,Away,11,16,1211,14,DF,Homam Ahmed,Homam Elamin M,Ahmed,Homam,25/8/1999,Al Gharafa SC (QAT),188
+1,Qatar,2,Away,12,16,1212,15,DF,Bassam Alrawi,Bassam Husham A,Alrawi,Bassam,16/12/1997,Al Duhail SC (QAT),175
+1,Qatar,2,Away,13,16,1213,16,DF,Boualem Khoukhi,Boualem,Khoukhi,Khoukhi,9/7/1990,Al Sadd SC (QAT),185
+1,Qatar,2,Away,14,16,1214,17,DF,Ismail Mohamad,Ismail Mohamad M,B,Ismail M.,5/4/1990,Al Duhail SC (QAT),172
+1,Qatar,2,Away,15,16,1215,7,DC,Ahmed Alaaeldin,Ahmed Alaaeldin B M,Abdelmotaal,Alaadin,31/1/1993,Al Gharafa SC (QAT),176
+1,Qatar,2,Away,16,22,1216,9,DC,Mohammed Muntari,Mohammed,Muntari,Muntari,20/12/1993,Al Duhail SC (QAT),192
+1,Qatar,2,Away,17,22,1217,13,DF,Musaab Khidir,Musaab Khidir K,Mohamed,Musaab,1/1/1993,Al Sadd SC (QAT),176
+1,Qatar,2,Away,18,22,1218,18,DC,Khalid Muneer,Khalid Muneer A A,Mazeed,K. Muneer,24/2/1998,Al Wakrah SC (QAT),174
+1,Qatar,2,Away,19,22,1219,20,MC,Salem Alhajri,Salem Ali S S,Al-Hajri,Salem,10/4/1996,Al Sadd SC (QAT),183
+1,Qatar,2,Away,20,22,1220,23,MC,Assim Madibo,Assim Omer A,Madibo,Madibo,22/10/1996,Al Duhail SC (QAT),168
+1,Qatar,2,Away,21,22,1221,24,MC,Naif Alhadhrami,Naif Abdulraheem O,Alhadhrami,Nayef,18/7/2001,Al Rayyan SC (QAT),180
+1,Qatar,2,Away,22,22,1222,25,MC,Jassem Gaber,Jassem Gaber E,Abdulsallam,Jassem,20/2/2002,Al Arabi SC (QAT),182
+1,Qatar,2,Away,23,22,1223,26,MC,Moustafa Tarek,Moustafa Tarek M M,Mashal,Mustafa,28/3/2001,Al Sadd SC (QAT),174
+1,Qatar,3,Goalkeeper,1,83,1301,1,PO,Saad Alsheeb,Saad Abdulla M E,Alsheeb,Alsheeb,19/2/1990,Al Sadd SC (QAT),188
+1,Qatar,3,Goalkeeper,2,165,1302,21,PO,Yousof Hassan,Yousof Hassan M,Ali,Yousof,24/5/1996,Al Gharafa SC (QAT),186
+1,Qatar,3,Goalkeeper,3,165,1303,22,PO,Meshaal Barsham,Meshaal Aissa M,Barsham,Barsham,14/2/1998,Al Sadd SC (QAT),180
+2,Ecuador,1,Home,1,7,2101,23,MC,Caicedo Moises,Moises Isaac,Caicedo Corozo,Caicedo,2/11/2001,Brighton & Hove Albion FC (ENG),178
+2,Ecuador,1,Home,2,16,2102,3,DF,Hincapie Piero,Piero Martin,Hincapie Reyna,Hincapie,9/1/2002,Bayer 04 Leverkusen (GER),183
+2,Ecuador,1,Home,3,16,2103,4,DF,Arboleda Robert,Robert Abel,Arboleda Escobar,Arboleda,22/10/1991,Sao Paulo FC (BRA),189
+2,Ecuador,1,Home,4,16,2104,5,MC,Cifuentes Jose,Jose Adoni,Cifuentes Charcopa,Cifuentes,12/3/1999,Los Angeles FC (USA),178
+2,Ecuador,1,Home,5,16,2105,7,DF,Estupinan Pervis,Pervis Josue,Estupiñán Tenorio,Estupiñan,21/1/1998,Brighton & Hove Albion FC (ENG),175
+2,Ecuador,1,Home,6,16,2106,8,MC,Gruezo Carlos,Carlos Armando,Gruezo Arvoleda,Gruezo,19/4/1995,FC Augsburg (GER),172
+2,Ecuador,1,Home,7,16,2107,10,MC,Ibarra Romario,Romario Andres,Ibarra Mina,Ibarra,24/9/1994,CF Pachuca (MEX),175
+2,Ecuador,1,Home,8,16,2108,11,DC,Estrada Michael,Michael Steveen,Estrada Martínez,Estrada,7/4/1996,Cruz Azul (MEX),187
+2,Ecuador,1,Home,9,16,2109,13,DC,Valencia Enner,Enner Remberto,Valencia Lastra,Valencia,4/11/1989,Fenerbahce SK (TUR),177
+2,Ecuador,1,Home,10,16,2110,15,MC,Mena Angel,Angel Israel,Mena Delgado,Mena,21/1/1988,Club León (MEX),168
+2,Ecuador,1,Home,11,16,2111,17,DF,Preciado Angelo,Angelo Smit,Preciado Quiñonez,Angelo,18/2/1998,KRC Genk (BEL),174
+2,Ecuador,1,Home,12,16,2112,19,MC,Plata Gonzalo,Gonzalo Jordy,Plata Jimenez,Plata,1/11/2000,Real Valladolid CF (ESP),178
+2,Ecuador,1,Home,13,16,2113,21,MC,Franco Alan,Alan Steven,Franco Palma,Franco,21/8/1998,CA Talleres (ARG),175
+2,Ecuador,1,Home,14,16,2114,25,DF,Porozo Jackson,Jackson Gabriel,Porozo Vernaza,Porozo,4/8/2000,ES Troyes (FRA),191
+2,Ecuador,1,Home,15,16,2115,2,DF,Torres Felix,Felix Eduardo,Torres Caicedo,Torres,11/1/1997,Club Santos Laguna (MEX),187
+2,Ecuador,1,Home,16,22,2116,6,DF,Pacho William,William Joel,Pacho Tenorio,Pacho,16/10/2001,Royal Antwerp FC (BEL),188
+2,Ecuador,1,Home,17,22,2117,9,MC,Preciado Ayrton,Eduar Ayrton,Preciado Garcia,Ayrton P.,17/7/1994,Club Santos Laguna (MEX),181
+2,Ecuador,1,Home,18,22,2118,14,DF,Arreaga Xavier,Xavier Ricardo,Arreaga Bermello,Arreaga,28/9/1994,Seattle Sounders FC (USA),184
+2,Ecuador,1,Home,19,22,2119,16,MC,Sarmiento Jeremy,Jeremy Leonel,Sarmiento Morante,Sarmiento,16/6/2002,Brighton & Hove Albion FC (ENG),178
+2,Ecuador,1,Home,20,22,2120,18,DF,Palacios Diego,Diego Jose,Palacios Espinoza,Palacios,12/7/1999,Los Angeles FC (USA),169
+2,Ecuador,1,Home,21,22,2121,20,MC,Mendez Jhegson,Jhegson Sebastián,Méndez Carabalí,Mendez,26/4/1997,Los Angeles FC (USA),175
+2,Ecuador,1,Home,22,22,2122,24,DC,Reasco Djorkaeff,Djorkaeff Neicer,Reasco Gonzalez,Reasco,18/1/1999,CA Newells Old Boys (ARG),172
+2,Ecuador,1,Home,23,22,2123,26,DC,Rodriguez Kevin,Kevin Jose,Rodriguez Cortez,K. Rodriguez,4/3/2000,Imbabura SC (ECU),190
+2,Ecuador,2,Away,1,5,2201,23,MC,Caicedo Moises,Moises Isaac,Caicedo Corozo,Caicedo,2/11/2001,Brighton & Hove Albion FC (ENG),178
+2,Ecuador,2,Away,2,11,2202,3,DF,Hincapie Piero,Piero Martin,Hincapie Reyna,Hincapie,9/1/2002,Bayer 04 Leverkusen (GER),183
+2,Ecuador,2,Away,3,11,2203,4,DF,Arboleda Robert,Robert Abel,Arboleda Escobar,Arboleda,22/10/1991,Sao Paulo FC (BRA),189
+2,Ecuador,2,Away,4,11,2204,5,MC,Cifuentes Jose,Jose Adoni,Cifuentes Charcopa,Cifuentes,12/3/1999,Los Angeles FC (USA),178
+2,Ecuador,2,Away,5,11,2205,7,DF,Estupinan Pervis,Pervis Josue,Estupiñán Tenorio,Estupiñan,21/1/1998,Brighton & Hove Albion FC (ENG),175
+2,Ecuador,2,Away,6,11,2206,8,MC,Gruezo Carlos,Carlos Armando,Gruezo Arvoleda,Gruezo,19/4/1995,FC Augsburg (GER),172
+2,Ecuador,2,Away,7,11,2207,10,MC,Ibarra Romario,Romario Andres,Ibarra Mina,Ibarra,24/9/1994,CF Pachuca (MEX),175
+2,Ecuador,2,Away,8,11,2208,11,DC,Estrada Michael,Michael Steveen,Estrada Martínez,Estrada,7/4/1996,Cruz Azul (MEX),187
+2,Ecuador,2,Away,9,11,2209,13,DC,Valencia Enner,Enner Remberto,Valencia Lastra,Valencia,4/11/1989,Fenerbahce SK (TUR),177
+2,Ecuador,2,Away,10,11,2210,15,MC,Mena Angel,Angel Israel,Mena Delgado,Mena,21/1/1988,Club León (MEX),168
+2,Ecuador,2,Away,11,11,2211,17,DF,Preciado Angelo,Angelo Smit,Preciado Quiñonez,Angelo,18/2/1998,KRC Genk (BEL),174
+2,Ecuador,2,Away,12,11,2212,19,MC,Plata Gonzalo,Gonzalo Jordy,Plata Jimenez,Plata,1/11/2000,Real Valladolid CF (ESP),178
+2,Ecuador,2,Away,13,11,2213,21,MC,Franco Alan,Alan Steven,Franco Palma,Franco,21/8/1998,CA Talleres (ARG),175
+2,Ecuador,2,Away,14,11,2214,25,DF,Porozo Jackson,Jackson Gabriel,Porozo Vernaza,Porozo,4/8/2000,ES Troyes (FRA),191
+2,Ecuador,2,Away,15,11,2215,2,DF,Torres Felix,Felix Eduardo,Torres Caicedo,Torres,11/1/1997,Club Santos Laguna (MEX),187
+2,Ecuador,2,Away,16,15,2216,6,DF,Pacho William,William Joel,Pacho Tenorio,Pacho,16/10/2001,Royal Antwerp FC (BEL),188
+2,Ecuador,2,Away,17,15,2217,9,MC,Preciado Ayrton,Eduar Ayrton,Preciado Garcia,Ayrton P.,17/7/1994,Club Santos Laguna (MEX),181
+2,Ecuador,2,Away,18,15,2218,14,DF,Arreaga Xavier,Xavier Ricardo,Arreaga Bermello,Arreaga,28/9/1994,Seattle Sounders FC (USA),184
+2,Ecuador,2,Away,19,15,2219,16,MC,Sarmiento Jeremy,Jeremy Leonel,Sarmiento Morante,Sarmiento,16/6/2002,Brighton & Hove Albion FC (ENG),178
+2,Ecuador,2,Away,20,15,2220,18,DF,Palacios Diego,Diego Jose,Palacios Espinoza,Palacios,12/7/1999,Los Angeles FC (USA),169
+2,Ecuador,2,Away,21,15,2221,20,MC,Mendez Jhegson,Jhegson Sebastián,Méndez Carabalí,Mendez,26/4/1997,Los Angeles FC (USA),175
+2,Ecuador,2,Away,22,15,2222,24,DC,Reasco Djorkaeff,Djorkaeff Neicer,Reasco Gonzalez,Reasco,18/1/1999,CA Newells Old Boys (ARG),172
+2,Ecuador,2,Away,23,15,2223,26,DC,Rodriguez Kevin,Kevin Jose,Rodriguez Cortez,K. Rodriguez,4/3/2000,Imbabura SC (ECU),190
+2,Ecuador,3,Goalkeeper,1,55,2301,1,PO,Galindez Hernan,Hernan Ismael,Galindez,Galindez,30/3/1987,SD Aucas (ECU),189
+2,Ecuador,3,Goalkeeper,2,110,2302,12,PO,Ramirez Moises,Wellington Moises,Ramírez Preciado,Ramirez,9/9/2000,Independiente Del Valle (ECU),185
+2,Ecuador,3,Goalkeeper,3,110,2303,22,PO,Dominguez Alexander,Alexander,Dominguez Carabali,Dominguez,5/6/1987,LDU Quito (ECU),195
+3,Senegal,1,Home,1,2,3101,10,DC,Mane Sadio,Sadio,Mané,Mané,10/4/1992,FC Bayern München (GER),175
+3,Senegal,1,Home,2,5,3102,2,DF,Jakobs Ismail,Ismail Joshua,Jakobs,Jakobs,17/8/1999,AS Monaco (FRA),184
+3,Senegal,1,Home,3,5,3103,3,DF,Koulibaly Kalidou,Kalidou,Koulibaly,Koulibaly,20/6/1991,Chelsea FC (ENG),195
+3,Senegal,1,Home,4,5,3104,4,DF,Diallo Abdou,Abdou Lakhad,Diallo,Diallo,4/5/1996,RB Leipzig (GER),187
+3,Senegal,1,Home,5,5,3105,5,MC,Gueye Idrissa Gana,Idrissa Gana,Gueye,Gana,26/9/1989,Everton FC (ENG),174
+3,Senegal,1,Home,6,5,3106,6,MC,Mendy Nampalys,Nampalys,Mendy,Nampalys,23/6/1992,Leicester City FC (ENG),167
+3,Senegal,1,Home,7,5,3107,8,DF,Kouyate Cheikhou,Cheikhou,Kouyate,Kouyate,21/12/1989,Nottingham Forest FC (ENG),189
+3,Senegal,1,Home,8,5,3108,12,DF,Cisse Pape Abou,Pape Abou,Cisse,Pape Abou,14/9/1995,Olympiacos Piraeus FC (GRE),192
+3,Senegal,1,Home,9,5,3109,15,MC,Diatta Krepin,Krépin,Diatta,K Diatta,25/2/1999,AS Monaco (FRA),173
+3,Senegal,1,Home,10,5,3110,17,MC,Sarr Pape Matar,Pape Matar,Sarr,Pape Sarr,14/9/2002,Tottenham Hotspur FC (ENG),185
+3,Senegal,1,Home,11,5,3111,18,DC,Sarr Ismaila,Ismaila,Sarr,I Sarr,25/2/1998,Watford FC (ENG),175
+3,Senegal,1,Home,12,5,3112,19,DC,Diedhiou Famara,Famara,Diedhiou,Diedhiou,15/12/1992,Alanyaspor (TUR),192
+3,Senegal,1,Home,13,5,3113,21,DC,Dia Boulaye,Boulaye,Dia,Dia,16/11/1996,US Salernitana (ITA),180
+3,Senegal,1,Home,14,5,3114,25,DC,Jackson Nicolas,Nicolas,Jackson,Jackson,20/6/2001,Villarreal CF (ESP),186
+3,Senegal,1,Home,15,5,3115,7,DF,Sabaly Youssouf,Youssouf,Sabaly,Sabaly,5/3/1993,Real Betis (ESP),174
+3,Senegal,1,Home,16,8,3116,9,DC,Ndiaye Iliman,Iliman Cheikh Baroy,Ndiaye,Iliman,6/3/2000,Sheffield United FC (ENG),180
+3,Senegal,1,Home,17,8,3117,11,DF,Mendy Formose,Formose,Mendy,Formose,2/1/2001,Amiens SC (FRA),191
+3,Senegal,1,Home,18,8,3118,13,MC,Gueye Pape,Pape Alassane,Gueye,Pape Gueye,24/1/1999,Olympique Marseille (FRA),189
+3,Senegal,1,Home,19,8,3119,14,DF,Name Moustapha,Moustapha,Name,Name,5/5/1995,Pafos FC (CYP),183
+3,Senegal,1,Home,20,8,3120,16,MC,Ciss Pathe,Ismaila Pathe,Ciss,Pathe,16/3/1994,Rayo Vallecano (ESP),186
+3,Senegal,1,Home,21,8,3121,20,DC,Dieng Bamba,Cheikh Ahmadou Bamba Mbacke,Dieng,Bamba,23/3/2000,Olympique Marseille (FRA),178
+3,Senegal,1,Home,22,8,3122,22,DF,Ballo-Toure Fode,Fode,Ballo,Fode Ballo,3/1/1997,AC Milan (ITA),182
+3,Senegal,1,Home,23,8,3123,24,MC,Ndiaye Mamadou Loum,Mamadou Loum,Ndiaye,Loum Ndiaye,30/12/1996,Reading FC (ENG),193
+3,Senegal,2,Away,1,5,3201,10,DC,Mane Sadio,Sadio,Mané,Mané,10/4/1992,FC Bayern München (GER),175
+3,Senegal,2,Away,2,22,3202,2,DF,Jakobs Ismail,Ismail Joshua,Jakobs,Jakobs,17/8/1999,AS Monaco (FRA),184
+3,Senegal,2,Away,3,22,3203,3,DF,Koulibaly Kalidou,Kalidou,Koulibaly,Koulibaly,20/6/1991,Chelsea FC (ENG),195
+3,Senegal,2,Away,4,22,3204,4,DF,Diallo Abdou,Abdou Lakhad,Diallo,Diallo,4/5/1996,RB Leipzig (GER),187
+3,Senegal,2,Away,5,22,3205,5,MC,Gueye Idrissa Gana,Idrissa Gana,Gueye,Gana,26/9/1989,Everton FC (ENG),174
+3,Senegal,2,Away,6,22,3206,6,MC,Mendy Nampalys,Nampalys,Mendy,Nampalys,23/6/1992,Leicester City FC (ENG),167
+3,Senegal,2,Away,7,22,3207,8,DF,Kouyate Cheikhou,Cheikhou,Kouyate,Kouyate,21/12/1989,Nottingham Forest FC (ENG),189
+3,Senegal,2,Away,8,22,3208,12,DF,Cisse Pape Abou,Pape Abou,Cisse,Pape Abou,14/9/1995,Olympiacos Piraeus FC (GRE),192
+3,Senegal,2,Away,9,22,3209,15,MC,Diatta Krepin,Krépin,Diatta,K Diatta,25/2/1999,AS Monaco (FRA),173
+3,Senegal,2,Away,10,22,3210,17,MC,Sarr Pape Matar,Pape Matar,Sarr,Pape Sarr,14/9/2002,Tottenham Hotspur FC (ENG),185
+3,Senegal,2,Away,11,22,3211,18,DC,Sarr Ismaila,Ismaila,Sarr,I Sarr,25/2/1998,Watford FC (ENG),175
+3,Senegal,2,Away,12,22,3212,19,DC,Diedhiou Famara,Famara,Diedhiou,Diedhiou,15/12/1992,Alanyaspor (TUR),192
+3,Senegal,2,Away,13,22,3213,21,DC,Dia Boulaye,Boulaye,Dia,Dia,16/11/1996,US Salernitana (ITA),180
+3,Senegal,2,Away,14,22,3214,25,DC,Jackson Nicolas,Nicolas,Jackson,Jackson,20/6/2001,Villarreal CF (ESP),186
+3,Senegal,2,Away,15,22,3215,7,DF,Sabaly Youssouf,Youssouf,Sabaly,Sabaly,5/3/1993,Real Betis (ESP),174
+3,Senegal,2,Away,16,30,3216,9,DC,Ndiaye Iliman,Iliman Cheikh Baroy,Ndiaye,Iliman,6/3/2000,Sheffield United FC (ENG),180
+3,Senegal,2,Away,17,30,3217,11,DF,Mendy Formose,Formose,Mendy,Formose,2/1/2001,Amiens SC (FRA),191
+3,Senegal,2,Away,18,30,3218,13,MC,Gueye Pape,Pape Alassane,Gueye,Pape Gueye,24/1/1999,Olympique Marseille (FRA),189
+3,Senegal,2,Away,19,30,3219,14,DF,Name Moustapha,Moustapha,Name,Name,5/5/1995,Pafos FC (CYP),183
+3,Senegal,2,Away,20,30,3220,16,MC,Ciss Pathe,Ismaila Pathe,Ciss,Pathe,16/3/1994,Rayo Vallecano (ESP),186
+3,Senegal,2,Away,21,30,3221,20,DC,Dieng Bamba,Cheikh Ahmadou Bamba Mbacke,Dieng,Bamba,23/3/2000,Olympique Marseille (FRA),178
+3,Senegal,2,Away,22,30,3222,22,DF,Ballo-Toure Fode,Fode,Ballo,Fode Ballo,3/1/1997,AC Milan (ITA),182
+3,Senegal,2,Away,23,30,3223,24,MC,Ndiaye Mamadou Loum,Mamadou Loum,Ndiaye,Loum Ndiaye,30/12/1996,Reading FC (ENG),193
+3,Senegal,3,Goalkeeper,1,110,3301,1,PO,Mendy Edouard,Edouard Osoque,Mendy,Mendy,1/3/1992,Chelsea FC (ENG),194
+3,Senegal,3,Goalkeeper,2,220,3302,23,PO,Dieng Seny,Seny Timothy,Dieng,Seny,23/11/1994,Queens Park Rangers FC (ENG),195
+3,Senegal,3,Goalkeeper,3,220,3303,26,PO,Gomis Alfred,Amigo Alfred Junior,Gomis,Gomis,5/9/1993,Stade Rennais FC (FRA),196
+4,Netherlands,1,Home,1,6,4101,4,DF,Van Dijk Virgil,Virgil,Van Dijk,Virgil,8/7/1991,Liverpool FC (ENG),195
+4,Netherlands,1,Home,2,22,4102,2,DF,Timber Jurrien,Jurriën David Norman,Timber,Timber,17/6/2001,AFC Ajax (NED),179
+4,Netherlands,1,Home,3,22,4103,3,DF,De Ligt Matthijs,Matthijs,De Ligt,De Ligt,12/8/1999,FC Bayern München (GER),187
+4,Netherlands,1,Home,4,22,4104,5,DF,Ake Nathan,Nathan Benjamin,Aké,Aké,18/2/1995,Manchester City FC (ENG),180
+4,Netherlands,1,Home,5,22,4105,7,DC,Bergwijn Steven,Steven Charles,Bergwijn,Bergwijn,8/10/1997,AFC Ajax (NED),175
+4,Netherlands,1,Home,6,22,4106,8,DC,Gakpo Cody,Cody Mathès,Gakpo,Gakpo,7/5/1999,PSV Eindhoven (NED),193
+4,Netherlands,1,Home,7,22,4107,10,DC,Depay Memphis,Memphis,Depay,Memphis,13/2/1994,FC Barcelona (ESP),178
+4,Netherlands,1,Home,8,22,4108,11,MC,Berghuis Steven,Steven,Berghuis,Berghuis,19/12/1991,AFC Ajax (NED),182
+4,Netherlands,1,Home,9,22,4109,14,MC,Klaassen Davy,Davy,Klaassen,Klaassen,21/2/1993,AFC Ajax (NED),179
+4,Netherlands,1,Home,10,22,4110,17,DF,Blind Daley,Daley,Blind,Blind,9/3/1990,AFC Ajax (NED),180
+4,Netherlands,1,Home,11,22,4111,18,DC,Janssen Vincent,Vincent Petrus Anna Sebastiaan,Janssen,Janssen,15/6/1994,Royal Antwerp FC (BEL),184
+4,Netherlands,1,Home,12,22,4112,20,MC,Koopmeiners Teun,Teun,Koopmeiners,Koopmeiners,28/2/1998,Atalanta Bergamo (ITA),184
+4,Netherlands,1,Home,13,22,4113,21,MC,De Jong Frenkie,Frenkie,De Jong,F. De Jong,12/5/1997,FC Barcelona (ESP),181
+4,Netherlands,1,Home,14,22,4114,22,DF,Dumfries Denzel,Denzel Justus Morris,Dumfries,Dumfries,18/4/1996,FC Internazionale (ITA),188
+4,Netherlands,1,Home,15,22,4115,6,DF,De Vrij Stefan,Stefan,De Vrij,De Vrij,5/2/1992,FC Internazionale (ITA),190
+4,Netherlands,1,Home,16,30,4116,9,DC,De Jong Luuk,Luuk,De Jong,L. De Jong,27/8/1990,PSV Eindhoven (NED),188
+4,Netherlands,1,Home,17,30,4117,12,DC,Lang Noa,Noa Noëll,Lang,Lang,17/6/1999,Club Brugge (BEL),176
+4,Netherlands,1,Home,18,30,4118,15,MC,De Roon Marten,Marten Elco,De Roon,De Roon,29/3/1991,Atalanta Bergamo (ITA),186
+4,Netherlands,1,Home,19,30,4119,16,DF,Malacia Tyrell,Tyrell Johannes Chicco,Malacia,Malacia,17/8/1999,Manchester United FC (ENG),170
+4,Netherlands,1,Home,20,30,4120,19,DC,Weghorst Wout,Wout François Maria,Weghorst,Weghorst,7/8/1992,Besiktas JK (TUR),197
+4,Netherlands,1,Home,21,30,4121,24,MC,Taylor Kenneth,Kenneth Ina Dorothea,Taylor,Taylor,16/5/2002,AFC Ajax (NED),182
+4,Netherlands,1,Home,22,30,4122,25,MC,Simons Xavi,Xavi Quentin Shay,Simons,Simons,21/4/2003,PSV Eindhoven (NED),179
+4,Netherlands,1,Home,23,30,4123,26,DF,Frimpong Jeremie,Jeremie Agyekum,Frimpong,Frimpong,10/12/2000,Bayer 04 Leverkusen (GER),171
+4,Netherlands,2,Away,1,2,4201,4,DF,Van Dijk Virgil,Virgil,Van Dijk,Virgil,8/7/1991,Liverpool FC (ENG),195
+4,Netherlands,2,Away,2,5,4202,2,DF,Timber Jurrien,Jurriën David Norman,Timber,Timber,17/6/2001,AFC Ajax (NED),179
+4,Netherlands,2,Away,3,5,4203,3,DF,De Ligt Matthijs,Matthijs,De Ligt,De Ligt,12/8/1999,FC Bayern München (GER),187
+4,Netherlands,2,Away,4,5,4204,5,DF,Ake Nathan,Nathan Benjamin,Aké,Aké,18/2/1995,Manchester City FC (ENG),180
+4,Netherlands,2,Away,5,5,4205,7,DC,Bergwijn Steven,Steven Charles,Bergwijn,Bergwijn,8/10/1997,AFC Ajax (NED),175
+4,Netherlands,2,Away,6,5,4206,8,DC,Gakpo Cody,Cody Mathès,Gakpo,Gakpo,7/5/1999,PSV Eindhoven (NED),193
+4,Netherlands,2,Away,7,5,4207,10,DC,Depay Memphis,Memphis,Depay,Memphis,13/2/1994,FC Barcelona (ESP),178
+4,Netherlands,2,Away,8,5,4208,11,MC,Berghuis Steven,Steven,Berghuis,Berghuis,19/12/1991,AFC Ajax (NED),182
+4,Netherlands,2,Away,9,5,4209,14,MC,Klaassen Davy,Davy,Klaassen,Klaassen,21/2/1993,AFC Ajax (NED),179
+4,Netherlands,2,Away,10,5,4210,17,DF,Blind Daley,Daley,Blind,Blind,9/3/1990,AFC Ajax (NED),180
+4,Netherlands,2,Away,11,5,4211,18,DC,Janssen Vincent,Vincent Petrus Anna Sebastiaan,Janssen,Janssen,15/6/1994,Royal Antwerp FC (BEL),184
+4,Netherlands,2,Away,12,5,4212,20,MC,Koopmeiners Teun,Teun,Koopmeiners,Koopmeiners,28/2/1998,Atalanta Bergamo (ITA),184
+4,Netherlands,2,Away,13,5,4213,21,MC,De Jong Frenkie,Frenkie,De Jong,F. De Jong,12/5/1997,FC Barcelona (ESP),181
+4,Netherlands,2,Away,14,5,4214,22,DF,Dumfries Denzel,Denzel Justus Morris,Dumfries,Dumfries,18/4/1996,FC Internazionale (ITA),188
+4,Netherlands,2,Away,15,5,4215,6,DF,De Vrij Stefan,Stefan,De Vrij,De Vrij,5/2/1992,FC Internazionale (ITA),190
+4,Netherlands,2,Away,16,8,4216,9,DC,De Jong Luuk,Luuk,De Jong,L. De Jong,27/8/1990,PSV Eindhoven (NED),188
+4,Netherlands,2,Away,17,8,4217,12,DC,Lang Noa,Noa Noëll,Lang,Lang,17/6/1999,Club Brugge (BEL),176
+4,Netherlands,2,Away,18,8,4218,15,MC,De Roon Marten,Marten Elco,De Roon,De Roon,29/3/1991,Atalanta Bergamo (ITA),186
+4,Netherlands,2,Away,19,8,4219,16,DF,Malacia Tyrell,Tyrell Johannes Chicco,Malacia,Malacia,17/8/1999,Manchester United FC (ENG),170
+4,Netherlands,2,Away,20,8,4220,19,DC,Weghorst Wout,Wout François Maria,Weghorst,Weghorst,7/8/1992,Besiktas JK (TUR),197
+4,Netherlands,2,Away,21,8,4221,24,MC,Taylor Kenneth,Kenneth Ina Dorothea,Taylor,Taylor,16/5/2002,AFC Ajax (NED),182
+4,Netherlands,2,Away,22,8,4222,25,MC,Simons Xavi,Xavi Quentin Shay,Simons,Simons,21/4/2003,PSV Eindhoven (NED),179
+4,Netherlands,2,Away,23,8,4223,26,DF,Frimpong Jeremie,Jeremie Agyekum,Frimpong,Frimpong,10/12/2000,Bayer 04 Leverkusen (GER),171
+4,Netherlands,3,Goalkeeper,1,28,4301,1,PO,Pasveer Remko,Remko Jurian,Pasveer,Pasveer,8/11/1983,AFC Ajax (NED),188
+4,Netherlands,3,Goalkeeper,2,55,4302,13,PO,Bijlow Justin,Justin,Bijlow,Bijlow,22/1/1998,Feyenoord Rotterdam (NED),188
+4,Netherlands,3,Goalkeeper,3,55,4303,23,PO,Noppert Andries,Andries,Noppert,Noppert,7/4/1994,SC Heerenveen (NED),203
+5,England,1,Home,1,2,5101,9,DC,Kane Harry,Harry Edward,Kane,Kane,28/7/1993,Tottenham Hotspur FC (ENG),188
+5,England,1,Home,2,5,5102,2,DF,Walker Kyle,Kyle Andrew,Walker,Walker,28/5/1990,Manchester City FC (ENG),178
+5,England,1,Home,3,5,5103,3,DF,Shaw Luke,Luke Paul,Shaw,Shaw,12/7/1995,Manchester United FC (ENG),185
+5,England,1,Home,4,5,5104,4,MC,Rice Declan,Declan,Rice,Rice,14/1/1999,West Ham United FC (ENG),185
+5,England,1,Home,5,5,5105,5,DF,Stones John,John,Stones,Stones,28/5/1994,Manchester City FC (ENG),188
+5,England,1,Home,6,5,5106,6,DF,Maguire Harry,Harry Jacob,Maguire,Maguire,5/3/1993,Manchester United FC (ENG),193
+5,England,1,Home,7,5,5107,7,DC,Grealish Jack,Jack Peter,Grealish,Grealish,10/9/1995,Manchester City FC (ENG),175
+5,England,1,Home,8,5,5108,10,DC,Sterling Raheem,Raheem,Sterling,Sterling,8/12/1994,Chelsea FC (ENG),170
+5,England,1,Home,9,5,5109,15,DF,Dier Eric,Eric Jeremy Edgar,Dier,Dier,15/1/1994,Tottenham Hotspur FC (ENG),188
+5,England,1,Home,10,5,5110,17,DC,Saka Bukayo,Bukayo Ayoyinka,Saka,Saka,5/9/2001,Arsenal FC (ENG),178
+5,England,1,Home,11,5,5111,18,DF,Alexander-Arnold Trent,Trent John,Alexander-Arnold,Alexander-Arnold,7/10/1998,Liverpool FC (ENG),175
+5,England,1,Home,12,5,5112,19,MC,Mount Mason,Mason Tony,Mount,Mount,10/1/1999,Chelsea FC (ENG),180
+5,England,1,Home,13,5,5113,20,MC,Foden Phil,Philip Walter,Foden,Foden,28/5/2000,Manchester City FC (ENG),180
+5,England,1,Home,14,5,5114,22,MC,Bellingham Jude,Jude Victor William,Bellingham,Bellingham,29/6/2003,Borussia Dortmund (GER),186
+5,England,1,Home,15,5,5115,8,MC,Henderson Jordan,Jordan Brian,Henderson,Henderson,17/6/1990,Liverpool FC (ENG),183
+5,England,1,Home,16,8,5116,11,DC,Rashford Marcus,Marcus,Rashford,Rashford,31/10/1997,Manchester United FC (ENG),180
+5,England,1,Home,17,8,5117,12,DF,Trippier Kieran,Kieran John,Trippier,Trippier,19/9/1990,Newcastle United FC (ENG),178
+5,England,1,Home,18,8,5118,14,MC,Phillips Kalvin,Kalvin Mark,Phillips,Phillips,2/12/1995,Manchester City FC (ENG),178
+5,England,1,Home,19,8,5119,16,DF,Coady Conor,Conor David,Coady,Coady,25/2/1993,Everton FC (ENG),184
+5,England,1,Home,20,8,5120,21,DF,White Ben,Benjamin William,White,White,8/10/1997,Arsenal FC (ENG),186
+5,England,1,Home,21,8,5121,24,DC,Wilson Callum,Callum Eddie Graham,Wilson,Wilson,27/2/1992,Newcastle United FC (ENG),180
+5,England,1,Home,22,8,5122,25,MC,Maddison James,James,Maddison,Maddison,23/11/1996,Leicester City FC (ENG),175
+5,England,1,Home,23,8,5123,26,MC,Gallagher Conor,Conor John,Gallagher,Gallagher,6/2/2000,Chelsea FC (ENG),183
+5,England,2,Away,1,7,5201,9,DC,Kane Harry,Harry Edward,Kane,Kane,28/7/1993,Tottenham Hotspur FC (ENG),188
+5,England,2,Away,2,16,5202,2,DF,Walker Kyle,Kyle Andrew,Walker,Walker,28/5/1990,Manchester City FC (ENG),178
+5,England,2,Away,3,16,5203,3,DF,Shaw Luke,Luke Paul,Shaw,Shaw,12/7/1995,Manchester United FC (ENG),185
+5,England,2,Away,4,16,5204,4,MC,Rice Declan,Declan,Rice,Rice,14/1/1999,West Ham United FC (ENG),185
+5,England,2,Away,5,16,5205,5,DF,Stones John,John,Stones,Stones,28/5/1994,Manchester City FC (ENG),188
+5,England,2,Away,6,16,5206,6,DF,Maguire Harry,Harry Jacob,Maguire,Maguire,5/3/1993,Manchester United FC (ENG),193
+5,England,2,Away,7,16,5207,7,DC,Grealish Jack,Jack Peter,Grealish,Grealish,10/9/1995,Manchester City FC (ENG),175
+5,England,2,Away,8,16,5208,10,DC,Sterling Raheem,Raheem,Sterling,Sterling,8/12/1994,Chelsea FC (ENG),170
+5,England,2,Away,9,16,5209,15,DF,Dier Eric,Eric Jeremy Edgar,Dier,Dier,15/1/1994,Tottenham Hotspur FC (ENG),188
+5,England,2,Away,10,16,5210,17,DC,Saka Bukayo,Bukayo Ayoyinka,Saka,Saka,5/9/2001,Arsenal FC (ENG),178
+5,England,2,Away,11,16,5211,18,DF,Alexander-Arnold Trent,Trent John,Alexander-Arnold,Alexander-Arnold,7/10/1998,Liverpool FC (ENG),175
+5,England,2,Away,12,16,5212,19,MC,Mount Mason,Mason Tony,Mount,Mount,10/1/1999,Chelsea FC (ENG),180
+5,England,2,Away,13,16,5213,20,MC,Foden Phil,Philip Walter,Foden,Foden,28/5/2000,Manchester City FC (ENG),180
+5,England,2,Away,14,16,5214,22,MC,Bellingham Jude,Jude Victor William,Bellingham,Bellingham,29/6/2003,Borussia Dortmund (GER),186
+5,England,2,Away,15,16,5215,8,MC,Henderson Jordan,Jordan Brian,Henderson,Henderson,17/6/1990,Liverpool FC (ENG),183
+5,England,2,Away,16,22,5216,11,DC,Rashford Marcus,Marcus,Rashford,Rashford,31/10/1997,Manchester United FC (ENG),180
+5,England,2,Away,17,22,5217,12,DF,Trippier Kieran,Kieran John,Trippier,Trippier,19/9/1990,Newcastle United FC (ENG),178
+5,England,2,Away,18,22,5218,14,MC,Phillips Kalvin,Kalvin Mark,Phillips,Phillips,2/12/1995,Manchester City FC (ENG),178
+5,England,2,Away,19,22,5219,16,DF,Coady Conor,Conor David,Coady,Coady,25/2/1993,Everton FC (ENG),184
+5,England,2,Away,20,22,5220,21,DF,White Ben,Benjamin William,White,White,8/10/1997,Arsenal FC (ENG),186
+5,England,2,Away,21,22,5221,24,DC,Wilson Callum,Callum Eddie Graham,Wilson,Wilson,27/2/1992,Newcastle United FC (ENG),180
+5,England,2,Away,22,22,5222,25,MC,Maddison James,James,Maddison,Maddison,23/11/1996,Leicester City FC (ENG),175
+5,England,2,Away,23,22,5223,26,MC,Gallagher Conor,Conor John,Gallagher,Gallagher,6/2/2000,Chelsea FC (ENG),183
+5,England,3,Goalkeeper,1,110,5301,1,PO,Pickford Jordan,Jordan Lee,Pickford,Pickford,7/3/1994,Everton FC (ENG),185
+5,England,3,Goalkeeper,2,220,5302,13,PO,Pope Nick,Nicholas David,Pope,Pope,19/4/1992,Newcastle United FC (ENG),191
+5,England,3,Goalkeeper,3,220,5303,23,PO,Ramsdale Aaron,Aaron Christopher,Ramsdale,Ramsdale,14/5/1998,Arsenal FC (ENG),188
+6,Iran,1,Home,1,7,6101,9,DC,Taremi Mehdi,Mehdi,Taremi,Taremi,18/7/1992,FC Porto (POR),185
+6,Iran,1,Home,2,16,6102,2,DF,Moharrami Sadegh,Sadegh,Moharrami Getgasari,Moharrami,1/3/1996,GNK Dinamo Zagreb (CRO),174
+6,Iran,1,Home,3,16,6103,3,DF,Hajisafi Ehsan,Ehsan,Haji Safi,E. Hajisafi,25/2/1990,AEK Athens (GRE),178
+6,Iran,1,Home,4,16,6104,4,DF,Khalilzadeh Shoja,Shojae,Khalilzadeh,Shoja,14/5/1989,Al Ahli SC (QAT),179
+6,Iran,1,Home,5,16,6105,5,DF,Mohammadi Milad,Milad,Mohammadi Keshmarzi,M. Mohammadi,29/9/1993,AEK Athens (GRE),178
+6,Iran,1,Home,6,16,6106,6,MC,Ezatolahi Saeid,Saeid,Ezatolahi Afagh,S. Ezatolahi,1/10/1996,Vejle BK (DEN),190
+6,Iran,1,Home,7,16,6107,7,MC,Jahanbakhsh Alireza,Alireza,Jahan Bakhsh Jirandeh,A. Jahanbakhsh,11/8/1993,Feyenoord Rotterdam (NED),181
+6,Iran,1,Home,8,16,6108,10,DC,Ansarifard Karim,Karim,Ansari Fard,Karim,3/4/1990,AC Omonia (CYP),186
+6,Iran,1,Home,9,16,6109,11,MC,Amiri Vahid,Vahid,Amiri,V. Amiri,2/4/1988,Perspolis Tehran (IRN),179
+6,Iran,1,Home,10,16,6110,13,DF,Kanani Hossein,Mohammadhossein,Kanani Zadegan,Kanani,23/3/1994,Al Ahli SC (QAT),188
+6,Iran,1,Home,11,16,6111,14,MC,Ghoddos Saman,Seyed Saman,Ghoddoos,Ghoddos,6/9/1993,Brentford FC (ENG),175
+6,Iran,1,Home,12,16,6112,17,MC,Gholizadeh Ali,Ali,Gholi Zadehnojehdeh,A. Gholizadeh,10/3/1996,Sporting Charleroi (BEL),176
+6,Iran,1,Home,13,16,6113,20,DC,Azmoun Sardar,Sardar,Azmoun,S. Azmoun,1/1/1995,Bayer 04 Leverkusen (GER),186
+6,Iran,1,Home,14,16,6114,25,DF,Jalali Abolfazl,Seyedabolfazl,Jalaliboorani,Jalali,26/6/1998,Esteghlal Tehran FC (IRN),177
+6,Iran,1,Home,15,16,6115,8,DF,Pouraliganji Morteza,Morteza,Pourali Ganji,M. Pouraliganji,19/4/1992,Perspolis Tehran (IRN),185
+6,Iran,1,Home,16,22,6116,15,DF,Cheshmi Roozbeh,Roozbeh,Cheshmi,Roozbeh,24/7/1993,Esteghlal Tehran FC (IRN),194
+6,Iran,1,Home,17,22,6117,16,MC,Torabi Mehdi,Mahdi,Torabi,M. Torabi,10/9/1994,Persepolis FC (IRN),180
+6,Iran,1,Home,18,22,6118,18,MC,Karimi Ali,Ali,Karimi,A. Karimi,11/2/1994,Kayserispor (TUR),185
+6,Iran,1,Home,19,22,6119,19,DF,Hosseini Majid,Seyedmajid,Hosseini,Majid,20/6/1996,Kayserispor (TUR),187
+6,Iran,1,Home,20,22,6120,21,MC,Noorollahi Ahmad,Ahmad,Noorollahi,Ahmad,1/2/1993,Shabab Al Ahli Club (UAE),185
+6,Iran,1,Home,21,22,6121,23,DF,Rezaeian Ramin,Ramin,Rezaeian Semeskandi,Ramin,21/3/1990,Sepahan FC (IRN),184
+6,Iran,1,Home,22,0,6122,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,Iran,1,Home,23,0,6123,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,Iran,2,Away,1,5,6201,9,DC,Taremi Mehdi,Mehdi,Taremi,Taremi,18/7/1992,FC Porto (POR),185
+6,Iran,2,Away,2,11,6202,2,DF,Moharrami Sadegh,Sadegh,Moharrami Getgasari,Moharrami,1/3/1996,GNK Dinamo Zagreb (CRO),174
+6,Iran,2,Away,3,11,6203,3,DF,Hajisafi Ehsan,Ehsan,Haji Safi,E. Hajisafi,25/2/1990,AEK Athens (GRE),178
+6,Iran,2,Away,4,11,6204,4,DF,Khalilzadeh Shoja,Shojae,Khalilzadeh,Shoja,14/5/1989,Al Ahli SC (QAT),179
+6,Iran,2,Away,5,11,6205,5,DF,Mohammadi Milad,Milad,Mohammadi Keshmarzi,M. Mohammadi,29/9/1993,AEK Athens (GRE),178
+6,Iran,2,Away,6,11,6206,6,MC,Ezatolahi Saeid,Saeid,Ezatolahi Afagh,S. Ezatolahi,1/10/1996,Vejle BK (DEN),190
+6,Iran,2,Away,7,11,6207,7,MC,Jahanbakhsh Alireza,Alireza,Jahan Bakhsh Jirandeh,A. Jahanbakhsh,11/8/1993,Feyenoord Rotterdam (NED),181
+6,Iran,2,Away,8,11,6208,10,DC,Ansarifard Karim,Karim,Ansari Fard,Karim,3/4/1990,AC Omonia (CYP),186
+6,Iran,2,Away,9,11,6209,11,MC,Amiri Vahid,Vahid,Amiri,V. Amiri,2/4/1988,Perspolis Tehran (IRN),179
+6,Iran,2,Away,10,11,6210,13,DF,Kanani Hossein,Mohammadhossein,Kanani Zadegan,Kanani,23/3/1994,Al Ahli SC (QAT),188
+6,Iran,2,Away,11,11,6211,14,MC,Ghoddos Saman,Seyed Saman,Ghoddoos,Ghoddos,6/9/1993,Brentford FC (ENG),175
+6,Iran,2,Away,12,11,6212,17,MC,Gholizadeh Ali,Ali,Gholi Zadehnojehdeh,A. Gholizadeh,10/3/1996,Sporting Charleroi (BEL),176
+6,Iran,2,Away,13,11,6213,20,DC,Azmoun Sardar,Sardar,Azmoun,S. Azmoun,1/1/1995,Bayer 04 Leverkusen (GER),186
+6,Iran,2,Away,14,11,6214,25,DF,Jalali Abolfazl,Seyedabolfazl,Jalaliboorani,Jalali,26/6/1998,Esteghlal Tehran FC (IRN),177
+6,Iran,2,Away,15,11,6215,8,DF,Pouraliganji Morteza,Morteza,Pourali Ganji,M. Pouraliganji,19/4/1992,Perspolis Tehran (IRN),185
+6,Iran,2,Away,16,15,6216,15,DF,Cheshmi Roozbeh,Roozbeh,Cheshmi,Roozbeh,24/7/1993,Esteghlal Tehran FC (IRN),194
+6,Iran,2,Away,17,15,6217,16,MC,Torabi Mehdi,Mahdi,Torabi,M. Torabi,10/9/1994,Persepolis FC (IRN),180
+6,Iran,2,Away,18,15,6218,18,MC,Karimi Ali,Ali,Karimi,A. Karimi,11/2/1994,Kayserispor (TUR),185
+6,Iran,2,Away,19,15,6219,19,DF,Hosseini Majid,Seyedmajid,Hosseini,Majid,20/6/1996,Kayserispor (TUR),187
+6,Iran,2,Away,20,15,6220,21,MC,Noorollahi Ahmad,Ahmad,Noorollahi,Ahmad,1/2/1993,Shabab Al Ahli Club (UAE),185
+6,Iran,2,Away,21,15,6221,23,DF,Rezaeian Ramin,Ramin,Rezaeian Semeskandi,Ramin,21/3/1990,Sepahan FC (IRN),184
+6,Iran,2,Away,22,0,6222,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,Iran,2,Away,23,0,6223,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,Iran,3,Goalkeeper,1,55,6301,22,PO,Abedzadeh Amir,Amir,Abedzadeh,Abedzadeh,26/4/1993,SD Ponferradina (ESP),186
+6,Iran,3,Goalkeeper,2,110,6302,1,PO,Beiranvand Alireza,Ali Reza,Safarbeiranvand,Alireza Beiranvand,21/9/1992,Perspolis Tehran (IRN),194
+6,Iran,3,Goalkeeper,3,110,6303,12,PO,Niazmand Payam,Seyed Payam,Niazmandghader,Payam,6/4/1995,Sepahan FC (IRN),194
+6,Iran,3,Goalkeeper,4,37,6304,24,PO,Hosseini Hossein,Seyed Hossein,Hosseini,H. Hosseini,30/6/1992,Esteghlal Tehran FC (IRN),187
+7,USA,1,Home,1,10,7101,10,DC,Pulisic Christian,Christian Mate,Pulisic,Pulisic,18/9/1998,Chelsea FC (ENG),179
+7,USA,1,Home,2,22,7102,2,DF,Dest Sergino,Sergino Gianni,Dest,Dest,3/11/2000,AC Milan (ITA),173
+7,USA,1,Home,3,22,7103,3,DF,Zimmerman Walker,Walker Dwain,Zimmerman,Zimmerman,19/5/1993,Nashville Soccer Club (USA),190
+7,USA,1,Home,4,22,7104,4,MC,Adams Tyler,Tyler Shaan,Adams,Adams,14/2/1999,Leeds United FC (ENG),175
+7,USA,1,Home,5,22,7105,5,DF,Robinson Antonee,Antonee,Robinson,Robinson,8/8/1997,Fulham FC (ENG),182
+7,USA,1,Home,6,22,7106,6,MC,Musah Yunus,Yunus Dimoara,Musah,Musah,29/11/2002,Valencia CF (ESP),177
+7,USA,1,Home,7,22,7107,7,DC,Reyna Giovanni,Giovanni Alejandro,Reyna,Reyna,13/11/2002,Borussia Dortmund (GER),185
+7,USA,1,Home,8,22,7108,8,MC,Mckennie Weston,Weston James Earl,Mckennie,Mckennie,28/8/1998,Juventus FC (ITA),185
+7,USA,1,Home,9,22,7109,9,DC,Ferreira Jesus,Jesus David,Ferreira Castro,Ferreira,24/12/2000,FC Dallas (USA),175
+7,USA,1,Home,10,22,7110,11,DC,Aaronson Brenden,Brenden Russell,Aaronson,Aaronson,22/10/2000,Leeds United FC (ENG),177
+7,USA,1,Home,11,22,7111,14,MC,De La Torre Luca,Lucas Daniel,De La Torre,De La Torre,23/5/1998,RC Celta Vigo (ESP),178
+7,USA,1,Home,12,22,7112,15,DF,Long Aaron,Aaron Ray,Long,Long,12/10/1992,New York Red Bulls (USA),188
+7,USA,1,Home,13,22,7113,16,DC,Morris Jordan,Jordan Perry,Morris,Morris,26/10/1994,Seattle Sounders FC (USA),183
+7,USA,1,Home,14,22,7114,17,MC,Roldan Cristian,Cristian,Roldan,Roldan,3/6/1995,Seattle Sounders FC (USA),172
+7,USA,1,Home,15,22,7115,13,DF,Ream Tim,Timothy Michael,Ream,Ream,5/10/1987,Fulham FC (ENG),185
+7,USA,1,Home,16,30,7116,18,DF,Moore Shaq,Shaquell Kwame,Moore,Moore,2/11/1996,Nashville Soccer Club (USA),180
+7,USA,1,Home,17,30,7117,19,DC,Wright Haji,Haji Amir,Wright,Wright,27/3/1998,Antalyaspor AS (TUR),191
+7,USA,1,Home,18,30,7118,20,DF,Carter-Vickers Cameron,Cameron Robert,Carter-Vickers,Carter-Vickers,31/12/1997,Celtic FC (SCO),185
+7,USA,1,Home,19,30,7119,21,DC,Weah Timothy,Timothy Tarpeh,Weah,Weah,22/2/2000,Lille OSC (FRA),182
+7,USA,1,Home,20,30,7120,22,DF,Yedlin Deandre,De Andre Roselle,Yedlin,Yedlin,9/7/1993,Inter Miami FC (USA),171
+7,USA,1,Home,21,30,7121,23,MC,Acosta Kellyn,Kellyn Kai,Perry-Acosta,Acosta,24/7/1995,Los Angeles FC (USA),177
+7,USA,1,Home,22,30,7122,24,DC,Sargent Josh,Joshua Thomas,Sargent,Sargent,20/2/2000,Norwich City FC (ENG),185
+7,USA,1,Home,23,30,7123,26,DF,Scally Joe,Joseph Michael,Scally,Scally,31/12/2002,VfL Borussia Mönchengladbach (GER),184
+7,USA,2,Away,1,2,7201,10,DC,Pulisic Christian,Christian Mate,Pulisic,Pulisic,18/9/1998,Chelsea FC (ENG),179
+7,USA,2,Away,2,5,7202,2,DF,Dest Sergino,Sergino Gianni,Dest,Dest,3/11/2000,AC Milan (ITA),173
+7,USA,2,Away,3,5,7203,3,DF,Zimmerman Walker,Walker Dwain,Zimmerman,Zimmerman,19/5/1993,Nashville Soccer Club (USA),190
+7,USA,2,Away,4,5,7204,4,MC,Adams Tyler,Tyler Shaan,Adams,Adams,14/2/1999,Leeds United FC (ENG),175
+7,USA,2,Away,5,5,7205,5,DF,Robinson Antonee,Antonee,Robinson,Robinson,8/8/1997,Fulham FC (ENG),182
+7,USA,2,Away,6,5,7206,6,MC,Musah Yunus,Yunus Dimoara,Musah,Musah,29/11/2002,Valencia CF (ESP),177
+7,USA,2,Away,7,5,7207,7,DC,Reyna Giovanni,Giovanni Alejandro,Reyna,Reyna,13/11/2002,Borussia Dortmund (GER),185
+7,USA,2,Away,8,5,7208,8,MC,Mckennie Weston,Weston James Earl,Mckennie,Mckennie,28/8/1998,Juventus FC (ITA),185
+7,USA,2,Away,9,5,7209,9,DC,Ferreira Jesus,Jesus David,Ferreira Castro,Ferreira,24/12/2000,FC Dallas (USA),175
+7,USA,2,Away,10,5,7210,11,DC,Aaronson Brenden,Brenden Russell,Aaronson,Aaronson,22/10/2000,Leeds United FC (ENG),177
+7,USA,2,Away,11,5,7211,14,MC,De La Torre Luca,Lucas Daniel,De La Torre,De La Torre,23/5/1998,RC Celta Vigo (ESP),178
+7,USA,2,Away,12,5,7212,15,DF,Long Aaron,Aaron Ray,Long,Long,12/10/1992,New York Red Bulls (USA),188
+7,USA,2,Away,13,5,7213,16,DC,Morris Jordan,Jordan Perry,Morris,Morris,26/10/1994,Seattle Sounders FC (USA),183
+7,USA,2,Away,14,5,7214,17,MC,Roldan Cristian,Cristian,Roldan,Roldan,3/6/1995,Seattle Sounders FC (USA),172
+7,USA,2,Away,15,5,7215,13,DF,Ream Tim,Timothy Michael,Ream,Ream,5/10/1987,Fulham FC (ENG),185
+7,USA,2,Away,16,8,7216,18,DF,Moore Shaq,Shaquell Kwame,Moore,Moore,2/11/1996,Nashville Soccer Club (USA),180
+7,USA,2,Away,17,8,7217,19,DC,Wright Haji,Haji Amir,Wright,Wright,27/3/1998,Antalyaspor AS (TUR),191
+7,USA,2,Away,18,8,7218,20,DF,Carter-Vickers Cameron,Cameron Robert,Carter-Vickers,Carter-Vickers,31/12/1997,Celtic FC (SCO),185
+7,USA,2,Away,19,8,7219,21,DC,Weah Timothy,Timothy Tarpeh,Weah,Weah,22/2/2000,Lille OSC (FRA),182
+7,USA,2,Away,20,8,7220,22,DF,Yedlin Deandre,De Andre Roselle,Yedlin,Yedlin,9/7/1993,Inter Miami FC (USA),171
+7,USA,2,Away,21,8,7221,23,MC,Acosta Kellyn,Kellyn Kai,Perry-Acosta,Acosta,24/7/1995,Los Angeles FC (USA),177
+7,USA,2,Away,22,8,7222,24,DC,Sargent Josh,Joshua Thomas,Sargent,Sargent,20/2/2000,Norwich City FC (ENG),185
+7,USA,2,Away,23,8,7223,26,DF,Scally Joe,Joseph Michael,Scally,Scally,31/12/2002,VfL Borussia Mönchengladbach (GER),184
+7,USA,3,Goalkeeper,1,83,7301,1,PO,Turner Matt,Matthew Charles,Turner,Turner,24/6/1994,Arsenal FC (ENG),190
+7,USA,3,Goalkeeper,2,165,7302,12,PO,Horvath Ethan,Ethan Shea,Horvath,Horvath,9/6/1995,Luton Town FC (ENG),193
+7,USA,3,Goalkeeper,3,165,7303,25,PO,Johnson Sean,Sean Everet,Johnson,Johnson,31/5/1989,New York City FC (USA),190
+8,Wales,1,Home,1,5,8101,11,DC,Bale Gareth,Gareth Frank,Bale,Bale,16/7/1989,Los Angeles FC (USA),186
+8,Wales,1,Home,2,11,8102,2,DF,Gunter Chris,Christopher Ross,Gunter,Gunter,21/7/1989,AFC Wimbledon (ENG),180
+8,Wales,1,Home,3,11,8103,3,DF,Williams Neco,Neco Shay,Williams,N Williams,13/4/2001,Nottingham Forest FC (ENG),183
+8,Wales,1,Home,4,11,8104,4,DF,Davies Ben,Benjamin,Thomas Davies,B Davies,24/4/1993,Tottenham Hotspur FC (ENG),181
+8,Wales,1,Home,5,11,8105,5,DF,Mepham Chris,Christopher James,Mepham,Mepham,5/11/1997,Bournemouth AFC (ENG),190
+8,Wales,1,Home,6,11,8106,6,DF,Rodon Joe,Joseph Peter,Rodon,Rodon,22/10/1997,Stade Rennais FC (FRA),193
+8,Wales,1,Home,7,11,8107,7,MC,Allen Joe,Joseph Michael,Allen,Allen,14/3/1990,Swansea City AFC (WAL),170
+8,Wales,1,Home,8,11,8108,8,MC,Wilson Harry,Harry,Wilson,Wilson,22/3/1997,Fulham FC (ENG),173
+8,Wales,1,Home,9,11,8109,9,DC,Johnson Brennan,Brennan Price,Johnson,Johnson,23/5/2001,Nottingham Forest FC (ENG),179
+8,Wales,1,Home,10,11,8110,10,MC,Ramsey Aaron,Aaron James,Ramsey,Ramsey,26/12/1990,OGC Nice (FRA),178
+8,Wales,1,Home,11,11,8111,13,DC,Moore Kieffer,Kieffer Roberto Francisco,Moore,Moore,8/8/1992,Bournemouth AFC (ENG),196
+8,Wales,1,Home,12,11,8112,14,DF,Roberts Connor,Connor Richard John,Roberts,Roberts,23/9/1995,Burnley FC (ENG),175
+8,Wales,1,Home,13,11,8113,15,DF,Ampadu Ethan,Ethan Kwame Colm Raymond,Ampadu,Ampadu,14/9/2000,Spezia Calcio (ITA),183
+8,Wales,1,Home,14,11,8114,20,DC,James Daniel,Daniel Owen,James,James,10/11/1997,Fulham FC (ENG),171
+8,Wales,1,Home,15,11,8115,16,MC,Morrell Joe,Joseff John,Morrell,Morrell,3/1/1997,Portsmouth FC (ENG),185
+8,Wales,1,Home,16,15,8116,17,DF,Lockyer Tom,Thomas Alun,Lockyer,Lockyer,3/12/1994,Luton Town FC (ENG),185
+8,Wales,1,Home,17,15,8117,18,MC,Williams Jonny,Jonathan Peter,Williams,J Williams,9/10/1993,Swindon Town FC (ENG),168
+8,Wales,1,Home,18,15,8118,19,DC,Harris Mark,Thomas Mark,Harris,Harris,29/12/1998,Cardiff City FC (WAL),182
+8,Wales,1,Home,19,15,8119,22,MC,Thomas Sorba,Benjamin Sorba William,Thomas,Thomas,25/1/1999,Huddersfield Town FC (ENG),185
+8,Wales,1,Home,20,15,8120,23,MC,Levitt Dylan,Dylan James Christopher,Levitt,Levitt,17/11/2000,Dundee United FC (SCO),180
+8,Wales,1,Home,21,15,8121,24,DF,Cabango Ben,Benjamin George,Cabango,Cabango,30/5/2000,Swansea City AFC (WAL),186
+8,Wales,1,Home,22,15,8122,25,DF,Colwill Rubin,Rubin James,Colwill,Colwill,27/4/2002,Cardiff City FC (WAL),169
+8,Wales,1,Home,23,15,8123,26,MC,Smith Matt,Matthew Robert,Smith,Smith,22/11/1999,MK Dons FC (ENG),175
+8,Wales,2,Away,1,5,8201,11,DC,Bale Gareth,Gareth Frank,Bale,Bale,16/7/1989,Los Angeles FC (USA),186
+8,Wales,2,Away,2,22,8202,2,DF,Gunter Chris,Christopher Ross,Gunter,Gunter,21/7/1989,AFC Wimbledon (ENG),180
+8,Wales,2,Away,3,22,8203,3,DF,Williams Neco,Neco Shay,Williams,N Williams,13/4/2001,Nottingham Forest FC (ENG),183
+8,Wales,2,Away,4,22,8204,4,DF,Davies Ben,Benjamin,Thomas Davies,B Davies,24/4/1993,Tottenham Hotspur FC (ENG),181
+8,Wales,2,Away,5,22,8205,5,DF,Mepham Chris,Christopher James,Mepham,Mepham,5/11/1997,Bournemouth AFC (ENG),190
+8,Wales,2,Away,6,22,8206,6,DF,Rodon Joe,Joseph Peter,Rodon,Rodon,22/10/1997,Stade Rennais FC (FRA),193
+8,Wales,2,Away,7,22,8207,7,MC,Allen Joe,Joseph Michael,Allen,Allen,14/3/1990,Swansea City AFC (WAL),170
+8,Wales,2,Away,8,22,8208,8,MC,Wilson Harry,Harry,Wilson,Wilson,22/3/1997,Fulham FC (ENG),173
+8,Wales,2,Away,9,22,8209,9,DC,Johnson Brennan,Brennan Price,Johnson,Johnson,23/5/2001,Nottingham Forest FC (ENG),179
+8,Wales,2,Away,10,22,8210,10,MC,Ramsey Aaron,Aaron James,Ramsey,Ramsey,26/12/1990,OGC Nice (FRA),178
+8,Wales,2,Away,11,22,8211,13,DC,Moore Kieffer,Kieffer Roberto Francisco,Moore,Moore,8/8/1992,Bournemouth AFC (ENG),196
+8,Wales,2,Away,12,22,8212,14,DF,Roberts Connor,Connor Richard John,Roberts,Roberts,23/9/1995,Burnley FC (ENG),175
+8,Wales,2,Away,13,22,8213,15,DF,Ampadu Ethan,Ethan Kwame Colm Raymond,Ampadu,Ampadu,14/9/2000,Spezia Calcio (ITA),183
+8,Wales,2,Away,14,22,8214,20,DC,James Daniel,Daniel Owen,James,James,10/11/1997,Fulham FC (ENG),171
+8,Wales,2,Away,15,22,8215,16,MC,Morrell Joe,Joseff John,Morrell,Morrell,3/1/1997,Portsmouth FC (ENG),185
+8,Wales,2,Away,16,30,8216,17,DF,Lockyer Tom,Thomas Alun,Lockyer,Lockyer,3/12/1994,Luton Town FC (ENG),185
+8,Wales,2,Away,17,30,8217,18,MC,Williams Jonny,Jonathan Peter,Williams,J Williams,9/10/1993,Swindon Town FC (ENG),168
+8,Wales,2,Away,18,30,8218,19,DC,Harris Mark,Thomas Mark,Harris,Harris,29/12/1998,Cardiff City FC (WAL),182
+8,Wales,2,Away,19,30,8219,22,MC,Thomas Sorba,Benjamin Sorba William,Thomas,Thomas,25/1/1999,Huddersfield Town FC (ENG),185
+8,Wales,2,Away,20,30,8220,23,MC,Levitt Dylan,Dylan James Christopher,Levitt,Levitt,17/11/2000,Dundee United FC (SCO),180
+8,Wales,2,Away,21,30,8221,24,DF,Cabango Ben,Benjamin George,Cabango,Cabango,30/5/2000,Swansea City AFC (WAL),186
+8,Wales,2,Away,22,30,8222,25,DF,Colwill Rubin,Rubin James,Colwill,Colwill,27/4/2002,Cardiff City FC (WAL),169
+8,Wales,2,Away,23,30,8223,26,MC,Smith Matt,Matthew Robert,Smith,Smith,22/11/1999,MK Dons FC (ENG),175
+8,Wales,3,Goalkeeper,1,28,8301,1,PO,Hennessey Wayne,Wayne Robert,Hennessey,Hennessey,24/1/1987,Nottingham Forest FC (ENG),198
+8,Wales,3,Goalkeeper,2,55,8302,12,PO,Ward Danny,Daniel,Ward,Ward,22/6/1993,Leicester City FC (ENG),191
+8,Wales,3,Goalkeeper,3,55,8303,21,PO,Davies Adam,Adam Rhys,Davies,A Davies,17/7/1992,Sheffield United FC (ENG),185
+9,Argentina,1,Home,1,5,9101,10,DC,Messi Lionel,Lionel Andres,Messi,Messi,24/6/1987,Paris Saint-Germain FC (FRA),170
+9,Argentina,1,Home,2,8,9102,3,DF,Tagliafico Nicolas,Nicolás Alejandro,Tagliafico,Tagliafico,31/8/1992,Olympique Lyon (FRA),172
+9,Argentina,1,Home,3,8,9103,5,MC,Paredes Leandro,Leandro Daniel,Paredes,Paredes,29/6/1994,Juventus FC (ITA),182
+9,Argentina,1,Home,4,16,9104,7,MC,De Paul Rodrigo,Rodrigo Javier,De Paul,De Paul,24/5/1994,CA Atlético Madrid (ESP),180
+9,Argentina,1,Home,5,16,9105,8,MC,Acuna Marcos,Marcos Javier,Acuña,Acuña,28/10/1991,Sevilla FC (ESP),172
+9,Argentina,1,Home,6,16,9106,9,DC,Alvarez Julian,Julian,Alvarez,J. Alvarez,31/1/2000,Manchester City FC (ENG),170
+9,Argentina,1,Home,7,16,9107,11,DC,Di Maria Angel,Angel Fabian,Di Maria,Di Maria,14/2/1988,Juventus FC (ITA),178
+9,Argentina,1,Home,8,16,9108,13,DF,Romero Cristian,Cristian Gabriel,Romero,Romero,27/4/1998,Tottenham Hotspur FC (ENG),185
+9,Argentina,1,Home,9,16,9109,15,DC,Gonzalez Nicolas,Nicolas Ivan,Gonzalez,N. Gonzalez,6/4/1998,ACF Fiorentina (ITA),180
+9,Argentina,1,Home,10,16,9110,17,MC,Gomez Alejandro,Alejandro Dario,Gómez,Gómez,15/2/1988,Sevilla FC (ESP),167
+9,Argentina,1,Home,11,16,9111,19,DF,Otamendi Nicolas,Nicolas Hernan Gonzalo,Otamendi,Otamendi,12/2/1988,SL Benfica (POR),183
+9,Argentina,1,Home,12,16,9112,21,DC,Dybala Paulo,Paulo Exequiel,Dybala,Dybala,15/11/1993,AS Roma (ITA),177
+9,Argentina,1,Home,13,16,9113,22,DC,Martinez Lautaro,Lautaro Javier,Martínez,L. Martínez,22/8/1997,FC Internazionale (ITA),175
+9,Argentina,1,Home,14,16,9114,26,DF,Molina Nahuel,Nahuel,Molina Lucero,Molina,6/4/1998,CA Atlético Madrid (ESP),178
+9,Argentina,1,Home,15,16,9115,2,DF,Foyth Juan,Juan Marcos,Foyth,Foyth,12/1/1998,Villarreal CF (ESP),188
+9,Argentina,1,Home,16,22,9116,4,DF,Montiel Gonzalo,Gonzalo Ariel,Montiel,Montiel,1/1/1997,Sevilla FC (ESP),175
+9,Argentina,1,Home,17,22,9117,6,DF,Pezzella German,Germán Alejo,Pezzella,Pezzella,27/6/1991,Real Betis (ESP),190
+9,Argentina,1,Home,18,22,9118,14,MC,Palacios Exequiel,Exequiel Alejandro,Palacios,Palacios,5/10/1998,Bayer 04 Leverkusen (GER),177
+9,Argentina,1,Home,19,22,9119,16,DC,Correa Joaquin,Carlos Joaquin,Correa,J. Correa,13/8/1994,FC Internazionale (ITA),188
+9,Argentina,1,Home,20,22,9120,18,MC,Rodriguez Guido,Guido,Rodriguez,G. Rodriguez,12/4/1994,Real Betis (ESP),186
+9,Argentina,1,Home,21,22,9121,20,MC,Mac Allister Alexis,Alexis,Mac Allister,Mac Allister,24/12/1998,Brighton & Hove Albion FC (ENG),176
+9,Argentina,1,Home,22,22,9122,24,MC,Fernandez Enzo,Enzo Jeremías,Fernández,E. Fernández,17/1/2001,SL Benfica (POR),178
+9,Argentina,1,Home,23,22,9123,25,DF,Martinez Lisandro,Lisandro,Martínez,Martínez,18/1/1998,Manchester United FC (ENG),175
+9,Argentina,2,Away,1,5,9201,10,DC,Messi Lionel,Lionel Andres,Messi,Messi,24/6/1987,Paris Saint-Germain FC (FRA),170
+9,Argentina,2,Away,2,11,9202,3,DF,Tagliafico Nicolas,Nicolás Alejandro,Tagliafico,Tagliafico,31/8/1992,Olympique Lyon (FRA),172
+9,Argentina,2,Away,3,11,9203,5,MC,Paredes Leandro,Leandro Daniel,Paredes,Paredes,29/6/1994,Juventus FC (ITA),182
+9,Argentina,2,Away,4,11,9204,7,MC,De Paul Rodrigo,Rodrigo Javier,De Paul,De Paul,24/5/1994,CA Atlético Madrid (ESP),180
+9,Argentina,2,Away,5,11,9205,8,MC,Acuna Marcos,Marcos Javier,Acuña,Acuña,28/10/1991,Sevilla FC (ESP),172
+9,Argentina,2,Away,6,11,9206,9,DC,Alvarez Julian,Julian,Alvarez,J. Alvarez,31/1/2000,Manchester City FC (ENG),170
+9,Argentina,2,Away,7,11,9207,11,DC,Di Maria Angel,Angel Fabian,Di Maria,Di Maria,14/2/1988,Juventus FC (ITA),178
+9,Argentina,2,Away,8,11,9208,13,DF,Romero Cristian,Cristian Gabriel,Romero,Romero,27/4/1998,Tottenham Hotspur FC (ENG),185
+9,Argentina,2,Away,9,11,9209,15,DC,Gonzalez Nicolas,Nicolas Ivan,Gonzalez,N. Gonzalez,6/4/1998,ACF Fiorentina (ITA),180
+9,Argentina,2,Away,10,11,9210,17,MC,Gomez Alejandro,Alejandro Dario,Gómez,Gómez,15/2/1988,Sevilla FC (ESP),167
+9,Argentina,2,Away,11,11,9211,19,DF,Otamendi Nicolas,Nicolas Hernan Gonzalo,Otamendi,Otamendi,12/2/1988,SL Benfica (POR),183
+9,Argentina,2,Away,12,11,9212,21,DC,Dybala Paulo,Paulo Exequiel,Dybala,Dybala,15/11/1993,AS Roma (ITA),177
+9,Argentina,2,Away,13,11,9213,22,DC,Martinez Lautaro,Lautaro Javier,Martínez,L. Martínez,22/8/1997,FC Internazionale (ITA),175
+9,Argentina,2,Away,14,11,9214,26,DF,Molina Nahuel,Nahuel,Molina Lucero,Molina,6/4/1998,CA Atlético Madrid (ESP),178
+9,Argentina,2,Away,15,11,9215,2,DF,Foyth Juan,Juan Marcos,Foyth,Foyth,12/1/1998,Villarreal CF (ESP),188
+9,Argentina,2,Away,16,15,9216,4,DF,Montiel Gonzalo,Gonzalo Ariel,Montiel,Montiel,1/1/1997,Sevilla FC (ESP),175
+9,Argentina,2,Away,17,15,9217,6,DF,Pezzella German,Germán Alejo,Pezzella,Pezzella,27/6/1991,Real Betis (ESP),190
+9,Argentina,2,Away,18,15,9218,14,MC,Palacios Exequiel,Exequiel Alejandro,Palacios,Palacios,5/10/1998,Bayer 04 Leverkusen (GER),177
+9,Argentina,2,Away,19,15,9219,16,DC,Correa Joaquin,Carlos Joaquin,Correa,J. Correa,13/8/1994,FC Internazionale (ITA),188
+9,Argentina,2,Away,20,15,9220,18,MC,Rodriguez Guido,Guido,Rodriguez,G. Rodriguez,12/4/1994,Real Betis (ESP),186
+9,Argentina,2,Away,21,15,9221,20,MC,Mac Allister Alexis,Alexis,Mac Allister,Mac Allister,24/12/1998,Brighton & Hove Albion FC (ENG),176
+9,Argentina,2,Away,22,15,9222,24,MC,Fernandez Enzo,Enzo Jeremías,Fernández,E. Fernández,17/1/2001,SL Benfica (POR),178
+9,Argentina,2,Away,23,15,9223,25,DF,Martinez Lisandro,Lisandro,Martínez,Martínez,18/1/1998,Manchester United FC (ENG),175
+9,Argentina,3,Goalkeeper,1,83,9301,23,PO,Martinez Emiliano,Damián Emiliano,Martínez,E. Martínez,2/9/1992,Aston Villa FC (ENG),195
+9,Argentina,3,Goalkeeper,2,165,9302,1,PO,Armani Franco,Franco,Armani,Armani,16/10/1986,CA River Plate (ARG),189
+9,Argentina,3,Goalkeeper,3,165,9303,12,PO,Rulli Geronimo,Geronimo,Rulli,Rulli,20/5/1992,Villarreal CF (ESP),189
+10,Saudi Arabia,1,Home,1,10,10101,10,DC,Salem Aldawsari,Salem Mohammed S,Aldawsari,Salem,19/8/1991,Al Hilal SFC (KSA),172
+10,Saudi Arabia,1,Home,2,22,10102,2,DF,Sultan Alghannam,Sultan Abdullah S,Alghannam,Sultan,6/5/1994,Al Nassr FC (KSA),173
+10,Saudi Arabia,1,Home,3,22,10103,3,DF,Abdullah Madu,Abdullah Mohammed M,Madu,Madu,15/7/1993,Al Nassr FC (KSA),187
+10,Saudi Arabia,1,Home,4,22,10104,4,DF,Abdulelah Alamri,Abdulelah Ali A,Alamri,Alamri,15/1/1997,Al Nassr FC (KSA),185
+10,Saudi Arabia,1,Home,5,22,10105,5,DF,Ali Albulayhi,Ali Hadi M,Al Bulayhi,Albulayhi,21/11/1989,Al Hilal SFC (KSA),182
+10,Saudi Arabia,1,Home,6,22,10106,9,DC,Feras Albrikan,Feras Tariq N,Albrikan,Feras,14/5/2000,Al Fateh SC (KSA),181
+10,Saudi Arabia,1,Home,7,22,10107,12,DF,Saud Abdulhamid,Saud Abdullah S,Abdulhamid,Saud,18/7/1999,Al Hilal SFC (KSA),171
+10,Saudi Arabia,1,Home,8,22,10108,13,DF,Yasser Alshahrani,Yasir Gharsan S,Alshahrani,Yasser,25/5/1992,Al Hilal SFC (KSA),171
+10,Saudi Arabia,1,Home,9,22,10109,15,MC,Ali Alhassan,Ali Sadiq N,Alhassan,Alhassan,4/3/1997,Al Nassr FC (KSA),182
+10,Saudi Arabia,1,Home,10,22,10110,16,MC,Sami Alnaji,Sami Khalil N,Alnaji,Sami,7/2/1997,Al Nassr FC (KSA),176
+10,Saudi Arabia,1,Home,11,22,10111,18,MC,Nawaf Alabid,Nawaf Shaker F,Alabid,Nawaf,26/1/1990,Al Shabab FC (KSA),169
+10,Saudi Arabia,1,Home,12,22,10112,19,DC,Hatan Bahbri,Hatan Sultan A,Bahbri,Hatan,16/7/1992,Al Shabab FC (KSA),172
+10,Saudi Arabia,1,Home,13,22,10113,24,MC,Nasser Aldawsari,Nasser Essa S,Aldawsari,Nasser,19/12/1998,Al Hilal SFC (KSA),178
+10,Saudi Arabia,1,Home,14,22,10114,26,MC,Riyadh Sharahili,Riyadh Mohammed M,Sharahili,Riyadh,28/4/1993,Abha Club (KSA),184
+10,Saudi Arabia,1,Home,15,22,10115,6,DF,Mohammed Alburayk,Mohammed Ibrahim M,Alburayk,Alburayk,15/9/1992,Al Hilal SFC (KSA),173
+10,Saudi Arabia,1,Home,16,30,10116,7,MC,Salman Alfaraj,Salman Mohammed M,Alfaraj,Salman,1/8/1989,Al Hilal SFC (KSA),180
+10,Saudi Arabia,1,Home,17,30,10117,8,MC,Abdulelah Almalki,Abdulelah Saad H,Almalki,Almalki,11/10/1994,Al Hilal SFC (KSA),176
+10,Saudi Arabia,1,Home,18,30,10118,11,DC,Saleh Alshehri,Saleh Khalid M,Alshehri,Saleh,1/11/1993,Al Hilal SFC (KSA),184
+10,Saudi Arabia,1,Home,19,30,10119,14,MC,Abdullah Otayf,Abdullah Ibrahim Y,Otayf,Otayf,3/8/1992,Al Hilal SFC (KSA),177
+10,Saudi Arabia,1,Home,20,30,10120,17,DF,Hassan Altambakti,Hassan Mohammed O,Altambakti,Altambakti,9/2/1999,Al Shabab FC (KSA),182
+10,Saudi Arabia,1,Home,21,30,10121,20,DC,Abdulrahman Alobud,Abdulrahman Ali H,Alobud,Alobud,1/6/1995,Al Ittihad FC (KSA),174
+10,Saudi Arabia,1,Home,22,30,10122,23,MC,Mohamed Kanno,Mohammed Ibrahim A,Kanno,Kanno,22/9/1994,Al Hilal SFC (KSA),192
+10,Saudi Arabia,1,Home,23,30,10123,25,DC,Haitham Asiri,Haitham Mohammed A,Asiri,Haitham,25/3/2001,Al Ahli SC (KSA),173
+10,Saudi Arabia,2,Away,1,2,10201,10,DC,Salem Aldawsari,Salem Mohammed S,Aldawsari,Salem,19/8/1991,Al Hilal SFC (KSA),172
+10,Saudi Arabia,2,Away,2,5,10202,2,DF,Sultan Alghannam,Sultan Abdullah S,Alghannam,Sultan,6/5/1994,Al Nassr FC (KSA),173
+10,Saudi Arabia,2,Away,3,5,10203,3,DF,Abdullah Madu,Abdullah Mohammed M,Madu,Madu,15/7/1993,Al Nassr FC (KSA),187
+10,Saudi Arabia,2,Away,4,5,10204,4,DF,Abdulelah Alamri,Abdulelah Ali A,Alamri,Alamri,15/1/1997,Al Nassr FC (KSA),185
+10,Saudi Arabia,2,Away,5,5,10205,5,DF,Ali Albulayhi,Ali Hadi M,Al Bulayhi,Albulayhi,21/11/1989,Al Hilal SFC (KSA),182
+10,Saudi Arabia,2,Away,6,5,10206,9,DC,Feras Albrikan,Feras Tariq N,Albrikan,Feras,14/5/2000,Al Fateh SC (KSA),181
+10,Saudi Arabia,2,Away,7,5,10207,12,DF,Saud Abdulhamid,Saud Abdullah S,Abdulhamid,Saud,18/7/1999,Al Hilal SFC (KSA),171
+10,Saudi Arabia,2,Away,8,5,10208,13,DF,Yasser Alshahrani,Yasir Gharsan S,Alshahrani,Yasser,25/5/1992,Al Hilal SFC (KSA),171
+10,Saudi Arabia,2,Away,9,5,10209,15,MC,Ali Alhassan,Ali Sadiq N,Alhassan,Alhassan,4/3/1997,Al Nassr FC (KSA),182
+10,Saudi Arabia,2,Away,10,5,10210,16,MC,Sami Alnaji,Sami Khalil N,Alnaji,Sami,7/2/1997,Al Nassr FC (KSA),176
+10,Saudi Arabia,2,Away,11,5,10211,18,MC,Nawaf Alabid,Nawaf Shaker F,Alabid,Nawaf,26/1/1990,Al Shabab FC (KSA),169
+10,Saudi Arabia,2,Away,12,5,10212,19,DC,Hatan Bahbri,Hatan Sultan A,Bahbri,Hatan,16/7/1992,Al Shabab FC (KSA),172
+10,Saudi Arabia,2,Away,13,5,10213,24,MC,Nasser Aldawsari,Nasser Essa S,Aldawsari,Nasser,19/12/1998,Al Hilal SFC (KSA),178
+10,Saudi Arabia,2,Away,14,5,10214,26,MC,Riyadh Sharahili,Riyadh Mohammed M,Sharahili,Riyadh,28/4/1993,Abha Club (KSA),184
+10,Saudi Arabia,2,Away,15,5,10215,6,DF,Mohammed Alburayk,Mohammed Ibrahim M,Alburayk,Alburayk,15/9/1992,Al Hilal SFC (KSA),173
+10,Saudi Arabia,2,Away,16,8,10216,7,MC,Salman Alfaraj,Salman Mohammed M,Alfaraj,Salman,1/8/1989,Al Hilal SFC (KSA),180
+10,Saudi Arabia,2,Away,17,8,10217,8,MC,Abdulelah Almalki,Abdulelah Saad H,Almalki,Almalki,11/10/1994,Al Hilal SFC (KSA),176
+10,Saudi Arabia,2,Away,18,8,10218,11,DC,Saleh Alshehri,Saleh Khalid M,Alshehri,Saleh,1/11/1993,Al Hilal SFC (KSA),184
+10,Saudi Arabia,2,Away,19,8,10219,14,MC,Abdullah Otayf,Abdullah Ibrahim Y,Otayf,Otayf,3/8/1992,Al Hilal SFC (KSA),177
+10,Saudi Arabia,2,Away,20,8,10220,17,DF,Hassan Altambakti,Hassan Mohammed O,Altambakti,Altambakti,9/2/1999,Al Shabab FC (KSA),182
+10,Saudi Arabia,2,Away,21,8,10221,20,DC,Abdulrahman Alobud,Abdulrahman Ali H,Alobud,Alobud,1/6/1995,Al Ittihad FC (KSA),174
+10,Saudi Arabia,2,Away,22,8,10222,23,MC,Mohamed Kanno,Mohammed Ibrahim A,Kanno,Kanno,22/9/1994,Al Hilal SFC (KSA),192
+10,Saudi Arabia,2,Away,23,8,10223,25,DC,Haitham Asiri,Haitham Mohammed A,Asiri,Haitham,25/3/2001,Al Ahli SC (KSA),173
+10,Saudi Arabia,3,Goalkeeper,1,28,10301,21,PO,Mohammed Alowais,Mohammed Khalil I,Alowais,Alowais,10/10/1991,Al Hilal SFC (KSA),185
+10,Saudi Arabia,3,Goalkeeper,2,55,10302,22,PO,Nawaf Alaqidi,Nawaf Dhahi F,Alaqidi,Alaqidi,10/5/2000,Al Nassr FC (KSA),186
+10,Saudi Arabia,3,Goalkeeper,3,55,10303,1,PO,Mohammed Alyami,Mohammed Faraj S,Alyami,Alyami,14/8/1997,Al Ahli SC (KSA),190
+11,Mexico,1,Home,1,2,11101,9,DC,Jimenez Raul,Raul Alonso,Jimenez Rodriguez,Raul,5/5/1991,Wolverhampton Wanderers FC (ENG),188
+11,Mexico,1,Home,2,5,11102,2,DF,Araujo Nestor,Nestor Alejandro,Araujo Razo,N. Araujo,29/8/1991,Club América (MEX),187
+11,Mexico,1,Home,3,5,11103,3,DF,Montes Cesar,Cesar Jasib,Montes Castro,C. Montes,24/2/1997,CF Monterrey (MEX),191
+11,Mexico,1,Home,4,5,11104,4,DF,Alvarez Edson,Edson Omar,Alvarez Velazquez,E. Alvarez,24/10/1997,AFC Ajax (NED),180
+11,Mexico,1,Home,5,5,11105,6,DF,Arteaga Gerardo,Gerardo Daniel,Arteaga Zamora,G. Arteaga,7/9/1998,KRC Genk (BEL),175
+11,Mexico,1,Home,6,5,11106,8,MC,Rodriguez Carlos,Carlos Alberto,Rodriguez Gomez,C. Rodriguez,3/1/1997,Cruz Azul (MEX),170
+11,Mexico,1,Home,7,5,11107,10,DC,Vega Alexis,Ernesto Alexis,Vega Rojas,A. Vega,25/11/1997,CD Guadalajara (MEX),175
+11,Mexico,1,Home,8,5,11108,14,MC,Gutierrez Erick,Erick Gabriel,Gutierrez Galaviz,E. Gutierrez,15/6/1995,PSV Eindhoven (NED),176
+11,Mexico,1,Home,9,5,11109,15,DF,Moreno Hector,Hector Alfredo,Moreno Herrera,H. Moreno,17/1/1988,CF Monterrey (MEX),182
+11,Mexico,1,Home,10,5,11110,16,MC,Herrera Hector,Hector Miguel,Herrera Lopez,H. Herrera,19/4/1990,Houston Dynamo (USA),180
+11,Mexico,1,Home,11,5,11111,18,MC,Guardado Andres,Jose Andres,Guardado Hernandez,A. Guardado,28/9/1986,Real Betis (ESP),167
+11,Mexico,1,Home,12,5,11112,20,DC,Martin Henry,Henry Josue,Martin Mex,H. Martin,18/11/1992,Club América (MEX),180
+11,Mexico,1,Home,13,5,11113,21,DC,Antuna Uriel,Carlos Uriel,Antuna Romero,U. Antuna,21/8/1997,Cruz Azul (MEX),167
+11,Mexico,1,Home,14,5,11114,22,DC,Lozano Hirving,Hirving Rodrigo,Lozano Bahena,H. Lozano,30/7/1995,SSC Napoli (ITA),176
+11,Mexico,1,Home,15,5,11115,5,DF,Vasquez Johan,Johan Felipe,Vasquez Ibarra,J. Vasquez,22/10/1998,US Cremonese (ITA),182
+11,Mexico,1,Home,16,8,11116,7,MC,Romo Luis,Luis Francisco,Romo Barron,L. Romo,5/6/1995,CF Monterrey (MEX),183
+11,Mexico,1,Home,17,8,11117,11,DC,Funes Mori Rogelio,Rogelio Gabriel,Funes Mori,R. Funes Mori,5/3/1991,CF Monterrey (MEX),186
+11,Mexico,1,Home,18,8,11118,17,DC,Pineda Orbelin,Orbelin,Pineda Alvarado,O. Pineda,24/3/1996,AEK Athens (GRE),169
+11,Mexico,1,Home,19,8,11119,19,DF,Sanchez Jorge,Jorge Eduardo,Sanchez Ramos,J. Sanchez,10/12/1997,AFC Ajax (NED),170
+11,Mexico,1,Home,20,8,11120,23,DF,Gallardo Jesus,Jesus Daniel,Gallardo Vasconcelos,J. Gallardo,15/8/1994,CF Monterrey (MEX),174
+11,Mexico,1,Home,21,8,11121,24,MC,Chavez Luis,Luis Gerardo,Chavez Magallon,L. Chavez,15/1/1996,CF Pachuca (MEX),178
+11,Mexico,1,Home,22,8,11122,25,DC,Alvarado Roberto,Roberto Carlos,Alvarado Hernández,R. Alvarado,7/9/1998,CD Guadalajara (MEX),176
+11,Mexico,1,Home,23,8,11123,26,DF,Alvarez Kevin,Kevin Nahin,Alvarez Campos,K. Alavrez,15/1/1999,CF Pachuca (MEX),176
+11,Mexico,2,Away,1,7,11201,9,DC,Jimenez Raul,Raul Alonso,Jimenez Rodriguez,Raul,5/5/1991,Wolverhampton Wanderers FC (ENG),188
+11,Mexico,2,Away,2,16,11202,2,DF,Araujo Nestor,Nestor Alejandro,Araujo Razo,N. Araujo,29/8/1991,Club América (MEX),187
+11,Mexico,2,Away,3,16,11203,3,DF,Montes Cesar,Cesar Jasib,Montes Castro,C. Montes,24/2/1997,CF Monterrey (MEX),191
+11,Mexico,2,Away,4,16,11204,4,DF,Alvarez Edson,Edson Omar,Alvarez Velazquez,E. Alvarez,24/10/1997,AFC Ajax (NED),180
+11,Mexico,2,Away,5,16,11205,6,DF,Arteaga Gerardo,Gerardo Daniel,Arteaga Zamora,G. Arteaga,7/9/1998,KRC Genk (BEL),175
+11,Mexico,2,Away,6,16,11206,8,MC,Rodriguez Carlos,Carlos Alberto,Rodriguez Gomez,C. Rodriguez,3/1/1997,Cruz Azul (MEX),170
+11,Mexico,2,Away,7,16,11207,10,DC,Vega Alexis,Ernesto Alexis,Vega Rojas,A. Vega,25/11/1997,CD Guadalajara (MEX),175
+11,Mexico,2,Away,8,16,11208,14,MC,Gutierrez Erick,Erick Gabriel,Gutierrez Galaviz,E. Gutierrez,15/6/1995,PSV Eindhoven (NED),176
+11,Mexico,2,Away,9,16,11209,15,DF,Moreno Hector,Hector Alfredo,Moreno Herrera,H. Moreno,17/1/1988,CF Monterrey (MEX),182
+11,Mexico,2,Away,10,16,11210,16,MC,Herrera Hector,Hector Miguel,Herrera Lopez,H. Herrera,19/4/1990,Houston Dynamo (USA),180
+11,Mexico,2,Away,11,16,11211,18,MC,Guardado Andres,Jose Andres,Guardado Hernandez,A. Guardado,28/9/1986,Real Betis (ESP),167
+11,Mexico,2,Away,12,16,11212,20,DC,Martin Henry,Henry Josue,Martin Mex,H. Martin,18/11/1992,Club América (MEX),180
+11,Mexico,2,Away,13,16,11213,21,DC,Antuna Uriel,Carlos Uriel,Antuna Romero,U. Antuna,21/8/1997,Cruz Azul (MEX),167
+11,Mexico,2,Away,14,16,11214,22,DC,Lozano Hirving,Hirving Rodrigo,Lozano Bahena,H. Lozano,30/7/1995,SSC Napoli (ITA),176
+11,Mexico,2,Away,15,16,11215,5,DF,Vasquez Johan,Johan Felipe,Vasquez Ibarra,J. Vasquez,22/10/1998,US Cremonese (ITA),182
+11,Mexico,2,Away,16,22,11216,7,MC,Romo Luis,Luis Francisco,Romo Barron,L. Romo,5/6/1995,CF Monterrey (MEX),183
+11,Mexico,2,Away,17,22,11217,11,DC,Funes Mori Rogelio,Rogelio Gabriel,Funes Mori,R. Funes Mori,5/3/1991,CF Monterrey (MEX),186
+11,Mexico,2,Away,18,22,11218,17,DC,Pineda Orbelin,Orbelin,Pineda Alvarado,O. Pineda,24/3/1996,AEK Athens (GRE),169
+11,Mexico,2,Away,19,22,11219,19,DF,Sanchez Jorge,Jorge Eduardo,Sanchez Ramos,J. Sanchez,10/12/1997,AFC Ajax (NED),170
+11,Mexico,2,Away,20,22,11220,23,DF,Gallardo Jesus,Jesus Daniel,Gallardo Vasconcelos,J. Gallardo,15/8/1994,CF Monterrey (MEX),174
+11,Mexico,2,Away,21,22,11221,24,MC,Chavez Luis,Luis Gerardo,Chavez Magallon,L. Chavez,15/1/1996,CF Pachuca (MEX),178
+11,Mexico,2,Away,22,22,11222,25,DC,Alvarado Roberto,Roberto Carlos,Alvarado Hernández,R. Alvarado,7/9/1998,CD Guadalajara (MEX),176
+11,Mexico,2,Away,23,22,11223,26,DF,Alvarez Kevin,Kevin Nahin,Alvarez Campos,K. Alavrez,15/1/1999,CF Pachuca (MEX),176
+11,Mexico,3,Goalkeeper,1,110,11301,13,PO,Ochoa Guillermo,Francisco Guillermo,Ochoa Magaña,G. Ochoa,13/7/1985,Club América (MEX),185
+11,Mexico,3,Goalkeeper,2,220,11302,1,PO,Talavera Alfredo,Alfredo,Talavera Diaz,A. Talavera,18/9/1982,FC Juárez (MEX),188
+11,Mexico,3,Goalkeeper,3,220,11303,12,PO,Cota Rodolfo,Rodolfo,Cota Robles,R. Cota,3/7/1987,Club León (MEX),188
+12,Poland,1,Home,1,5,12101,9,DC,Lewandowski Robert,Robert,Lewandowski,Lewandowski,21/8/1988,FC Barcelona (ESP),185
+12,Poland,1,Home,2,11,12102,2,DF,Cash Matty,Matthew Stuart,Cash,Cash,7/8/1997,Aston Villa FC (ENG),185
+12,Poland,1,Home,3,11,12103,5,DF,Bednarek Jan,Jan Kacper,Bednarek,Bednarek,12/4/1996,Aston Villa FC (ENG),189
+12,Poland,1,Home,4,11,12104,7,DC,Milik Arkadiusz,Arkadiusz Krystian,Milik,Milik,28/2/1994,Juventus FC (ITA),186
+12,Poland,1,Home,5,11,12105,10,MC,Krychowiak Grzegorz,Grzegorz,Krychowiak,Krychowiak,29/1/1990,Al Shabab FC (KSA),186
+12,Poland,1,Home,6,11,12106,14,DF,Kiwior Jakub,Jakub Piotr,Kiwior,Kiwior,15/2/2000,Spezia Calcio (ITA),189
+12,Poland,1,Home,7,11,12107,15,DF,Glik Kamil,Kamil Jacek,Glik,Glik,3/2/1988,Benevento Calcio (ITA),190
+12,Poland,1,Home,8,11,12108,16,DC,Swiderski Karol,Karol Grzegorz,Świderski,Świderski,23/1/1997,Charlotte FC (USA),184
+12,Poland,1,Home,9,11,12109,18,DF,Bereszynski Bartosz,Bartosz,Bereszyński,Bereszyński,12/7/1992,UC Sampdoria (ITA),182
+12,Poland,1,Home,10,11,12110,19,MC,Szymanski Sebastian,Sebastian,Szymański,S. Szymański,10/5/1999,Feyenoord Rotterdam (NED),174
+12,Poland,1,Home,11,11,12111,20,MC,Zielinski Piotr,Piotr Sebastian,Zieliński,Zieliński,20/5/1994,SSC Napoli (ITA),177
+12,Poland,1,Home,12,11,12112,21,MC,Zalewski Nicola,Nicola,Zalewski,Zalewski,23/1/2002,AS Roma (ITA),175
+12,Poland,1,Home,13,11,12113,24,MC,Frankowski Przemyslaw,Przemyslaw Adam,Frankowski,Frankowski,12/4/1995,RC Lens (FRA),175
+12,Poland,1,Home,14,11,12114,26,MC,Skoras Michal,Michał Krzysztof,Skóraś,Skóraś,15/2/2000,Lech Poznan (POL),172
+12,Poland,1,Home,15,11,12115,3,DF,Jedrzejczyk Artur,Artur Marcin,Jędrzejczyk,Jędrzejczyk,4/11/1987,Legia Warsaw (POL),189
+12,Poland,1,Home,16,15,12116,4,DF,Wieteska Mateusz,Mateusz,Wieteska,Wieteska,11/2/1997,Clermont Foot (FRA),187
+12,Poland,1,Home,17,15,12117,6,MC,Bielik Krystian,Krystian,Bielik,Bielik,4/1/1998,Birmingham City FC (ENG),189
+12,Poland,1,Home,18,15,12118,8,MC,Szymanski Damian,Damian Dawid,Szymański,D. Szymański,16/6/1995,AEK Athens (GRE),185
+12,Poland,1,Home,19,15,12119,11,MC,Grosicki Kamil,Kamil Pawel,Grosicki,Grosicki,8/6/1988,Pogon Szczecin (POL),180
+12,Poland,1,Home,20,15,12120,13,MC,Kaminski Jakub,Jakub,Kamiński,Kamiński,5/6/2002,VfL Wolfsburg (GER),179
+12,Poland,1,Home,21,15,12121,17,MC,Zurkowski Szymon,Szymon Piotr,Żurkowski,Żurkowski,25/9/1997,ACF Fiorentina (ITA),185
+12,Poland,1,Home,22,15,12122,23,DC,Piatek Krzysztof,Krzysztof,Piątek,Piątek,1/7/1995,US Salernitana (ITA),183
+12,Poland,1,Home,23,15,12123,25,DF,Gumny Robert,Robert Krzysztof,Gumny,Gumny,4/6/1998,FC Augsburg (GER),182
+12,Poland,2,Away,1,5,12201,9,DC,Lewandowski Robert,Robert,Lewandowski,Lewandowski,21/8/1988,FC Barcelona (ESP),185
+12,Poland,2,Away,2,22,12202,2,DF,Cash Matty,Matthew Stuart,Cash,Cash,7/8/1997,Aston Villa FC (ENG),185
+12,Poland,2,Away,3,22,12203,5,DF,Bednarek Jan,Jan Kacper,Bednarek,Bednarek,12/4/1996,Aston Villa FC (ENG),189
+12,Poland,2,Away,4,22,12204,7,DC,Milik Arkadiusz,Arkadiusz Krystian,Milik,Milik,28/2/1994,Juventus FC (ITA),186
+12,Poland,2,Away,5,22,12205,10,MC,Krychowiak Grzegorz,Grzegorz,Krychowiak,Krychowiak,29/1/1990,Al Shabab FC (KSA),186
+12,Poland,2,Away,6,22,12206,14,DF,Kiwior Jakub,Jakub Piotr,Kiwior,Kiwior,15/2/2000,Spezia Calcio (ITA),189
+12,Poland,2,Away,7,22,12207,15,DF,Glik Kamil,Kamil Jacek,Glik,Glik,3/2/1988,Benevento Calcio (ITA),190
+12,Poland,2,Away,8,22,12208,16,DC,Swiderski Karol,Karol Grzegorz,Świderski,Świderski,23/1/1997,Charlotte FC (USA),184
+12,Poland,2,Away,9,22,12209,18,DF,Bereszynski Bartosz,Bartosz,Bereszyński,Bereszyński,12/7/1992,UC Sampdoria (ITA),182
+12,Poland,2,Away,10,22,12210,19,MC,Szymanski Sebastian,Sebastian,Szymański,S. Szymański,10/5/1999,Feyenoord Rotterdam (NED),174
+12,Poland,2,Away,11,22,12211,20,MC,Zielinski Piotr,Piotr Sebastian,Zieliński,Zieliński,20/5/1994,SSC Napoli (ITA),177
+12,Poland,2,Away,12,22,12212,21,MC,Zalewski Nicola,Nicola,Zalewski,Zalewski,23/1/2002,AS Roma (ITA),175
+12,Poland,2,Away,13,22,12213,24,MC,Frankowski Przemyslaw,Przemyslaw Adam,Frankowski,Frankowski,12/4/1995,RC Lens (FRA),175
+12,Poland,2,Away,14,22,12214,26,MC,Skoras Michal,Michał Krzysztof,Skóraś,Skóraś,15/2/2000,Lech Poznan (POL),172
+12,Poland,2,Away,15,22,12215,3,DF,Jedrzejczyk Artur,Artur Marcin,Jędrzejczyk,Jędrzejczyk,4/11/1987,Legia Warsaw (POL),189
+12,Poland,2,Away,16,30,12216,4,DF,Wieteska Mateusz,Mateusz,Wieteska,Wieteska,11/2/1997,Clermont Foot (FRA),187
+12,Poland,2,Away,17,30,12217,6,MC,Bielik Krystian,Krystian,Bielik,Bielik,4/1/1998,Birmingham City FC (ENG),189
+12,Poland,2,Away,18,30,12218,8,MC,Szymanski Damian,Damian Dawid,Szymański,D. Szymański,16/6/1995,AEK Athens (GRE),185
+12,Poland,2,Away,19,30,12219,11,MC,Grosicki Kamil,Kamil Pawel,Grosicki,Grosicki,8/6/1988,Pogon Szczecin (POL),180
+12,Poland,2,Away,20,30,12220,13,MC,Kaminski Jakub,Jakub,Kamiński,Kamiński,5/6/2002,VfL Wolfsburg (GER),179
+12,Poland,2,Away,21,30,12221,17,MC,Zurkowski Szymon,Szymon Piotr,Żurkowski,Żurkowski,25/9/1997,ACF Fiorentina (ITA),185
+12,Poland,2,Away,22,30,12222,23,DC,Piatek Krzysztof,Krzysztof,Piątek,Piątek,1/7/1995,US Salernitana (ITA),183
+12,Poland,2,Away,23,30,12223,25,DF,Gumny Robert,Robert Krzysztof,Gumny,Gumny,4/6/1998,FC Augsburg (GER),182
+12,Poland,3,Goalkeeper,1,55,12301,1,PO,Szczesny Wojciech,Wojciech Tomasz,Szczęsny,Szczęsny,18/4/1990,Juventus FC (ITA),195
+12,Poland,3,Goalkeeper,2,110,12302,12,PO,Skorupski Lukasz,Lukasz,Skorupski,Skorupski,5/5/1991,Bologna FC (ITA),187
+12,Poland,3,Goalkeeper,3,110,12303,22,PO,Grabara Kamil,Kamil Mieczysław,Grabara,Grabara,8/1/1999,FC København (DEN),195
+13,France,1,Home,1,5,13101,10,DC,Mbappe Kylian,Kylian,Mbappe Lottin,Mbappe,20/12/1998,Paris Saint-Germain FC (FRA),178
+13,France,1,Home,2,11,13102,2,DF,Pavard Benjamin,Benjamin Jaques Marcel,Pavard,Pavard,28/3/1996,FC Bayern München (GER),186
+13,France,1,Home,3,11,13103,4,DF,Varane Raphael,Raphaël Xavier,Varane,Varane,25/4/1993,Manchester United FC (ENG),191
+13,France,1,Home,4,11,13104,5,DF,Kounde Jules,Jules Olivier,Kounde,Kounde,12/11/1998,FC Barcelona (ESP),178
+13,France,1,Home,5,11,13105,7,DC,Griezmann Antoine,Antoine,Griezmann,Griezmann,21/3/1991,CA Atlético Madrid (ESP),173
+13,France,1,Home,6,11,13106,8,MC,Tchouameni Aurelien,Aurélien Djani,Tchouameni,Tchouameni,27/1/2000,Real Madrid CF (ESP),187
+13,France,1,Home,7,11,13107,9,DC,Giroud Olivier,Olivier Jonathan,Giroud,Giroud,30/9/1986,AC Milan (ITA),193
+13,France,1,Home,8,11,13108,11,DC,Dembele Ousmane,Masour Ousmane,Dembele,Dembele,15/5/1997,FC Barcelona (ESP),178
+13,France,1,Home,9,11,13109,12,DC,Nkunku Christopher,Christopher Alan,Nkunku,Nkunku,14/11/1997,RB Leipzig (GER),175
+13,France,1,Home,10,11,13110,13,DF,Fofana Youssouf,Youssouf,Fofana,Fofana,10/1/1999,AS Monaco (FRA),178
+13,France,1,Home,11,11,13111,17,DF,Saliba William,William Alain André Gabriel,Saliba,Saliba,24/3/2001,Arsenal FC (ENG),192
+13,France,1,Home,12,11,13112,19,DC,Benzema Karim,Karim Mostafa,Benzema,Benzema,19/12/1987,Real Madrid CF (ESP),187
+13,France,1,Home,13,11,13113,21,DF,Hernandez Lucas,Lucas Francois Bernard,Hernandez,L. Hernandez,14/2/1996,FC Bayern München (GER),184
+13,France,1,Home,14,11,13114,25,MC,Camavinga Eduardo,Eduardo Celmi,Camavinga,Camavinga,10/11/2002,Real Madrid CF (ESP),182
+13,France,1,Home,15,11,13115,3,DF,Disasi Axel,Axel Wilson Arthur,Disasi Mhakinis Belho,Disasi,11/3/1998,AS Monaco (FRA),190
+13,France,1,Home,16,15,13116,6,MC,Guendouzi Matteo,Mattéo Elias Kenzo,Guendouzi Olie,Guendouzi,14/4/1999,Olympique Marseille (FRA),184
+13,France,1,Home,17,15,13117,14,MC,Rabiot Adrien,Adrien Thibault Marie,Rabiot,Rabiot,3/4/1995,Juventus FC (ITA),191
+13,France,1,Home,18,15,13118,15,MC,Veretout Jordan,Jordan Marcel Gilbert,Veretout,Veretout,1/3/1993,Olympique Marseille (FRA),177
+13,France,1,Home,19,15,13119,18,DF,Upamecano Dayot,Dayotchanculle Oswald,Upamecano,Upamecano,27/10/1998,FC Bayern München (GER),186
+13,France,1,Home,20,15,13120,20,DC,Coman Kingsley,Kingsley Junior,Coman,Coman,13/6/1996,FC Bayern München (GER),180
+13,France,1,Home,21,15,13121,22,DF,Hernandez Theo,Théo Bernard François,Hernandez,T. Hernandez,6/10/1997,AC Milan (ITA),184
+13,France,1,Home,22,15,13122,24,DF,Konate Ibrahima,Ibrahima,Konaté,Konate,25/5/1999,Liverpool FC (ENG),194
+13,France,1,Home,23,15,13123,26,DC,Thuram Marcus,Marcus Lilian,Thuram-Ulien,Thuram,6/8/1997,VfL Borussia Mönchengladbach (GER),192
+13,France,2,Away,1,5,13201,10,DC,Mbappe Kylian,Kylian,Mbappe Lottin,Mbappe,20/12/1998,Paris Saint-Germain FC (FRA),178
+13,France,2,Away,2,16,13202,2,DF,Pavard Benjamin,Benjamin Jaques Marcel,Pavard,Pavard,28/3/1996,FC Bayern München (GER),186
+13,France,2,Away,3,16,13203,4,DF,Varane Raphael,Raphaël Xavier,Varane,Varane,25/4/1993,Manchester United FC (ENG),191
+13,France,2,Away,4,16,13204,5,DF,Kounde Jules,Jules Olivier,Kounde,Kounde,12/11/1998,FC Barcelona (ESP),178
+13,France,2,Away,5,16,13205,7,DC,Griezmann Antoine,Antoine,Griezmann,Griezmann,21/3/1991,CA Atlético Madrid (ESP),173
+13,France,2,Away,6,16,13206,8,MC,Tchouameni Aurelien,Aurélien Djani,Tchouameni,Tchouameni,27/1/2000,Real Madrid CF (ESP),187
+13,France,2,Away,7,16,13207,9,DC,Giroud Olivier,Olivier Jonathan,Giroud,Giroud,30/9/1986,AC Milan (ITA),193
+13,France,2,Away,8,16,13208,11,DC,Dembele Ousmane,Masour Ousmane,Dembele,Dembele,15/5/1997,FC Barcelona (ESP),178
+13,France,2,Away,9,16,13209,12,DC,Nkunku Christopher,Christopher Alan,Nkunku,Nkunku,14/11/1997,RB Leipzig (GER),175
+13,France,2,Away,10,16,13210,13,DF,Fofana Youssouf,Youssouf,Fofana,Fofana,10/1/1999,AS Monaco (FRA),178
+13,France,2,Away,11,16,13211,17,DF,Saliba William,William Alain André Gabriel,Saliba,Saliba,24/3/2001,Arsenal FC (ENG),192
+13,France,2,Away,12,16,13212,19,DC,Benzema Karim,Karim Mostafa,Benzema,Benzema,19/12/1987,Real Madrid CF (ESP),187
+13,France,2,Away,13,16,13213,21,DF,Hernandez Lucas,Lucas Francois Bernard,Hernandez,L. Hernandez,14/2/1996,FC Bayern München (GER),184
+13,France,2,Away,14,16,13214,25,MC,Camavinga Eduardo,Eduardo Celmi,Camavinga,Camavinga,10/11/2002,Real Madrid CF (ESP),182
+13,France,2,Away,15,16,13215,3,DF,Disasi Axel,Axel Wilson Arthur,Disasi Mhakinis Belho,Disasi,11/3/1998,AS Monaco (FRA),190
+13,France,2,Away,16,22,13216,6,MC,Guendouzi Matteo,Mattéo Elias Kenzo,Guendouzi Olie,Guendouzi,14/4/1999,Olympique Marseille (FRA),184
+13,France,2,Away,17,22,13217,14,MC,Rabiot Adrien,Adrien Thibault Marie,Rabiot,Rabiot,3/4/1995,Juventus FC (ITA),191
+13,France,2,Away,18,22,13218,15,MC,Veretout Jordan,Jordan Marcel Gilbert,Veretout,Veretout,1/3/1993,Olympique Marseille (FRA),177
+13,France,2,Away,19,22,13219,18,DF,Upamecano Dayot,Dayotchanculle Oswald,Upamecano,Upamecano,27/10/1998,FC Bayern München (GER),186
+13,France,2,Away,20,22,13220,20,DC,Coman Kingsley,Kingsley Junior,Coman,Coman,13/6/1996,FC Bayern München (GER),180
+13,France,2,Away,21,22,13221,22,DF,Hernandez Theo,Théo Bernard François,Hernandez,T. Hernandez,6/10/1997,AC Milan (ITA),184
+13,France,2,Away,22,22,13222,24,DF,Konate Ibrahima,Ibrahima,Konaté,Konate,25/5/1999,Liverpool FC (ENG),194
+13,France,2,Away,23,22,13223,26,DC,Thuram Marcus,Marcus Lilian,Thuram-Ulien,Thuram,6/8/1997,VfL Borussia Mönchengladbach (GER),192
+13,France,3,Goalkeeper,1,28,13301,1,PO,Lloris Hugo,Hugo Hadrien Dominique,Lloris,Lloris,26/12/1986,Tottenham Hotspur FC (ENG),188
+13,France,3,Goalkeeper,2,55,13302,16,PO,Mandanda Steve,Steve,Mandanda Mpidi,Mandanda,28/3/1985,Stade Rennais FC (FRA),187
+13,France,3,Goalkeeper,3,55,13303,23,PO,Areola Alphonse,Alphonse Francis,Areola,Areola,27/2/1993,West Ham United FC (ENG),195
+14,Australia,1,Home,1,7,14101,10,MC,Hrustic Ajdin,Ajdin,Hrustic,Hrustic,5/7/1996,Hellas Verona FC (ITA),180
+14,Australia,1,Home,2,16,14102,2,DF,Degenek Milos,Milos,Degenek,Degenek,28/4/1994,Columbus Crew SC (USA),187
+14,Australia,1,Home,3,16,14103,3,DF,Atkinson Nathaniel,Nathaniel Caleb,Atkinson,Atkinson,13/6/1999,Heart Of Midlothian FC (SCO),181
+14,Australia,1,Home,4,16,14104,4,DF,Rowles Kye,Kye Francis,Rowles,Rowles,24/6/1998,Heart Of Midlothian FC (SCO),185
+14,Australia,1,Home,5,16,14105,5,DF,Karacic Fran,Fran,Karacic,Karacic,12/5/1996,Brescia Calcio (ITA),181
+14,Australia,1,Home,6,16,14106,6,DC,Boyle Martin,Martin Callie,Boyle,Boyle,25/4/1993,Hibernian FC (SCO),172
+14,Australia,1,Home,7,16,14107,7,DC,Leckie Mathew,Mathew Allan,Leckie,Leckie,4/2/1991,Melbourne City FC (AUS),181
+14,Australia,1,Home,8,16,14108,8,DF,Wright Bailey,Bailey Colin,Wright,Wright,28/7/1992,Sunderland AFC (ENG),184
+14,Australia,1,Home,9,16,14109,11,DC,Mabil Awer,Awer Bul,Mabil,Mabil,15/9/1995,Cádiz CF (ESP),179
+14,Australia,1,Home,10,16,14110,13,MC,Mooy Aaron,Aaron Frank,Mooy,Mooy,15/9/1990,Celtic FC (SCO),174
+14,Australia,1,Home,11,16,14111,16,DF,Behich Aziz,Aziz,Behich,Behich,16/12/1990,Dundee United FC (SCO),170
+14,Australia,1,Home,12,16,14112,21,DC,Kuol Garang,Garang,Mawien Kuol,Kuol,15/9/2004,Central Coast Mariners FC (AUS),175
+14,Australia,1,Home,13,16,14113,22,MC,Irvine Jackson,Jackson Alexander,Irvine,Irvine,7/3/1993,FC St. Pauli (GER),189
+14,Australia,1,Home,14,16,14114,23,DC,Goodwin Craig,Craig Alexander,Goodwin,Goodwin,16/12/1991,Adelaide United FC (AUS),183
+14,Australia,1,Home,15,16,14115,9,DC,Maclaren Jamie,Jamie,Maclaren,Maclaren,29/7/1993,Melbourne City FC (AUS),179
+14,Australia,1,Home,16,22,14116,14,MC,Mcgree Riley,Riley Patrick,Mcgree,Mcgree,2/11/1998,Middlesbrough FC (ENG),178
+14,Australia,1,Home,17,22,14117,15,DC,Duke Mitchell,Mitchell Thomas,Duke,Duke,18/1/1991,Fagiano Okayama (JPN),182
+14,Australia,1,Home,18,22,14118,17,MC,Devlin Cameron,Cameron Peter,Devlin,Devlin,7/6/1998,Heart Of Midlothian FC (SCO),171
+14,Australia,1,Home,19,22,14119,19,DF,Souttar Harry,Harry James,Souttar,Souttar,22/10/1998,Stoke City FC (ENG),198
+14,Australia,1,Home,20,22,14120,20,DF,Deng Thomas,Thomas Jok,Deng,Deng,20/3/1997,Albirex Niigata (JPN),178
+14,Australia,1,Home,21,22,14121,24,DF,King Joel,Joel Bruce,King,King,30/10/2000,Odense BK (DEN),179
+14,Australia,1,Home,22,22,14122,25,DC,Cummings Jason,Jason Steven,Cummings,Cummings,1/8/1995,Central Coast Mariners FC (AUS),178
+14,Australia,1,Home,23,22,14123,26,MC,Baccus Keanu,Keanu Kole,Baccus,Baccus,7/6/1998,St Mirren FC (SCO),178
+14,Australia,2,Away,1,5,14201,10,MC,Hrustic Ajdin,Ajdin,Hrustic,Hrustic,5/7/1996,Hellas Verona FC (ITA),180
+14,Australia,2,Away,2,22,14202,2,DF,Degenek Milos,Milos,Degenek,Degenek,28/4/1994,Columbus Crew SC (USA),187
+14,Australia,2,Away,3,22,14203,3,DF,Atkinson Nathaniel,Nathaniel Caleb,Atkinson,Atkinson,13/6/1999,Heart Of Midlothian FC (SCO),181
+14,Australia,2,Away,4,22,14204,4,DF,Rowles Kye,Kye Francis,Rowles,Rowles,24/6/1998,Heart Of Midlothian FC (SCO),185
+14,Australia,2,Away,5,22,14205,5,DF,Karacic Fran,Fran,Karacic,Karacic,12/5/1996,Brescia Calcio (ITA),181
+14,Australia,2,Away,6,22,14206,6,DC,Boyle Martin,Martin Callie,Boyle,Boyle,25/4/1993,Hibernian FC (SCO),172
+14,Australia,2,Away,7,22,14207,7,DC,Leckie Mathew,Mathew Allan,Leckie,Leckie,4/2/1991,Melbourne City FC (AUS),181
+14,Australia,2,Away,8,22,14208,8,DF,Wright Bailey,Bailey Colin,Wright,Wright,28/7/1992,Sunderland AFC (ENG),184
+14,Australia,2,Away,9,22,14209,11,DC,Mabil Awer,Awer Bul,Mabil,Mabil,15/9/1995,Cádiz CF (ESP),179
+14,Australia,2,Away,10,22,14210,13,MC,Mooy Aaron,Aaron Frank,Mooy,Mooy,15/9/1990,Celtic FC (SCO),174
+14,Australia,2,Away,11,22,14211,16,DF,Behich Aziz,Aziz,Behich,Behich,16/12/1990,Dundee United FC (SCO),170
+14,Australia,2,Away,12,22,14212,21,DC,Kuol Garang,Garang,Mawien Kuol,Kuol,15/9/2004,Central Coast Mariners FC (AUS),175
+14,Australia,2,Away,13,22,14213,22,MC,Irvine Jackson,Jackson Alexander,Irvine,Irvine,7/3/1993,FC St. Pauli (GER),189
+14,Australia,2,Away,14,22,14214,23,DC,Goodwin Craig,Craig Alexander,Goodwin,Goodwin,16/12/1991,Adelaide United FC (AUS),183
+14,Australia,2,Away,15,22,14215,9,DC,Maclaren Jamie,Jamie,Maclaren,Maclaren,29/7/1993,Melbourne City FC (AUS),179
+14,Australia,2,Away,16,30,14216,14,MC,Mcgree Riley,Riley Patrick,Mcgree,Mcgree,2/11/1998,Middlesbrough FC (ENG),178
+14,Australia,2,Away,17,30,14217,15,DC,Duke Mitchell,Mitchell Thomas,Duke,Duke,18/1/1991,Fagiano Okayama (JPN),182
+14,Australia,2,Away,18,30,14218,17,MC,Devlin Cameron,Cameron Peter,Devlin,Devlin,7/6/1998,Heart Of Midlothian FC (SCO),171
+14,Australia,2,Away,19,30,14219,19,DF,Souttar Harry,Harry James,Souttar,Souttar,22/10/1998,Stoke City FC (ENG),198
+14,Australia,2,Away,20,30,14220,20,DF,Deng Thomas,Thomas Jok,Deng,Deng,20/3/1997,Albirex Niigata (JPN),178
+14,Australia,2,Away,21,30,14221,24,DF,King Joel,Joel Bruce,King,King,30/10/2000,Odense BK (DEN),179
+14,Australia,2,Away,22,30,14222,25,DC,Cummings Jason,Jason Steven,Cummings,Cummings,1/8/1995,Central Coast Mariners FC (AUS),178
+14,Australia,2,Away,23,30,14223,26,MC,Baccus Keanu,Keanu Kole,Baccus,Baccus,7/6/1998,St Mirren FC (SCO),178
+14,Australia,3,Goalkeeper,1,55,14301,1,PO,Ryan Mathew,Mathew David,Ryan,Ryan,8/4/1992,FC København (DEN),184
+14,Australia,3,Goalkeeper,2,110,14302,12,PO,Redmayne Andrew,Andrew James,Redmayne,Redmayne,13/1/1989,Sydney FC (AUS),194
+14,Australia,3,Goalkeeper,3,110,14303,18,PO,Vukovic Danny,Daniel,Vukovic,Vukovic,27/3/1985,Central Coast Mariners FC (AUS),187
+15,Denmark,1,Home,1,2,15101,10,MC,Eriksen Christian,Christian Dannemann,Eriksen,Eriksen,14/2/1992,Manchester United FC (ENG),181
+15,Denmark,1,Home,2,5,15102,2,DF,Andersen Joachim,Joachim Christian,Andersen,Andersen,31/5/1996,Crystal Palace FC (ENG),192
+15,Denmark,1,Home,3,5,15103,3,DF,Nelsson Victor,Victor Enok,Nelsson,Nelsson,14/10/1998,Galatasaray SK (TUR),185
+15,Denmark,1,Home,4,5,15104,4,DF,Kjaer Simon,Simon Thorup,Kjær,Kjær,26/3/1989,AC Milan (ITA),191
+15,Denmark,1,Home,5,5,15105,5,DF,Maehle Joakim,Joakim Mæhle,Pedersen,Mæhle,20/5/1997,Atalanta Bergamo (ITA),185
+15,Denmark,1,Home,6,5,15106,6,DF,Christensen Andreas,Andreas Bødtker,Christensen,A. Christensen,10/4/1996,FC Barcelona (ESP),192
+15,Denmark,1,Home,7,5,15107,7,MC,Jensen Mathias,Mathias,Jensen,Jensen,1/1/1996,Brentford FC (ENG),180
+15,Denmark,1,Home,8,5,15108,8,MC,Delaney Thomas,Thomas Joseph,Delaney,Delaney,3/9/1991,Sevilla FC (ESP),180
+15,Denmark,1,Home,9,5,15109,9,DC,Braithwaite Martin,Martin Christensen,Braithwaite,Braithwaite,5/6/1991,RCD Espanyol (ESP),180
+15,Denmark,1,Home,10,5,15110,11,MC,Skov Olsen Andreas,Andreas Skov,Olsen,Skov Olsen,29/12/1999,Club Brugge (BEL),187
+15,Denmark,1,Home,11,5,15111,12,DC,Dolberg Kasper,Kasper Dolberg,Rasmussen,Dolberg,6/10/1997,Sevilla FC (ESP),187
+15,Denmark,1,Home,12,5,15112,13,DF,Kristensen Rasmus,Rasmus Nissen,Kristensen,Kristensen,11/7/1997,Leeds United FC (ENG),187
+15,Denmark,1,Home,13,5,15113,18,DF,Wass Daniel,Daniel,Wass,Wass,31/5/1989,Brøndby IF (DEN),181
+15,Denmark,1,Home,14,5,15114,23,MC,Hojbjerg Pierre-Emile,Pierre-Emile Kordt,Højbjerg,Højbjerg,5/8/1995,Tottenham Hotspur FC (ENG),187
+15,Denmark,1,Home,15,5,15115,14,MC,Damsgaard Mikkel,Mikkel Krogh,Damsgaard,Damsgaard,3/7/2000,Brentford FC (ENG),180
+15,Denmark,1,Home,16,8,15116,15,MC,Norgaard Christian,Christian Thers,Nørgaard,Nørgaard,10/3/1994,Brentford FC (ENG),186
+15,Denmark,1,Home,17,8,15117,17,DF,Stryger Larsen Jens,Jens Stryger,Larsen,Stryger,21/2/1991,Trabzonspor (TUR),182
+15,Denmark,1,Home,18,8,15118,19,DC,Wind Jonas,Jonas Older,Wind,Wind,7/2/1999,VfL Wolfsburg (GER),190
+15,Denmark,1,Home,19,8,15119,20,DC,Yurary Poulsen Yussuf,Yussuf Yurary,Poulsen,Yurary,15/6/1994,RB Leipzig (GER),193
+15,Denmark,1,Home,20,8,15120,21,DC,Cornelius Andreas,Andreas Evald,Cornelius,Cornelius,16/3/1993,FC København (DEN),195
+15,Denmark,1,Home,21,8,15121,24,MC,Skov Robert,Robert,Skov,Skov,20/5/1996,TSG 1899 Hoffenheim (GER),183
+15,Denmark,1,Home,22,8,15122,25,MC,Lindstrom Jesper,Jesper Grænge,Lindstrøm,Lindstrøm,29/2/2000,Eintracht Frankfurt (GER),182
+15,Denmark,1,Home,23,8,15123,26,DF,Bah Alexander,Alexander Hartmann,Bah,Bah,9/12/1997,SL Benfica (POR),183
+15,Denmark,2,Away,1,5,15201,10,MC,Eriksen Christian,Christian Dannemann,Eriksen,Eriksen,14/2/1992,Manchester United FC (ENG),181
+15,Denmark,2,Away,2,11,15202,2,DF,Andersen Joachim,Joachim Christian,Andersen,Andersen,31/5/1996,Crystal Palace FC (ENG),192
+15,Denmark,2,Away,3,11,15203,3,DF,Nelsson Victor,Victor Enok,Nelsson,Nelsson,14/10/1998,Galatasaray SK (TUR),185
+15,Denmark,2,Away,4,11,15204,4,DF,Kjaer Simon,Simon Thorup,Kjær,Kjær,26/3/1989,AC Milan (ITA),191
+15,Denmark,2,Away,5,11,15205,5,DF,Maehle Joakim,Joakim Mæhle,Pedersen,Mæhle,20/5/1997,Atalanta Bergamo (ITA),185
+15,Denmark,2,Away,6,11,15206,6,DF,Christensen Andreas,Andreas Bødtker,Christensen,A. Christensen,10/4/1996,FC Barcelona (ESP),192
+15,Denmark,2,Away,7,11,15207,7,MC,Jensen Mathias,Mathias,Jensen,Jensen,1/1/1996,Brentford FC (ENG),180
+15,Denmark,2,Away,8,11,15208,8,MC,Delaney Thomas,Thomas Joseph,Delaney,Delaney,3/9/1991,Sevilla FC (ESP),180
+15,Denmark,2,Away,9,11,15209,9,DC,Braithwaite Martin,Martin Christensen,Braithwaite,Braithwaite,5/6/1991,RCD Espanyol (ESP),180
+15,Denmark,2,Away,10,11,15210,11,MC,Skov Olsen Andreas,Andreas Skov,Olsen,Skov Olsen,29/12/1999,Club Brugge (BEL),187
+15,Denmark,2,Away,11,11,15211,12,DC,Dolberg Kasper,Kasper Dolberg,Rasmussen,Dolberg,6/10/1997,Sevilla FC (ESP),187
+15,Denmark,2,Away,12,11,15212,13,DF,Kristensen Rasmus,Rasmus Nissen,Kristensen,Kristensen,11/7/1997,Leeds United FC (ENG),187
+15,Denmark,2,Away,13,11,15213,18,DF,Wass Daniel,Daniel,Wass,Wass,31/5/1989,Brøndby IF (DEN),181
+15,Denmark,2,Away,14,11,15214,23,MC,Hojbjerg Pierre-Emile,Pierre-Emile Kordt,Højbjerg,Højbjerg,5/8/1995,Tottenham Hotspur FC (ENG),187
+15,Denmark,2,Away,15,11,15215,14,MC,Damsgaard Mikkel,Mikkel Krogh,Damsgaard,Damsgaard,3/7/2000,Brentford FC (ENG),180
+15,Denmark,2,Away,16,15,15216,15,MC,Norgaard Christian,Christian Thers,Nørgaard,Nørgaard,10/3/1994,Brentford FC (ENG),186
+15,Denmark,2,Away,17,15,15217,17,DF,Stryger Larsen Jens,Jens Stryger,Larsen,Stryger,21/2/1991,Trabzonspor (TUR),182
+15,Denmark,2,Away,18,15,15218,19,DC,Wind Jonas,Jonas Older,Wind,Wind,7/2/1999,VfL Wolfsburg (GER),190
+15,Denmark,2,Away,19,15,15219,20,DC,Yurary Poulsen Yussuf,Yussuf Yurary,Poulsen,Yurary,15/6/1994,RB Leipzig (GER),193
+15,Denmark,2,Away,20,15,15220,21,DC,Cornelius Andreas,Andreas Evald,Cornelius,Cornelius,16/3/1993,FC København (DEN),195
+15,Denmark,2,Away,21,15,15221,24,MC,Skov Robert,Robert,Skov,Skov,20/5/1996,TSG 1899 Hoffenheim (GER),183
+15,Denmark,2,Away,22,15,15222,25,MC,Lindstrom Jesper,Jesper Grænge,Lindstrøm,Lindstrøm,29/2/2000,Eintracht Frankfurt (GER),182
+15,Denmark,2,Away,23,15,15223,26,DF,Bah Alexander,Alexander Hartmann,Bah,Bah,9/12/1997,SL Benfica (POR),183
+15,Denmark,3,Goalkeeper,1,110,15301,1,PO,Schmeichel Kasper,Kasper Peter,Schmeichel,Schmeichel,5/11/1986,OGC Nice (FRA),190
+15,Denmark,3,Goalkeeper,2,220,15302,16,PO,Christensen Oliver,Oliver,Christensen,O. Christensen,22/3/1999,Hertha BSC (GER),190
+15,Denmark,3,Goalkeeper,3,220,15303,22,PO,Ronnow Frederik,Frederik Riis,Rønnow,Rønnow,4/8/1992,1. FC Union Berlin (GER),190
+16,Tunisia,1,Home,1,10,16101,10,DC,Khazri Wahbi,Wahbi,Khazri,Khazri,8/2/1991,Montpellier HSC (FRA),182
+16,Tunisia,1,Home,2,22,16102,3,DF,Talbi Montassar,Montassar Omar,Talbi,Talbi,26/5/1998,FC Lorient (FRA),190
+16,Tunisia,1,Home,3,22,16103,5,MC,Ghandri Nader,Nader,Ghandri,Ghandri,18/2/1995,Club Africain (TUN),196
+16,Tunisia,1,Home,4,22,16104,6,DF,Bronn Dylan,Dylan Daniel Mahmoud,Bronn,Bronn,19/6/1995,US Salernitana (ITA),186
+16,Tunisia,1,Home,5,22,16105,7,DC,Msakni Youssef,Youssef,Msakni,Msakni,28/10/1990,Al Arabi SC (QAT),175
+16,Tunisia,1,Home,6,22,16106,8,MC,Mejbri Hannibal,Hannibal,Mejbri,Hannibal,21/1/2003,Birmingham City FC (ENG),177
+16,Tunisia,1,Home,7,22,16107,12,DF,Maaloul Ali,Ali,Maaloul,Maaloul,1/1/1990,Al Ahly SC (EGY),175
+16,Tunisia,1,Home,8,22,16108,14,MC,Laidouni Aissa,Aïssa Bilal,Laïdouni,Laïdouni,13/12/1996,Ferencvárosi TC (HUN),183
+16,Tunisia,1,Home,9,22,16109,17,MC,Skhiri Ellyes,Ellyes Joris,Skhiri,Skhiri,10/5/1995,1. FC Köln (GER),185
+16,Tunisia,1,Home,10,22,16110,18,MC,Chaaleli Ghaylen,Ghaylen,Chaaleli,Chaaleli,28/2/1994,Espérance Tunis (TUN),179
+16,Tunisia,1,Home,11,22,16111,19,DC,Jaziri Seifeddine,Seifeddine,Jaziri,Jaziri,12/2/1993,Zamalek SC (EGY),180
+16,Tunisia,1,Home,12,22,16112,20,DF,Drager Mohamed,Mohamed,Drager,Drager,25/6/1996,FC Luzern (SUI),180
+16,Tunisia,1,Home,13,22,16113,25,DC,Ben Slimane Anis,Anis,Ben Slimane,Ben Slimane,16/3/2001,Brøndby IF (DEN),188
+16,Tunisia,1,Home,14,22,16114,2,DF,Ifa Bilel,Bilel,Ifa,Ifa,9/3/1990,Al Kuwait SC (KUW),185
+16,Tunisia,1,Home,15,22,16115,4,DF,Meriah Yassine,Yassine,Meriah,Meriah,2/7/1993,Espérance Tunis (TUN),183
+16,Tunisia,1,Home,16,30,16116,9,DC,Jebali Issam,Issam,Jebali,Jebali,27/5/1996,Odense BK (DEN),182
+16,Tunisia,1,Home,17,30,16117,11,DC,Khenissi Taha Yassine,Taha Yassine,Khenissi,Khenissi,6/1/1992,Al Kuwait SC (KUW),180
+16,Tunisia,1,Home,18,30,16118,13,MC,Sassi Ferjani,Ferjani,Sassi,Sassi,18/3/1992,Al Duhail SC (QAT),186
+16,Tunisia,1,Home,19,30,16119,15,MC,Ben Romdhane Mohamed Ali,Mohamed Ali,Ben Romdhan,Ben Romdhane,6/9/1999,Espérance Tunis (TUN),182
+16,Tunisia,1,Home,20,30,16120,21,DF,Kechrida Wajdi,Wajdi,Kechrida,Kechrida,5/11/1995,Atromitos FC (GRE),177
+16,Tunisia,1,Home,21,30,16121,23,DC,Sliti Naim,Naim,Sliti,Sliti,27/7/1992,Al Ettifaq FC (KSA),173
+16,Tunisia,1,Home,22,30,16122,24,DF,Abdi Ali,Ali,Elabdi,Abdi,20/12/1993,SM Caen (FRA),177
+16,Tunisia,1,Home,23,0,16123,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+16,Tunisia,2,Away,1,2,16201,10,DC,Khazri Wahbi,Wahbi,Khazri,Khazri,8/2/1991,Montpellier HSC (FRA),182
+16,Tunisia,2,Away,2,5,16202,3,DF,Talbi Montassar,Montassar Omar,Talbi,Talbi,26/5/1998,FC Lorient (FRA),190
+16,Tunisia,2,Away,3,5,16203,5,MC,Ghandri Nader,Nader,Ghandri,Ghandri,18/2/1995,Club Africain (TUN),196
+16,Tunisia,2,Away,4,5,16204,6,DF,Bronn Dylan,Dylan Daniel Mahmoud,Bronn,Bronn,19/6/1995,US Salernitana (ITA),186
+16,Tunisia,2,Away,5,5,16205,7,DC,Msakni Youssef,Youssef,Msakni,Msakni,28/10/1990,Al Arabi SC (QAT),175
+16,Tunisia,2,Away,6,5,16206,8,MC,Mejbri Hannibal,Hannibal,Mejbri,Hannibal,21/1/2003,Birmingham City FC (ENG),177
+16,Tunisia,2,Away,7,5,16207,12,DF,Maaloul Ali,Ali,Maaloul,Maaloul,1/1/1990,Al Ahly SC (EGY),175
+16,Tunisia,2,Away,8,5,16208,14,MC,Laidouni Aissa,Aïssa Bilal,Laïdouni,Laïdouni,13/12/1996,Ferencvárosi TC (HUN),183
+16,Tunisia,2,Away,9,5,16209,17,MC,Skhiri Ellyes,Ellyes Joris,Skhiri,Skhiri,10/5/1995,1. FC Köln (GER),185
+16,Tunisia,2,Away,10,5,16210,18,MC,Chaaleli Ghaylen,Ghaylen,Chaaleli,Chaaleli,28/2/1994,Espérance Tunis (TUN),179
+16,Tunisia,2,Away,11,5,16211,19,DC,Jaziri Seifeddine,Seifeddine,Jaziri,Jaziri,12/2/1993,Zamalek SC (EGY),180
+16,Tunisia,2,Away,12,5,16212,20,DF,Drager Mohamed,Mohamed,Drager,Drager,25/6/1996,FC Luzern (SUI),180
+16,Tunisia,2,Away,13,5,16213,25,DC,Ben Slimane Anis,Anis,Ben Slimane,Ben Slimane,16/3/2001,Brøndby IF (DEN),188
+16,Tunisia,2,Away,14,5,16214,2,DF,Ifa Bilel,Bilel,Ifa,Ifa,9/3/1990,Al Kuwait SC (KUW),185
+16,Tunisia,2,Away,15,5,16215,4,DF,Meriah Yassine,Yassine,Meriah,Meriah,2/7/1993,Espérance Tunis (TUN),183
+16,Tunisia,2,Away,16,8,16216,9,DC,Jebali Issam,Issam,Jebali,Jebali,27/5/1996,Odense BK (DEN),182
+16,Tunisia,2,Away,17,8,16217,11,DC,Khenissi Taha Yassine,Taha Yassine,Khenissi,Khenissi,6/1/1992,Al Kuwait SC (KUW),180
+16,Tunisia,2,Away,18,8,16218,13,MC,Sassi Ferjani,Ferjani,Sassi,Sassi,18/3/1992,Al Duhail SC (QAT),186
+16,Tunisia,2,Away,19,8,16219,15,MC,Ben Romdhane Mohamed Ali,Mohamed Ali,Ben Romdhan,Ben Romdhane,6/9/1999,Espérance Tunis (TUN),182
+16,Tunisia,2,Away,20,8,16220,21,DF,Kechrida Wajdi,Wajdi,Kechrida,Kechrida,5/11/1995,Atromitos FC (GRE),177
+16,Tunisia,2,Away,21,8,16221,23,DC,Sliti Naim,Naim,Sliti,Sliti,27/7/1992,Al Ettifaq FC (KSA),173
+16,Tunisia,2,Away,22,8,16222,24,DF,Abdi Ali,Ali,Elabdi,Abdi,20/12/1993,SM Caen (FRA),177
+16,Tunisia,2,Away,23,0,16223,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+16,Tunisia,3,Goalkeeper,1,83,16301,22,PO,Ben Said Bechir,Bechir,Said,Ben Said,29/11/1992,US Monastir (TUN),193
+16,Tunisia,3,Goalkeeper,2,165,16302,1,PO,Mathlouthi Aymen,Aymen,Mathlouthi,Mathlouthi,14/9/1984,Étoile Du Sahel (TUN),182
+16,Tunisia,3,Goalkeeper,3,165,16303,16,PO,Dahmen Aymen,Aymen,Dahmen,Dahmen,28/1/1997,CS Sfaxien (TUN),188
+16,Tunisia,3,Goalkeeper,4,38,16304,26,PO,Hassen Mouez,Mouez,Hassen,Hassen,5/3/1995,Club Africain (TUN),186
+17,Spain,1,Home,1,5,17101,26,MC,Pedri,Pedro,González López,Pedri,25/11/2002,FC Barcelona (ESP),174
+17,Spain,1,Home,2,11,17102,2,DF,Azpilicueta Cesar,César,Azpilicueta Tanco,Azpilicueta,28/8/1989,Chelsea FC (ENG),178
+17,Spain,1,Home,3,11,17103,3,DF,Garcia Eric,Eric,García Martret,Eric,9/1/2001,FC Barcelona (ESP),182
+17,Spain,1,Home,4,11,17104,4,DF,Torres Pau,Pau,Francisco Torres,Pau,16/1/1997,Villarreal CF (ESP),191
+17,Spain,1,Home,5,11,17105,5,MC,Busquets Sergio,Sergio,Busquets Burgos,Sergio,16/7/1988,FC Barcelona (ESP),189
+17,Spain,1,Home,6,11,17106,7,DC,Morata Alvaro,Álvaro Borja,Morata Martín,Morata,23/10/1992,CA Atlético Madrid (ESP),188
+17,Spain,1,Home,7,11,17107,8,MC,Koke,Jorge,Resurrección Merodio,Koke,8/1/1992,CA Atlético Madrid (ESP),176
+17,Spain,1,Home,8,11,17108,9,MC,Gavi,Pablo,Paez Gavira,Gavi,5/8/2004,FC Barcelona (ESP),173
+17,Spain,1,Home,9,11,17109,10,DC,Asensio Marco,Marco,Asensio Willemsen,M. Asensio,21/1/1996,Real Madrid CF (ESP),175
+17,Spain,1,Home,10,11,17110,11,DC,Torres Ferran,Ferran,Torres García,Ferran,29/2/2000,FC Barcelona (ESP),184
+17,Spain,1,Home,11,11,17111,14,DF,Gaya Jose,José Luis,Gayà Peña,Gayà,25/5/1995,Valencia CF (ESP),172
+17,Spain,1,Home,12,11,17112,18,DF,Alba Jordi,Jordi,Alba Ramos,Jordi Alba,21/3/1989,FC Barcelona (ESP),170
+17,Spain,1,Home,13,11,17113,22,DC,Sarabia Pablo,Pablo,Sarabia Garcia,Sarabia,11/5/1992,Paris Saint-Germain FC (FRA),179
+17,Spain,1,Home,14,11,17114,24,DF,Laporte Aymeric,Aymeric,Laporte Fevre,Laporte,27/5/1994,Manchester City FC (ENG),189
+17,Spain,1,Home,15,11,17115,6,MC,Llorente Marcos,Marcos,Llorente Moreno,M. Llorente,30/1/1995,CA Atlético Madrid (ESP),184
+17,Spain,1,Home,16,15,17116,12,DC,Williams Nico,Nicholas,Williams Arthuer,Williams Jr.,12/7/2002,Athletic Club (ESP),181
+17,Spain,1,Home,17,15,17117,15,DF,Guillamon Hugo,Hugo,Guillamón Sanmartín,Hugo G.,31/1/2000,Valencia CF (ESP),178
+17,Spain,1,Home,18,15,17118,16,MC,Rodri,Rodrigo,Hernández Cascante,Rodrigo,22/6/1996,Manchester City FC (ENG),190
+17,Spain,1,Home,19,15,17119,17,DC,Pino Yeremy,Yeremy Jesús,Pino Santos,Yeremy,20/10/2002,Villarreal CF (ESP),172
+17,Spain,1,Home,20,15,17120,19,MC,Soler Carlos,Carlos,Soler Barragan,C. Soler,2/1/1997,Paris Saint-Germain FC (FRA),180
+17,Spain,1,Home,21,15,17121,20,DF,Carvajal Dani,Daniel,Carvajal Ramos,Carvajal,11/1/1992,Real Madrid CF (ESP),173
+17,Spain,1,Home,22,15,17122,21,DC,Olmo Dani,Daniel,Olmo Carvajal,Olmo,7/5/1998,RB Leipzig (GER),179
+17,Spain,1,Home,23,15,17123,25,DC,Fati Ansu,Anssumane,Fati Vieira,Ansu Fati,31/10/2002,FC Barcelona (ESP),178
+17,Spain,2,Away,1,2,17201,26,MC,Pedri,Pedro,González López,Pedri,25/11/2002,FC Barcelona (ESP),174
+17,Spain,2,Away,2,5,17202,2,DF,Azpilicueta Cesar,César,Azpilicueta Tanco,Azpilicueta,28/8/1989,Chelsea FC (ENG),178
+17,Spain,2,Away,3,5,17203,3,DF,Garcia Eric,Eric,García Martret,Eric,9/1/2001,FC Barcelona (ESP),182
+17,Spain,2,Away,4,5,17204,4,DF,Torres Pau,Pau,Francisco Torres,Pau,16/1/1997,Villarreal CF (ESP),191
+17,Spain,2,Away,5,5,17205,5,MC,Busquets Sergio,Sergio,Busquets Burgos,Sergio,16/7/1988,FC Barcelona (ESP),189
+17,Spain,2,Away,6,5,17206,7,DC,Morata Alvaro,Álvaro Borja,Morata Martín,Morata,23/10/1992,CA Atlético Madrid (ESP),188
+17,Spain,2,Away,7,5,17207,8,MC,Koke,Jorge,Resurrección Merodio,Koke,8/1/1992,CA Atlético Madrid (ESP),176
+17,Spain,2,Away,8,5,17208,9,MC,Gavi,Pablo,Paez Gavira,Gavi,5/8/2004,FC Barcelona (ESP),173
+17,Spain,2,Away,9,5,17209,10,DC,Asensio Marco,Marco,Asensio Willemsen,M. Asensio,21/1/1996,Real Madrid CF (ESP),175
+17,Spain,2,Away,10,5,17210,11,DC,Torres Ferran,Ferran,Torres García,Ferran,29/2/2000,FC Barcelona (ESP),184
+17,Spain,2,Away,11,5,17211,14,DF,Gaya Jose,José Luis,Gayà Peña,Gayà,25/5/1995,Valencia CF (ESP),172
+17,Spain,2,Away,12,5,17212,18,DF,Alba Jordi,Jordi,Alba Ramos,Jordi Alba,21/3/1989,FC Barcelona (ESP),170
+17,Spain,2,Away,13,5,17213,22,DC,Sarabia Pablo,Pablo,Sarabia Garcia,Sarabia,11/5/1992,Paris Saint-Germain FC (FRA),179
+17,Spain,2,Away,14,5,17214,24,DF,Laporte Aymeric,Aymeric,Laporte Fevre,Laporte,27/5/1994,Manchester City FC (ENG),189
+17,Spain,2,Away,15,5,17215,6,MC,Llorente Marcos,Marcos,Llorente Moreno,M. Llorente,30/1/1995,CA Atlético Madrid (ESP),184
+17,Spain,2,Away,16,8,17216,12,DC,Williams Nico,Nicholas,Williams Arthuer,Williams Jr.,12/7/2002,Athletic Club (ESP),181
+17,Spain,2,Away,17,8,17217,15,DF,Guillamon Hugo,Hugo,Guillamón Sanmartín,Hugo G.,31/1/2000,Valencia CF (ESP),178
+17,Spain,2,Away,18,8,17218,16,MC,Rodri,Rodrigo,Hernández Cascante,Rodrigo,22/6/1996,Manchester City FC (ENG),190
+17,Spain,2,Away,19,8,17219,17,DC,Pino Yeremy,Yeremy Jesús,Pino Santos,Yeremy,20/10/2002,Villarreal CF (ESP),172
+17,Spain,2,Away,20,8,17220,19,MC,Soler Carlos,Carlos,Soler Barragan,C. Soler,2/1/1997,Paris Saint-Germain FC (FRA),180
+17,Spain,2,Away,21,8,17221,20,DF,Carvajal Dani,Daniel,Carvajal Ramos,Carvajal,11/1/1992,Real Madrid CF (ESP),173
+17,Spain,2,Away,22,8,17222,21,DC,Olmo Dani,Daniel,Olmo Carvajal,Olmo,7/5/1998,RB Leipzig (GER),179
+17,Spain,2,Away,23,8,17223,25,DC,Fati Ansu,Anssumane,Fati Vieira,Ansu Fati,31/10/2002,FC Barcelona (ESP),178
+17,Spain,3,Goalkeeper,1,55,17301,23,PO,Simon Unai,Unai,Simón Mendibil,Unai Simón,11/6/1997,Athletic Club (ESP),190
+17,Spain,3,Goalkeeper,2,110,17302,1,PO,Sanchez Robert,Robert,Lynch Sánchez,Sánchez,18/11/1997,Brighton & Hove Albion FC (ENG),197
+17,Spain,3,Goalkeeper,3,110,17303,13,PO,Raya David,David,Raya Martín,Raya,15/9/1995,Brentford FC (ENG),183
+18,Costa Rica,1,Home,1,7,18101,10,MC,Ruiz Bryan,Bryan Jafet,Ruiz González,Bryan,18/8/1985,LD Alajuelense (CRC),187
+18,Costa Rica,1,Home,2,16,18102,2,MC,Chacon Daniel,Daniel Alonso,Chacón Salas,D. Chacón,11/4/2001,Colorado Rapids (USA),183
+18,Costa Rica,1,Home,3,16,18103,4,DF,Fuller Keysher,Keysher,Fuller Spence,K. Fuller,12/7/1994,CS Herediano (CRC),183
+18,Costa Rica,1,Home,4,16,18104,5,MC,Borges Celso,Celso,Borges Mora,C. Borges,27/5/1988,LD Alajuelense (CRC),182
+18,Costa Rica,1,Home,5,16,18105,6,DF,Duarte Oscar,Oscar Esau,Duarte Gaitan,O. Duarte,3/6/1989,Al Wehda FC (KSA),186
+18,Costa Rica,1,Home,6,16,18106,7,DC,Contreras Anthony,Anthony Daniel,Contreras Enríquez,A. Contreras,29/1/2000,CS Herediano (CRC),180
+18,Costa Rica,1,Home,7,16,18107,8,DF,Oviedo Bryan,Bryan Josué,Oviedo Jiménez,B. Oviedo,18/2/1990,Real Salt Lake (USA),172
+18,Costa Rica,1,Home,8,16,18108,9,MC,Bennette Jewison,Jewison Francisco,Bennette Villegas,J. Bennette,15/6/2004,Sunderland AFC (ENG),173
+18,Costa Rica,1,Home,9,16,18109,11,DC,Venegas Johan,Johan Alberto,Venegas Ulloa,Johan,27/11/1988,LD Alajuelense (CRC),183
+18,Costa Rica,1,Home,10,16,18110,12,DC,Campbell Joel,Joel Nathaniel,Campbell Samuels,J. Campbell,26/6/1992,Club León (MEX),178
+18,Costa Rica,1,Home,11,16,18111,13,MC,Torres Gerson,Gerson,Torres Barrantes,G. Torres,28/8/1997,CS Herediano (CRC),176
+18,Costa Rica,1,Home,12,16,18112,15,DF,Calvo Francisco,Francisco Javier,Calvo Quesada,F. Calvo,8/7/1992,Konyaspor (TUR),180
+18,Costa Rica,1,Home,13,16,18113,16,DF,Martinez Carlos,Carlos Manuel,Martínez Castro,C. Martinez,30/3/1999,AD San Carlos (CRC),176
+18,Costa Rica,1,Home,14,16,18114,17,MC,Tejeda Yeltsin,Yeltsin Ignacio,Tejeda Valverde,Y. Tejeda,17/3/1992,CS Herediano (CRC),179
+18,Costa Rica,1,Home,15,16,18115,3,DF,Vargas Juan Pablo,Juan Pablo,Vargas Campos,J. Vargas,6/6/1995,Millonarios FC (COL),192
+18,Costa Rica,1,Home,16,22,18116,14,MC,Salas Youstin,Youstin Delfin,Salas Gomez,Y. Salas,17/6/1996,Deportivo Saprissa (CRC),173
+18,Costa Rica,1,Home,17,22,18117,19,DF,Waston Kendall,Kendall Jamaal,Waston Manley,K. Waston,1/1/1988,Deportivo Saprissa (CRC),196
+18,Costa Rica,1,Home,18,22,18118,20,MC,Aguilera Brandon,Brandon,Aguilera Zamora,B. Aguilera,28/6/2003,AD Guanacasteca (CRC),179
+18,Costa Rica,1,Home,19,22,18119,21,MC,Lopez Douglas,Douglas Andrey,López Araya,D. López,21/9/1998,CS Herediano (CRC),180
+18,Costa Rica,1,Home,20,22,18120,22,DF,Matarrita Ronald,Ronald Alberto,Matarrita Ulate,R. Matarrita,9/7/1994,FC Cincinnatti (USA),175
+18,Costa Rica,1,Home,21,22,18121,24,MC,Wilson Roan,Roan Roberto,Wilson Gordon,R. Wilson,1/5/2002,AD Municipal Grecia (CRC),184
+18,Costa Rica,1,Home,22,22,18122,25,MC,Hernandez Anthony,Anthony William,Hernández González,A. Hernandez,11/10/2001,Puntarenas FC (CRC),179
+18,Costa Rica,1,Home,23,22,18123,26,MC,Zamora Alvaro,Alvaro José,Zamora Mata,A. Zamora,9/3/2002,Deportivo Saprissa (CRC),180
+18,Costa Rica,2,Away,1,7,18201,10,MC,Ruiz Bryan,Bryan Jafet,Ruiz González,Bryan,18/8/1985,LD Alajuelense (CRC),187
+18,Costa Rica,2,Away,2,16,18202,2,MC,Chacon Daniel,Daniel Alonso,Chacón Salas,D. Chacón,11/4/2001,Colorado Rapids (USA),183
+18,Costa Rica,2,Away,3,16,18203,4,DF,Fuller Keysher,Keysher,Fuller Spence,K. Fuller,12/7/1994,CS Herediano (CRC),183
+18,Costa Rica,2,Away,4,16,18204,5,MC,Borges Celso,Celso,Borges Mora,C. Borges,27/5/1988,LD Alajuelense (CRC),182
+18,Costa Rica,2,Away,5,16,18205,6,DF,Duarte Oscar,Oscar Esau,Duarte Gaitan,O. Duarte,3/6/1989,Al Wehda FC (KSA),186
+18,Costa Rica,2,Away,6,16,18206,7,DC,Contreras Anthony,Anthony Daniel,Contreras Enríquez,A. Contreras,29/1/2000,CS Herediano (CRC),180
+18,Costa Rica,2,Away,7,16,18207,8,DF,Oviedo Bryan,Bryan Josué,Oviedo Jiménez,B. Oviedo,18/2/1990,Real Salt Lake (USA),172
+18,Costa Rica,2,Away,8,16,18208,9,MC,Bennette Jewison,Jewison Francisco,Bennette Villegas,J. Bennette,15/6/2004,Sunderland AFC (ENG),173
+18,Costa Rica,2,Away,9,16,18209,11,DC,Venegas Johan,Johan Alberto,Venegas Ulloa,Johan,27/11/1988,LD Alajuelense (CRC),183
+18,Costa Rica,2,Away,10,16,18210,12,DC,Campbell Joel,Joel Nathaniel,Campbell Samuels,J. Campbell,26/6/1992,Club León (MEX),178
+18,Costa Rica,2,Away,11,16,18211,13,MC,Torres Gerson,Gerson,Torres Barrantes,G. Torres,28/8/1997,CS Herediano (CRC),176
+18,Costa Rica,2,Away,12,16,18212,15,DF,Calvo Francisco,Francisco Javier,Calvo Quesada,F. Calvo,8/7/1992,Konyaspor (TUR),180
+18,Costa Rica,2,Away,13,16,18213,16,DF,Martinez Carlos,Carlos Manuel,Martínez Castro,C. Martinez,30/3/1999,AD San Carlos (CRC),176
+18,Costa Rica,2,Away,14,16,18214,17,MC,Tejeda Yeltsin,Yeltsin Ignacio,Tejeda Valverde,Y. Tejeda,17/3/1992,CS Herediano (CRC),179
+18,Costa Rica,2,Away,15,16,18215,3,DF,Vargas Juan Pablo,Juan Pablo,Vargas Campos,J. Vargas,6/6/1995,Millonarios FC (COL),192
+18,Costa Rica,2,Away,16,22,18216,14,MC,Salas Youstin,Youstin Delfin,Salas Gomez,Y. Salas,17/6/1996,Deportivo Saprissa (CRC),173
+18,Costa Rica,2,Away,17,22,18217,19,DF,Waston Kendall,Kendall Jamaal,Waston Manley,K. Waston,1/1/1988,Deportivo Saprissa (CRC),196
+18,Costa Rica,2,Away,18,22,18218,20,MC,Aguilera Brandon,Brandon,Aguilera Zamora,B. Aguilera,28/6/2003,AD Guanacasteca (CRC),179
+18,Costa Rica,2,Away,19,22,18219,21,MC,Lopez Douglas,Douglas Andrey,López Araya,D. López,21/9/1998,CS Herediano (CRC),180
+18,Costa Rica,2,Away,20,22,18220,22,DF,Matarrita Ronald,Ronald Alberto,Matarrita Ulate,R. Matarrita,9/7/1994,FC Cincinnatti (USA),175
+18,Costa Rica,2,Away,21,22,18221,24,MC,Wilson Roan,Roan Roberto,Wilson Gordon,R. Wilson,1/5/2002,AD Municipal Grecia (CRC),184
+18,Costa Rica,2,Away,22,22,18222,25,MC,Hernandez Anthony,Anthony William,Hernández González,A. Hernandez,11/10/2001,Puntarenas FC (CRC),179
+18,Costa Rica,2,Away,23,22,18223,26,MC,Zamora Alvaro,Alvaro José,Zamora Mata,A. Zamora,9/3/2002,Deportivo Saprissa (CRC),180
+18,Costa Rica,3,Goalkeeper,1,28,18301,1,PO,Navas Keylor,Keilor Antonio,Navas Gamboa,K. Navas,15/12/1986,Paris Saint-Germain FC (FRA),185
+18,Costa Rica,3,Goalkeeper,2,55,18302,18,PO,Alvarado Esteban,Esteban,Alvarado Brown,E. Alvarado,28/4/1989,CS Herediano (CRC),193
+18,Costa Rica,3,Goalkeeper,3,55,18303,23,PO,Sequeira Patrick,Patrick Gilmar,Sequeira Mejias,P. Sequeira,1/3/1999,CD Lugo (ESP),190
+19,Germany,1,Home,1,10,19101,13,MC,Mueller Thomas,Thomas,Müller,Müller,13/9/1989,FC Bayern München (GER),185
+19,Germany,1,Home,2,22,19102,2,DF,Ruediger Antonio,Antonio,Rüdiger,Rüdiger,3/3/1993,Real Madrid CF (ESP),190
+19,Germany,1,Home,3,22,19103,3,DF,Raum David,David,Raum,Raum,22/4/1998,RB Leipzig (GER),180
+19,Germany,1,Home,4,22,19104,5,DF,Kehrer Thilo,Jan Thilo,Kehrer,Kehrer,21/9/1996,West Ham United FC (ENG),186
+19,Germany,1,Home,5,22,19105,6,MC,Kimmich Joshua,Joshua Walter,Kimmich,Kimmich,8/2/1995,FC Bayern München (GER),177
+19,Germany,1,Home,6,22,19106,7,DC,Havertz Kai,Kai Lukas,Havertz,Havertz,11/6/1999,Chelsea FC (ENG),190
+19,Germany,1,Home,7,22,19107,10,DC,Gnabry Serge,Serge David,Gnabry,Gnabry,14/7/1995,FC Bayern München (GER),176
+19,Germany,1,Home,8,22,19108,11,MC,Goetze Mario,Mario,Götze,Götze,3/6/1992,Eintracht Frankfurt (GER),176
+19,Germany,1,Home,9,22,19109,14,MC,Musiala Jamal,Jamal,Musiala,Musiala,26/2/2003,FC Bayern München (GER),180
+19,Germany,1,Home,10,22,19110,15,DF,Suele Niklas,Niklas,Süle,Süle,3/9/1995,Borussia Dortmund (GER),195
+19,Germany,1,Home,11,22,19111,16,DF,Klostermann Lukas,Lukas Manuel,Klostermann,Klostermann,3/6/1995,RB Leipzig (GER),187
+19,Germany,1,Home,12,22,19112,19,MC,Sane Leroy,Leroy Aziz,Sané,Sane,11/1/1996,FC Bayern München (GER),183
+19,Germany,1,Home,13,22,19113,21,MC,Guendogan Ilkay,Ilkay,Gündogan,Gündogan,24/10/1990,Manchester City FC (ENG),180
+19,Germany,1,Home,14,22,19114,23,DF,Schlotterbeck Nico,Nico Cedric,Schlotterbeck,Schlotterbeck,1/12/1999,Borussia Dortmund (GER),191
+19,Germany,1,Home,15,22,19115,4,DF,Ginter Matthias,Matthias Lukas,Ginter,Ginter,19/1/1994,SC Freiburg (GER),189
+19,Germany,1,Home,16,30,19116,8,MC,Goretzka Leon,Leon Christoph,Goretzka,Goretzka,6/2/1995,FC Bayern München (GER),189
+19,Germany,1,Home,17,30,19117,9,DC,Fuellkrug Niclas,Niclas,Füllkrug,Füllkrug,9/2/1993,SV Werder Bremen (GER),188
+19,Germany,1,Home,18,30,19118,17,MC,Brandt Julian,Julian,Brandt,Brandt,2/5/1996,Borussia Dortmund (GER),183
+19,Germany,1,Home,19,30,19119,18,MC,Hofmann Jonas,Jonas,Hofmann,Hofmann,14/7/1992,VfL Borussia Mönchengladbach (GER),176
+19,Germany,1,Home,20,30,19120,20,DF,Guenter Christian,Christian,Günter,Günter,28/2/1993,SC Freiburg (GER),184
+19,Germany,1,Home,21,30,19121,24,DC,Adeyemi Karim,Karim David,Adeyemi,Adeyemi,18/1/2002,Borussia Dortmund (GER),180
+19,Germany,1,Home,22,30,19122,25,DF,Bella Kotchap Armel,Armel,Bella Kotchap,Bella Kotchap,11/12/2001,Southampton FC (ENG),190
+19,Germany,1,Home,23,30,19123,26,DC,Moukoko Youssoufa,Youssoufa,Moukoko,Moukoko,20/11/2004,Borussia Dortmund (GER),179
+19,Germany,2,Away,1,5,19201,13,MC,Mueller Thomas,Thomas,Müller,Müller,13/9/1989,FC Bayern München (GER),185
+19,Germany,2,Away,2,11,19202,2,DF,Ruediger Antonio,Antonio,Rüdiger,Rüdiger,3/3/1993,Real Madrid CF (ESP),190
+19,Germany,2,Away,3,11,19203,3,DF,Raum David,David,Raum,Raum,22/4/1998,RB Leipzig (GER),180
+19,Germany,2,Away,4,11,19204,5,DF,Kehrer Thilo,Jan Thilo,Kehrer,Kehrer,21/9/1996,West Ham United FC (ENG),186
+19,Germany,2,Away,5,11,19205,6,MC,Kimmich Joshua,Joshua Walter,Kimmich,Kimmich,8/2/1995,FC Bayern München (GER),177
+19,Germany,2,Away,6,11,19206,7,DC,Havertz Kai,Kai Lukas,Havertz,Havertz,11/6/1999,Chelsea FC (ENG),190
+19,Germany,2,Away,7,11,19207,10,DC,Gnabry Serge,Serge David,Gnabry,Gnabry,14/7/1995,FC Bayern München (GER),176
+19,Germany,2,Away,8,11,19208,11,MC,Goetze Mario,Mario,Götze,Götze,3/6/1992,Eintracht Frankfurt (GER),176
+19,Germany,2,Away,9,11,19209,14,MC,Musiala Jamal,Jamal,Musiala,Musiala,26/2/2003,FC Bayern München (GER),180
+19,Germany,2,Away,10,11,19210,15,DF,Suele Niklas,Niklas,Süle,Süle,3/9/1995,Borussia Dortmund (GER),195
+19,Germany,2,Away,11,11,19211,16,DF,Klostermann Lukas,Lukas Manuel,Klostermann,Klostermann,3/6/1995,RB Leipzig (GER),187
+19,Germany,2,Away,12,11,19212,19,MC,Sane Leroy,Leroy Aziz,Sané,Sane,11/1/1996,FC Bayern München (GER),183
+19,Germany,2,Away,13,11,19213,21,MC,Guendogan Ilkay,Ilkay,Gündogan,Gündogan,24/10/1990,Manchester City FC (ENG),180
+19,Germany,2,Away,14,11,19214,23,DF,Schlotterbeck Nico,Nico Cedric,Schlotterbeck,Schlotterbeck,1/12/1999,Borussia Dortmund (GER),191
+19,Germany,2,Away,15,11,19215,4,DF,Ginter Matthias,Matthias Lukas,Ginter,Ginter,19/1/1994,SC Freiburg (GER),189
+19,Germany,2,Away,16,15,19216,8,MC,Goretzka Leon,Leon Christoph,Goretzka,Goretzka,6/2/1995,FC Bayern München (GER),189
+19,Germany,2,Away,17,15,19217,9,DC,Fuellkrug Niclas,Niclas,Füllkrug,Füllkrug,9/2/1993,SV Werder Bremen (GER),188
+19,Germany,2,Away,18,15,19218,17,MC,Brandt Julian,Julian,Brandt,Brandt,2/5/1996,Borussia Dortmund (GER),183
+19,Germany,2,Away,19,15,19219,18,MC,Hofmann Jonas,Jonas,Hofmann,Hofmann,14/7/1992,VfL Borussia Mönchengladbach (GER),176
+19,Germany,2,Away,20,15,19220,20,DF,Guenter Christian,Christian,Günter,Günter,28/2/1993,SC Freiburg (GER),184
+19,Germany,2,Away,21,15,19221,24,DC,Adeyemi Karim,Karim David,Adeyemi,Adeyemi,18/1/2002,Borussia Dortmund (GER),180
+19,Germany,2,Away,22,15,19222,25,DF,Bella Kotchap Armel,Armel,Bella Kotchap,Bella Kotchap,11/12/2001,Southampton FC (ENG),190
+19,Germany,2,Away,23,15,19223,26,DC,Moukoko Youssoufa,Youssoufa,Moukoko,Moukoko,20/11/2004,Borussia Dortmund (GER),179
+19,Germany,3,Goalkeeper,1,83,19301,1,PO,Neuer Manuel,Manuel Peter,Neuer,Neuer,27/3/1986,FC Bayern München (GER),193
+19,Germany,3,Goalkeeper,2,165,19302,12,PO,Trapp Kevin,Kevin Christian,Trapp,Trapp,8/7/1990,Eintracht Frankfurt (GER),189
+19,Germany,3,Goalkeeper,3,165,19303,22,PO,Ter Stegen Marc-Andre,Marc-André,Ter Stegen,Ter Stegen,30/4/1992,FC Barcelona (ESP),187
+20,Japan,1,Home,1,2,20101,10,MC,Minamino Takumi,Takumi,Minamino,Minamino,16/1/1995,AS Monaco (FRA),174
+20,Japan,1,Home,2,5,20102,5,DF,Nagatomo Yuto,Yuto,Nagatomo,Nagatomo,12/9/1986,FC Tokyo (JPN),170
+20,Japan,1,Home,3,5,20103,6,MC,Endo Wataru,Wataru,Endo,Endo,9/2/1993,VfB Stuttgart (GER),178
+20,Japan,1,Home,4,5,20104,9,MC,Mitoma Kaoru,Kaoru,Mitoma,Mitoma,20/5/1997,Brighton & Hove Albion FC (ENG),178
+20,Japan,1,Home,5,5,20105,11,MC,Kubo Takefusa,Takefusa,Kubo,Kubo,4/6/2001,Real Sociedad (ESP),173
+20,Japan,1,Home,6,5,20106,13,MC,Morita Hidemasa,Hidemasa,Morita,Morita,10/5/1995,Sporting CP (POR),177
+20,Japan,1,Home,7,5,20107,14,MC,Ito Junya,Junya,Ito,Ito,9/3/1993,Stade Reims (FRA),176
+20,Japan,1,Home,8,5,20108,15,MC,Kamada Daichi,Daichi,Kamada,Kamada,5/8/1996,Eintracht Frankfurt (GER),180
+20,Japan,1,Home,9,5,20109,16,DF,Tomiyasu Takehiro,Takehiro,Tomiyasu,Tomiyasu,5/11/1998,Arsenal FC (ENG),187
+20,Japan,1,Home,10,5,20110,17,MC,Tanaka Ao,Ao,Tanaka,Tanaka,10/9/1998,Fortuna Düsseldorf (GER),180
+20,Japan,1,Home,11,5,20111,18,DC,Asano Takuma,Takuma,Asano,Asano,10/11/1994,VfL Bochum (GER),173
+20,Japan,1,Home,12,5,20112,19,DF,Sakai Hiroki,Hiroki,Sakai,Sakai,12/4/1990,Urawa Reds (JPN),185
+20,Japan,1,Home,13,5,20113,22,DF,Yoshida Maya,Maya,Yoshida,Yoshida,24/8/1988,FC Schalke 04 (GER),189
+20,Japan,1,Home,14,5,20114,25,DC,Maeda Daizen,Daizen,Maeda,Maeda,20/10/1997,Celtic FC (SCO),173
+20,Japan,1,Home,15,5,20115,2,DF,Yamane Miki,Miki,Yamane,Yamane,22/12/1993,Kawasaki Frontale (JPN),178
+20,Japan,1,Home,16,8,20116,3,DF,Taniguchi Shogo,Shogo,Taniguchi,Taniguchi,15/7/1991,Kawasaki Frontale (JPN),183
+20,Japan,1,Home,17,8,20117,4,DF,Itakura Kou,Kou,Itakura,Itakura,27/1/1997,VfL Borussia Mönchengladbach (GER),186
+20,Japan,1,Home,18,8,20118,7,MC,Shibasaki Gaku,Gaku,Shibasaki,Gaku,28/5/1992,CD Leganés (ESP),175
+20,Japan,1,Home,19,8,20119,8,MC,Doan Ritsu,Ritsu,Doan,Doan,16/6/1998,SC Freiburg (GER),172
+20,Japan,1,Home,20,8,20120,20,DC,Machino Shuto,Shuto,Machino,Machino,30/9/1999,Shonan Bellmare (JPN),185
+20,Japan,1,Home,21,8,20121,21,DC,Ueda Ayase,Ayase,Ueda,Ueda,28/8/1998,Cercle Brugge (BEL),182
+20,Japan,1,Home,22,8,20122,24,MC,Soma Yuki,Yuki,Soma,Soma,25/2/1997,Nagoya Grampus (JPN),166
+20,Japan,1,Home,23,8,20123,26,DF,Ito Hiroki,Hiroki,Ito,H. Ito,12/5/1999,VfB Stuttgart (GER),188
+20,Japan,2,Away,1,5,20201,10,MC,Minamino Takumi,Takumi,Minamino,Minamino,16/1/1995,AS Monaco (FRA),174
+20,Japan,2,Away,2,22,20202,5,DF,Nagatomo Yuto,Yuto,Nagatomo,Nagatomo,12/9/1986,FC Tokyo (JPN),170
+20,Japan,2,Away,3,22,20203,6,MC,Endo Wataru,Wataru,Endo,Endo,9/2/1993,VfB Stuttgart (GER),178
+20,Japan,2,Away,4,22,20204,9,MC,Mitoma Kaoru,Kaoru,Mitoma,Mitoma,20/5/1997,Brighton & Hove Albion FC (ENG),178
+20,Japan,2,Away,5,22,20205,11,MC,Kubo Takefusa,Takefusa,Kubo,Kubo,4/6/2001,Real Sociedad (ESP),173
+20,Japan,2,Away,6,22,20206,13,MC,Morita Hidemasa,Hidemasa,Morita,Morita,10/5/1995,Sporting CP (POR),177
+20,Japan,2,Away,7,22,20207,14,MC,Ito Junya,Junya,Ito,Ito,9/3/1993,Stade Reims (FRA),176
+20,Japan,2,Away,8,22,20208,15,MC,Kamada Daichi,Daichi,Kamada,Kamada,5/8/1996,Eintracht Frankfurt (GER),180
+20,Japan,2,Away,9,22,20209,16,DF,Tomiyasu Takehiro,Takehiro,Tomiyasu,Tomiyasu,5/11/1998,Arsenal FC (ENG),187
+20,Japan,2,Away,10,22,20210,17,MC,Tanaka Ao,Ao,Tanaka,Tanaka,10/9/1998,Fortuna Düsseldorf (GER),180
+20,Japan,2,Away,11,22,20211,18,DC,Asano Takuma,Takuma,Asano,Asano,10/11/1994,VfL Bochum (GER),173
+20,Japan,2,Away,12,22,20212,19,DF,Sakai Hiroki,Hiroki,Sakai,Sakai,12/4/1990,Urawa Reds (JPN),185
+20,Japan,2,Away,13,22,20213,22,DF,Yoshida Maya,Maya,Yoshida,Yoshida,24/8/1988,FC Schalke 04 (GER),189
+20,Japan,2,Away,14,22,20214,25,DC,Maeda Daizen,Daizen,Maeda,Maeda,20/10/1997,Celtic FC (SCO),173
+20,Japan,2,Away,15,22,20215,2,DF,Yamane Miki,Miki,Yamane,Yamane,22/12/1993,Kawasaki Frontale (JPN),178
+20,Japan,2,Away,16,30,20216,3,DF,Taniguchi Shogo,Shogo,Taniguchi,Taniguchi,15/7/1991,Kawasaki Frontale (JPN),183
+20,Japan,2,Away,17,30,20217,4,DF,Itakura Kou,Kou,Itakura,Itakura,27/1/1997,VfL Borussia Mönchengladbach (GER),186
+20,Japan,2,Away,18,30,20218,7,MC,Shibasaki Gaku,Gaku,Shibasaki,Gaku,28/5/1992,CD Leganés (ESP),175
+20,Japan,2,Away,19,30,20219,8,MC,Doan Ritsu,Ritsu,Doan,Doan,16/6/1998,SC Freiburg (GER),172
+20,Japan,2,Away,20,30,20220,20,DC,Machino Shuto,Shuto,Machino,Machino,30/9/1999,Shonan Bellmare (JPN),185
+20,Japan,2,Away,21,30,20221,21,DC,Ueda Ayase,Ayase,Ueda,Ueda,28/8/1998,Cercle Brugge (BEL),182
+20,Japan,2,Away,22,30,20222,24,MC,Soma Yuki,Yuki,Soma,Soma,25/2/1997,Nagoya Grampus (JPN),166
+20,Japan,2,Away,23,30,20223,26,DF,Ito Hiroki,Hiroki,Ito,H. Ito,12/5/1999,VfB Stuttgart (GER),188
+20,Japan,3,Goalkeeper,1,110,20301,12,PO,Gonda Shuichi,Shuichi,Gonda,Gonda,3/3/1989,Shimizu S-Pulse (JPN),187
+20,Japan,3,Goalkeeper,2,220,20302,23,PO,Schmidt Daniel,Daniel Yuji,Yabuki,Schmidt,3/2/1992,Sint-Truiden VV (BEL),197
+20,Japan,3,Goalkeeper,3,220,20303,1,PO,Kawashima Eiji,Eiji,Kawashima,Kawashima,20/3/1983,RC Strasbourg (FRA),185
+21,Belgium,1,Home,1,5,21101,7,MC,De Bruyne Kevin,Kevin,De Bruyne,De Bruyne,28/6/1991,Manchester City FC (ENG),181
+21,Belgium,1,Home,2,16,21102,2,DF,Alderweireld Toby,Tobias Albertine M.,Alderweireld,Alderweireld,2/3/1989,Royal Antwerp FC (BEL),186
+21,Belgium,1,Home,3,16,21103,3,DF,Theate Arthur,Arthur Nicolas R.,Theate,Theate,25/5/2000,Stade Rennais FC (FRA),185
+21,Belgium,1,Home,4,16,21104,4,DF,Faes Wout,Wout Felix L.,Faes,Faes,3/4/1998,Leicester City FC (ENG),187
+21,Belgium,1,Home,5,16,21105,5,DF,Vertonghen Jan,Jan Bert L.,Vertonghen,Vertonghen,24/4/1987,RSC Anderlecht (BEL),189
+21,Belgium,1,Home,6,16,21106,6,MC,Witsel Axel,Axel Laurent A.,Witsel,Witsel,12/1/1989,CA Atlético Madrid (ESP),186
+21,Belgium,1,Home,7,16,21107,8,MC,Tielemans Youri,Youri Marion A.,Tielemans,Tielemans,7/5/1997,Leicester City FC (ENG),176
+21,Belgium,1,Home,8,16,21108,9,DC,Lukaku Romelu,Romelu,Lukaku Bolingoli,R. Lukaku,13/5/1993,FC Internazionale (ITA),190
+21,Belgium,1,Home,9,16,21109,10,DC,Hazard Eden,Eden Michael W.,Hazard,E. Hazard,7/1/1991,Real Madrid CF (ESP),173
+21,Belgium,1,Home,10,16,21110,11,DC,Carrasco Yannick,Yannick,Ferreira Carrasco,Carrasco,4/9/1993,CA Atlético Madrid (ESP),180
+21,Belgium,1,Home,11,16,21111,15,MC,Meunier Thomas,Thomas Andre A.,Meunier,Meunier,12/9/1991,Borussia Dortmund (GER),190
+21,Belgium,1,Home,12,16,21112,18,MC,Onana Amadou,Amadou Ba Z.,Mvom Onana,Onana,16/8/2001,Everton FC (ENG),192
+21,Belgium,1,Home,13,16,21113,19,DF,Dendoncker Leander,Leander,Dendoncker,Dendoncker,15/4/1995,Aston Villa FC (ENG),188
+21,Belgium,1,Home,14,16,21114,21,MC,Castagne Timothy,Timothy,Castagne,Castagne,5/12/1995,Leicester City FC (ENG),185
+21,Belgium,1,Home,15,16,21115,23,DC,Batshuayi Michy,Michy,Batshuayi-Atunga,Batshuayi,2/10/1993,Fenerbahce SK (TUR),185
+21,Belgium,1,Home,16,22,21116,26,DF,Debast Zeno,Zeno Koen,Debast,Debast,24/10/2003,RSC Anderlecht (BEL),189
+21,Belgium,1,Home,17,22,21117,14,DC,Mertens Dries,Dries,Mertens,Mertens,6/5/1987,Galatasaray SK (TUR),169
+21,Belgium,1,Home,18,22,21118,16,MC,Hazard Thorgan,Thorgan Ganael F.,Hazard,T. Hazard,29/3/1993,Borussia Dortmund (GER),174
+21,Belgium,1,Home,19,22,21119,17,DC,Trossard Leandro,Leandro,Trossard,Trossard,4/12/1994,Brighton & Hove Albion FC (ENG),172
+21,Belgium,1,Home,20,22,21120,20,MC,Vanaken Hans,Hans,Vanaken,Vanaken,24/8/1992,Club Brugge (BEL),195
+21,Belgium,1,Home,21,22,21121,22,DC,De Ketelaere Charles,Charles Marc S.,De Ketelaere,De Ketelaere,10/3/2001,AC Milan (ITA),192
+21,Belgium,1,Home,22,22,21122,24,DC,Openda Lois,Ikoma-Loïs,Openda,Openda,16/2/2000,RC Lens (FRA),175
+21,Belgium,1,Home,23,22,21123,25,DC,Doku Jeremy,Jeremy Baffour,Doku,Doku,27/5/2002,Stade Rennais FC (FRA),173
+21,Belgium,2,Away,1,2,21201,7,MC,De Bruyne Kevin,Kevin,De Bruyne,De Bruyne,28/6/1991,Manchester City FC (ENG),181
+21,Belgium,2,Away,2,5,21202,2,DF,Alderweireld Toby,Tobias Albertine M.,Alderweireld,Alderweireld,2/3/1989,Royal Antwerp FC (BEL),186
+21,Belgium,2,Away,3,5,21203,3,DF,Theate Arthur,Arthur Nicolas R.,Theate,Theate,25/5/2000,Stade Rennais FC (FRA),185
+21,Belgium,2,Away,4,5,21204,4,DF,Faes Wout,Wout Felix L.,Faes,Faes,3/4/1998,Leicester City FC (ENG),187
+21,Belgium,2,Away,5,5,21205,5,DF,Vertonghen Jan,Jan Bert L.,Vertonghen,Vertonghen,24/4/1987,RSC Anderlecht (BEL),189
+21,Belgium,2,Away,6,5,21206,6,MC,Witsel Axel,Axel Laurent A.,Witsel,Witsel,12/1/1989,CA Atlético Madrid (ESP),186
+21,Belgium,2,Away,7,5,21207,8,MC,Tielemans Youri,Youri Marion A.,Tielemans,Tielemans,7/5/1997,Leicester City FC (ENG),176
+21,Belgium,2,Away,8,5,21208,9,DC,Lukaku Romelu,Romelu,Lukaku Bolingoli,R. Lukaku,13/5/1993,FC Internazionale (ITA),190
+21,Belgium,2,Away,9,5,21209,10,DC,Hazard Eden,Eden Michael W.,Hazard,E. Hazard,7/1/1991,Real Madrid CF (ESP),173
+21,Belgium,2,Away,10,5,21210,11,DC,Carrasco Yannick,Yannick,Ferreira Carrasco,Carrasco,4/9/1993,CA Atlético Madrid (ESP),180
+21,Belgium,2,Away,11,5,21211,15,MC,Meunier Thomas,Thomas Andre A.,Meunier,Meunier,12/9/1991,Borussia Dortmund (GER),190
+21,Belgium,2,Away,12,5,21212,18,MC,Onana Amadou,Amadou Ba Z.,Mvom Onana,Onana,16/8/2001,Everton FC (ENG),192
+21,Belgium,2,Away,13,5,21213,19,DF,Dendoncker Leander,Leander,Dendoncker,Dendoncker,15/4/1995,Aston Villa FC (ENG),188
+21,Belgium,2,Away,14,5,21214,21,MC,Castagne Timothy,Timothy,Castagne,Castagne,5/12/1995,Leicester City FC (ENG),185
+21,Belgium,2,Away,15,5,21215,23,DC,Batshuayi Michy,Michy,Batshuayi-Atunga,Batshuayi,2/10/1993,Fenerbahce SK (TUR),185
+21,Belgium,2,Away,16,8,21216,26,DF,Debast Zeno,Zeno Koen,Debast,Debast,24/10/2003,RSC Anderlecht (BEL),189
+21,Belgium,2,Away,17,8,21217,14,DC,Mertens Dries,Dries,Mertens,Mertens,6/5/1987,Galatasaray SK (TUR),169
+21,Belgium,2,Away,18,8,21218,16,MC,Hazard Thorgan,Thorgan Ganael F.,Hazard,T. Hazard,29/3/1993,Borussia Dortmund (GER),174
+21,Belgium,2,Away,19,8,21219,17,DC,Trossard Leandro,Leandro,Trossard,Trossard,4/12/1994,Brighton & Hove Albion FC (ENG),172
+21,Belgium,2,Away,20,8,21220,20,MC,Vanaken Hans,Hans,Vanaken,Vanaken,24/8/1992,Club Brugge (BEL),195
+21,Belgium,2,Away,21,8,21221,22,DC,De Ketelaere Charles,Charles Marc S.,De Ketelaere,De Ketelaere,10/3/2001,AC Milan (ITA),192
+21,Belgium,2,Away,22,8,21222,24,DC,Openda Lois,Ikoma-Loïs,Openda,Openda,16/2/2000,RC Lens (FRA),175
+21,Belgium,2,Away,23,8,21223,25,DC,Doku Jeremy,Jeremy Baffour,Doku,Doku,27/5/2002,Stade Rennais FC (FRA),173
+21,Belgium,3,Goalkeeper,1,55,21301,1,PO,Courtois Thibaut,Thibaut Nicolas M.,Courtois,Courtois,11/5/1992,Real Madrid CF (ESP),199
+21,Belgium,3,Goalkeeper,2,110,21302,12,PO,Mignolet Simon,Simon Luc M.,Mignolet,Mignolet,6/3/1988,Club Brugge (BEL),193
+21,Belgium,3,Goalkeeper,3,110,21303,13,PO,Casteels Koen,Koen,Casteels,Casteels,25/6/1992,VfL Wolfsburg (GER),197
+22,Canada,1,Home,1,5,22101,19,DC,Davies Alphonso,Alphonso Boyle,Davies,Davies,2/11/2000,FC Bayern München (GER),183
+22,Canada,1,Home,2,11,22102,2,DF,Johnston Alistair,Alistair William,Johnston,Johnston,8/10/1998,CF Montréal (CAN),180
+22,Canada,1,Home,3,11,22103,3,DF,Adekugbe Sam,Samuel Ayomide,Adekugbe,Adekugbe,16/1/1995,Hatayspor (TUR),175
+22,Canada,1,Home,4,11,22104,4,DF,Miller Kamal,Kamal Anthony,Miller,Miller,16/5/1997,CF Montréal (CAN),183
+22,Canada,1,Home,5,11,22105,5,DF,Vitoria Steven,Steven,De Sousa Vitória,Vitoria,11/1/1987,GD Chaves (POR),195
+22,Canada,1,Home,6,11,22106,6,MC,Piette Samuel,Samuel,Piette,Piette,12/11/1994,CF Montréal (CAN),171
+22,Canada,1,Home,7,11,22107,7,MC,Eustaquio Stephen,Stephen,Eustáquio,Eustaquio,21/12/1996,FC Porto (POR),178
+22,Canada,1,Home,8,11,22108,9,DC,Cavallini Lucas,Lucas,Cavallini,Cavallini,28/12/1992,Vancouver Whitecaps FC (CAN),180
+22,Canada,1,Home,9,11,22109,10,MC,Hoilett Junior,David Wayne,Hoilett,Hoilett,5/6/1990,Reading FC (ENG),174
+22,Canada,1,Home,10,11,22110,11,DC,Buchanan Tajon,Tajon Trevor,Buchanan,Buchanan,8/2/1999,Club Brugge (BEL),183
+22,Canada,1,Home,11,11,22111,13,MC,Hutchinson Atiba,Atiba,Hutchinson,Hutchinson,8/2/1983,Besiktas JK (TUR),183
+22,Canada,1,Home,12,11,22112,17,DC,Larin Cyle,Cyle Christopher,Larin,Larin,17/4/1995,Cercle Brugge (BEL),188
+22,Canada,1,Home,13,11,22113,20,DC,David Jonathan,Jonathan Christian,David,J. David,14/1/2000,Lille OSC (FRA),175
+22,Canada,1,Home,14,11,22114,22,DF,Laryea Richie,Richmond Mamah,Laryea,Laryea,7/1/1995,Toronto FC (CAN),175
+22,Canada,1,Home,15,11,22115,8,MC,Fraser Liam,Liam Scott,Fraser,Fraser,13/2/1998,KMSR Deinze (BEL),185
+22,Canada,1,Home,16,15,22116,12,DC,Ugbo Ike,Ike Dominique,Ugbo,Ugbo,21/9/1998,ES Troyes (FRA),185
+22,Canada,1,Home,17,15,22117,14,MC,Kaye Mark-Anthony,Mark-Anthony,Kaye,Kaye,2/12/1994,Toronto FC (CAN),185
+22,Canada,1,Home,18,15,22118,15,MC,Kone Ismael,Ismael Kenneth Jordan,Kone,Kone,16/6/2002,CF Montréal (CAN),188
+22,Canada,1,Home,19,15,22119,21,MC,Osorio Jonathan,Jonathan,Osorio,Osorio,12/6/1992,Toronto FC (CAN),175
+22,Canada,1,Home,20,15,22120,23,MC,Millar Liam,Liam Alan,Millar,Millar,27/9/1999,FC Basel (SUI),176
+22,Canada,1,Home,21,15,22121,24,MC,Wotherspoon David,David Wallace,Wotherspoon,Wotherspoon,16/1/1990,St Johnstone FC (SCO),172
+22,Canada,1,Home,22,15,22122,25,DF,Cornelius Derek,Derek Austin,Cornelius,Cornelius,25/11/1997,Panetolikos FC (GRE),186
+22,Canada,1,Home,23,15,22123,26,DF,Waterman Joel,Joel Robert,Waterman,Waterman,24/1/1996,CF Montréal (CAN),185
+22,Canada,2,Away,1,7,22201,19,DC,Davies Alphonso,Alphonso Boyle,Davies,Davies,2/11/2000,FC Bayern München (GER),183
+22,Canada,2,Away,2,16,22202,2,DF,Johnston Alistair,Alistair William,Johnston,Johnston,8/10/1998,CF Montréal (CAN),180
+22,Canada,2,Away,3,16,22203,3,DF,Adekugbe Sam,Samuel Ayomide,Adekugbe,Adekugbe,16/1/1995,Hatayspor (TUR),175
+22,Canada,2,Away,4,16,22204,4,DF,Miller Kamal,Kamal Anthony,Miller,Miller,16/5/1997,CF Montréal (CAN),183
+22,Canada,2,Away,5,16,22205,5,DF,Vitoria Steven,Steven,De Sousa Vitória,Vitoria,11/1/1987,GD Chaves (POR),195
+22,Canada,2,Away,6,16,22206,6,MC,Piette Samuel,Samuel,Piette,Piette,12/11/1994,CF Montréal (CAN),171
+22,Canada,2,Away,7,16,22207,7,MC,Eustaquio Stephen,Stephen,Eustáquio,Eustaquio,21/12/1996,FC Porto (POR),178
+22,Canada,2,Away,8,16,22208,9,DC,Cavallini Lucas,Lucas,Cavallini,Cavallini,28/12/1992,Vancouver Whitecaps FC (CAN),180
+22,Canada,2,Away,9,16,22209,10,MC,Hoilett Junior,David Wayne,Hoilett,Hoilett,5/6/1990,Reading FC (ENG),174
+22,Canada,2,Away,10,16,22210,11,DC,Buchanan Tajon,Tajon Trevor,Buchanan,Buchanan,8/2/1999,Club Brugge (BEL),183
+22,Canada,2,Away,11,16,22211,13,MC,Hutchinson Atiba,Atiba,Hutchinson,Hutchinson,8/2/1983,Besiktas JK (TUR),183
+22,Canada,2,Away,12,16,22212,17,DC,Larin Cyle,Cyle Christopher,Larin,Larin,17/4/1995,Cercle Brugge (BEL),188
+22,Canada,2,Away,13,16,22213,20,DC,David Jonathan,Jonathan Christian,David,J. David,14/1/2000,Lille OSC (FRA),175
+22,Canada,2,Away,14,16,22214,22,DF,Laryea Richie,Richmond Mamah,Laryea,Laryea,7/1/1995,Toronto FC (CAN),175
+22,Canada,2,Away,15,16,22215,8,MC,Fraser Liam,Liam Scott,Fraser,Fraser,13/2/1998,KMSR Deinze (BEL),185
+22,Canada,2,Away,16,22,22216,12,DC,Ugbo Ike,Ike Dominique,Ugbo,Ugbo,21/9/1998,ES Troyes (FRA),185
+22,Canada,2,Away,17,22,22217,14,MC,Kaye Mark-Anthony,Mark-Anthony,Kaye,Kaye,2/12/1994,Toronto FC (CAN),185
+22,Canada,2,Away,18,22,22218,15,MC,Kone Ismael,Ismael Kenneth Jordan,Kone,Kone,16/6/2002,CF Montréal (CAN),188
+22,Canada,2,Away,19,22,22219,21,MC,Osorio Jonathan,Jonathan,Osorio,Osorio,12/6/1992,Toronto FC (CAN),175
+22,Canada,2,Away,20,22,22220,23,MC,Millar Liam,Liam Alan,Millar,Millar,27/9/1999,FC Basel (SUI),176
+22,Canada,2,Away,21,22,22221,24,MC,Wotherspoon David,David Wallace,Wotherspoon,Wotherspoon,16/1/1990,St Johnstone FC (SCO),172
+22,Canada,2,Away,22,22,22222,25,DF,Cornelius Derek,Derek Austin,Cornelius,Cornelius,25/11/1997,Panetolikos FC (GRE),186
+22,Canada,2,Away,23,22,22223,26,DF,Waterman Joel,Joel Robert,Waterman,Waterman,24/1/1996,CF Montréal (CAN),185
+22,Canada,3,Goalkeeper,1,28,22301,18,PO,Borjan Milan,Milan,Borjan,Borjan,23/10/1987,FK Crvena Zvezda (SRB),195
+22,Canada,3,Goalkeeper,2,55,22302,1,PO,St. Clair Dayne,Dayne Tristan,St. Clair,St. Clair,9/5/1997,Minnesota United FC (USA),191
+22,Canada,3,Goalkeeper,3,55,22303,16,PO,Pantemis James,James,Pantemis,Pantemis,21/2/1997,CF Montréal (CAN),185
+23,Morocco,1,Home,1,10,23101,2,DF,Hakimi Achraf,Achraf,Hakimi,Hakimi,4/11/1998,Paris Saint-Germain FC (FRA),181
+23,Morocco,1,Home,2,22,23102,3,DF,Mazraoui Noussair,Noussair,Mazraoui,Mazraoui,14/11/1997,FC Bayern München (GER),183
+23,Morocco,1,Home,3,22,23103,4,MC,Amrabat Sofyan,Sofyan,Amrabat,Amrabat,21/8/1996,ACF Fiorentina (ITA),183
+23,Morocco,1,Home,4,22,23104,6,DF,Saiss Romain,Romain Ghanem Paul,Saiss,Saiss,26/3/1990,Besiktas JK (TUR),190
+23,Morocco,1,Home,5,22,23105,7,MC,Ziyech Hakim,Hakim,Ziyach,Ziyech,19/3/1993,Chelsea FC (ENG),181
+23,Morocco,1,Home,6,22,23106,8,MC,Ounahi Azzedine,Azz-Eddine,Ounahi,Ounahi,19/4/2000,Angers SCO (FRA),182
+23,Morocco,1,Home,7,22,23107,11,DC,Sabiri Abdelhamid,Abdelhamid,Sabiri,Sabiri,28/11/1996,UC Sampdoria (ITA),186
+23,Morocco,1,Home,8,22,23108,13,MC,Chair Ilias,Ilias,Chair,Chair,30/10/1997,Queens Park Rangers FC (ENG),164
+23,Morocco,1,Home,9,22,23109,14,MC,Aboukhlal Zakaria,Zakaria,Aboukhlal,Aboukhlal,18/2/2000,Toulouse FC (FRA),179
+23,Morocco,1,Home,10,22,23110,15,MC,Amallah Selim,Selim,Amallah,Amallah,15/11/1996,Standard Liège (BEL),186
+23,Morocco,1,Home,11,22,23111,16,DC,Ez Abde,Abdessamad,Ezzalzouli,Ezzalzouli,17/12/2001,CA Osasuna (ESP),177
+23,Morocco,1,Home,12,22,23112,17,MC,Boufal Sofiane,Sofiane,Boufal,Boufal,17/9/1993,Angers SCO (FRA),170
+23,Morocco,1,Home,13,22,23113,19,DC,En-Nesyri Youssef,Youssef,En-Nesyri,En-Nesyri,1/6/1997,Sevilla FC (ESP),188
+23,Morocco,1,Home,14,22,23114,20,DF,Dari Achraf,Achraf,Dari,Dari,6/5/1999,Stade Brest (FRA),190
+23,Morocco,1,Home,15,22,23115,5,DF,Aguerd Nayef,Nayef,Aguerd,Aguerd,30/3/1996,West Ham United FC (ENG),190
+23,Morocco,1,Home,16,30,23116,9,DC,Hamdallah Abderrazak,Abderrazzaq,Hamed-Allah,Hamedallah,17/12/1990,Al Ittihad FC (KSA),179
+23,Morocco,1,Home,17,30,23117,10,MC,Harit Amine,Amine,Harit,Harit,18/6/1997,Olympique Marseille (FRA),180
+23,Morocco,1,Home,18,30,23118,18,DF,El Yamiq Jawad,Jawad,El-Yamiq,El-Yamiq,29/2/1992,Real Valladolid CF (ESP),193
+23,Morocco,1,Home,19,30,23119,21,DC,Cheddira Walid,Walid,Cheddira,Cheddira,22/1/1998,AS Bari (ITA),187
+23,Morocco,1,Home,20,30,23120,23,MC,El Khannouss Bilal,Bilal,El Khannouss,El Khannouss,10/5/2004,KRC Genk (BEL),180
+23,Morocco,1,Home,21,30,23121,24,DF,Benoun Badr,Badr,Benoun,Benoun,30/9/1993,Qatar SC (QAT),188
+23,Morocco,1,Home,22,30,23122,25,DF,Attiat-Allah Yahya,Yahya,Attiat-Allah El Idrissi,Attiat-Allah,2/3/1995,Wydad Casablanca (MAR),176
+23,Morocco,1,Home,23,30,23123,26,MC,Jabrane Yahya,Yahya,Jabrane,Jabrane,18/6/1991,Wydad Casablanca (MAR),183
+23,Morocco,2,Away,1,5,23201,2,DF,Hakimi Achraf,Achraf,Hakimi,Hakimi,4/11/1998,Paris Saint-Germain FC (FRA),181
+23,Morocco,2,Away,2,11,23202,3,DF,Mazraoui Noussair,Noussair,Mazraoui,Mazraoui,14/11/1997,FC Bayern München (GER),183
+23,Morocco,2,Away,3,11,23203,4,MC,Amrabat Sofyan,Sofyan,Amrabat,Amrabat,21/8/1996,ACF Fiorentina (ITA),183
+23,Morocco,2,Away,4,11,23204,6,DF,Saiss Romain,Romain Ghanem Paul,Saiss,Saiss,26/3/1990,Besiktas JK (TUR),190
+23,Morocco,2,Away,5,11,23205,7,MC,Ziyech Hakim,Hakim,Ziyach,Ziyech,19/3/1993,Chelsea FC (ENG),181
+23,Morocco,2,Away,6,11,23206,8,MC,Ounahi Azzedine,Azz-Eddine,Ounahi,Ounahi,19/4/2000,Angers SCO (FRA),182
+23,Morocco,2,Away,7,11,23207,11,DC,Sabiri Abdelhamid,Abdelhamid,Sabiri,Sabiri,28/11/1996,UC Sampdoria (ITA),186
+23,Morocco,2,Away,8,11,23208,13,MC,Chair Ilias,Ilias,Chair,Chair,30/10/1997,Queens Park Rangers FC (ENG),164
+23,Morocco,2,Away,9,11,23209,14,MC,Aboukhlal Zakaria,Zakaria,Aboukhlal,Aboukhlal,18/2/2000,Toulouse FC (FRA),179
+23,Morocco,2,Away,10,11,23210,15,MC,Amallah Selim,Selim,Amallah,Amallah,15/11/1996,Standard Liège (BEL),186
+23,Morocco,2,Away,11,11,23211,16,DC,Ez Abde,Abdessamad,Ezzalzouli,Ezzalzouli,17/12/2001,CA Osasuna (ESP),177
+23,Morocco,2,Away,12,11,23212,17,MC,Boufal Sofiane,Sofiane,Boufal,Boufal,17/9/1993,Angers SCO (FRA),170
+23,Morocco,2,Away,13,11,23213,19,DC,En-Nesyri Youssef,Youssef,En-Nesyri,En-Nesyri,1/6/1997,Sevilla FC (ESP),188
+23,Morocco,2,Away,14,11,23214,20,DF,Dari Achraf,Achraf,Dari,Dari,6/5/1999,Stade Brest (FRA),190
+23,Morocco,2,Away,15,11,23215,5,DF,Aguerd Nayef,Nayef,Aguerd,Aguerd,30/3/1996,West Ham United FC (ENG),190
+23,Morocco,2,Away,16,15,23216,9,DC,Hamdallah Abderrazak,Abderrazzaq,Hamed-Allah,Hamedallah,17/12/1990,Al Ittihad FC (KSA),179
+23,Morocco,2,Away,17,15,23217,10,MC,Harit Amine,Amine,Harit,Harit,18/6/1997,Olympique Marseille (FRA),180
+23,Morocco,2,Away,18,15,23218,18,DF,El Yamiq Jawad,Jawad,El-Yamiq,El-Yamiq,29/2/1992,Real Valladolid CF (ESP),193
+23,Morocco,2,Away,19,15,23219,21,DC,Cheddira Walid,Walid,Cheddira,Cheddira,22/1/1998,AS Bari (ITA),187
+23,Morocco,2,Away,20,15,23220,23,MC,El Khannouss Bilal,Bilal,El Khannouss,El Khannouss,10/5/2004,KRC Genk (BEL),180
+23,Morocco,2,Away,21,15,23221,24,DF,Benoun Badr,Badr,Benoun,Benoun,30/9/1993,Qatar SC (QAT),188
+23,Morocco,2,Away,22,15,23222,25,DF,Attiat-Allah Yahya,Yahya,Attiat-Allah El Idrissi,Attiat-Allah,2/3/1995,Wydad Casablanca (MAR),176
+23,Morocco,2,Away,23,15,23223,26,MC,Jabrane Yahya,Yahya,Jabrane,Jabrane,18/6/1991,Wydad Casablanca (MAR),183
+23,Morocco,3,Goalkeeper,1,83,23301,1,PO,Bounou Yassine,Yassine,Bounou,Bono,5/4/1991,Sevilla FC (ESP),190
+23,Morocco,3,Goalkeeper,2,165,23302,12,PO,El Kajoui Munir,Monir,El Kajoui,El Kajoui,10/5/1989,Al Wehda FC (KSA),190
+23,Morocco,3,Goalkeeper,3,165,23303,22,PO,Tagnaouti Reda,Ahmed Reda,Tagnaouti,Tagnaouti,5/4/1996,Wydad Casablanca (MAR),186
+24,Croatia,1,Home,1,2,24101,10,MC,Modric Luka,Luka,Modrić,Modrić,9/9/1985,Real Madrid CF (ESP),172
+24,Croatia,1,Home,2,5,24102,2,DF,Stanisic Josip,Josip,Stanišić,Stanišić,2/4/2000,FC Bayern München (GER),186
+24,Croatia,1,Home,3,5,24103,3,DF,Barisic Borna,Borna,Barišić,Barišić,10/11/1992,Rangers FC (SCO),186
+24,Croatia,1,Home,4,5,24104,4,DC,Perisic Ivan,Ivan,Perišić,Perišić,2/2/1989,Tottenham Hotspur FC (ENG),187
+24,Croatia,1,Home,5,5,24105,6,DF,Lovren Dejan,Dejan,Lovren,Lovren,5/7/1989,FC Zenit St. Petersburg (RUS),188
+24,Croatia,1,Home,6,5,24106,7,MC,Majer Lovro,Lovro,Majer,Majer,17/1/1998,Stade Rennais FC (FRA),178
+24,Croatia,1,Home,7,5,24107,8,MC,Kovacic Mateo,Mateo,Kovačić,Kovačić,6/5/1994,Chelsea FC (ENG),177
+24,Croatia,1,Home,8,5,24108,9,DC,Kramaric Andrej,Andrej,Kramarić,Kramarić,19/6/1991,TSG 1899 Hoffenheim (GER),177
+24,Croatia,1,Home,9,5,24109,11,MC,Brozovic Marcelo,Marcelo,Brozović,Brozović,16/11/1992,FC Internazionale (ITA),181
+24,Croatia,1,Home,10,5,24110,13,MC,Vlasic Nikola,Nikola,Vlašić,Vlašić,4/10/1997,Torino FC (ITA),178
+24,Croatia,1,Home,11,5,24111,17,DC,Budimir Ante,Ante,Budimir,Budimir,22/7/1991,CA Osasuna (ESP),190
+24,Croatia,1,Home,12,5,24112,19,DF,Sosa Borna,Borna,Sosa,Sosa,21/1/1998,VfB Stuttgart (GER),187
+24,Croatia,1,Home,13,5,24113,20,DF,Gvardiol Josko,Joško,Gvardiol,Gvardiol,23/1/2002,RB Leipzig (GER),185
+24,Croatia,1,Home,14,5,24114,21,DF,Vida Domagoj,Domagoj,Vida,Vida,29/4/1989,AEK Athens (GRE),184
+24,Croatia,1,Home,15,5,24115,5,DF,Erlic Martin,Martin,Erlić,Erlić,24/1/1998,US Sassuolo (ITA),192
+24,Croatia,1,Home,16,8,24116,14,DC,Livaja Marko,Marko,Livaja,Livaja,26/8/1993,HNK Hajduk Split (CRO),182
+24,Croatia,1,Home,17,8,24117,15,MC,Pasalic Mario,Mario,Pašalić,Pašalić,9/2/1995,Atalanta Bergamo (ITA),189
+24,Croatia,1,Home,18,8,24118,16,DC,Petkovic Bruno,Bruno,Petković,Petković,16/9/1994,GNK Dinamo Zagreb (CRO),193
+24,Croatia,1,Home,19,8,24119,18,DC,Orsic Mislav,Mislav,Oršić,Oršić,29/12/1992,GNK Dinamo Zagreb (CRO),179
+24,Croatia,1,Home,20,8,24120,22,DF,Juranovic Josip,Josip,Juranović,Juranović,16/8/1995,Celtic FC (SCO),173
+24,Croatia,1,Home,21,8,24121,24,DF,Sutalo Josip,Josip,Šutalo,Šutalo,28/2/2000,GNK Dinamo Zagreb (CRO),190
+24,Croatia,1,Home,22,8,24122,25,MC,Sucic Luka,Luka,Sučić,Sučić,8/9/2002,FC Red Bull Salzburg (AUT),185
+24,Croatia,1,Home,23,8,24123,26,MC,Jakic Kristijan,Kristijan,Jakić,Jakić,14/5/1997,Eintracht Frankfurt (GER),181
+24,Croatia,2,Away,1,5,24201,10,MC,Modric Luka,Luka,Modrić,Modrić,9/9/1985,Real Madrid CF (ESP),172
+24,Croatia,2,Away,2,22,24202,2,DF,Stanisic Josip,Josip,Stanišić,Stanišić,2/4/2000,FC Bayern München (GER),186
+24,Croatia,2,Away,3,22,24203,3,DF,Barisic Borna,Borna,Barišić,Barišić,10/11/1992,Rangers FC (SCO),186
+24,Croatia,2,Away,4,22,24204,4,DC,Perisic Ivan,Ivan,Perišić,Perišić,2/2/1989,Tottenham Hotspur FC (ENG),187
+24,Croatia,2,Away,5,22,24205,6,DF,Lovren Dejan,Dejan,Lovren,Lovren,5/7/1989,FC Zenit St. Petersburg (RUS),188
+24,Croatia,2,Away,6,22,24206,7,MC,Majer Lovro,Lovro,Majer,Majer,17/1/1998,Stade Rennais FC (FRA),178
+24,Croatia,2,Away,7,22,24207,8,MC,Kovacic Mateo,Mateo,Kovačić,Kovačić,6/5/1994,Chelsea FC (ENG),177
+24,Croatia,2,Away,8,22,24208,9,DC,Kramaric Andrej,Andrej,Kramarić,Kramarić,19/6/1991,TSG 1899 Hoffenheim (GER),177
+24,Croatia,2,Away,9,22,24209,11,MC,Brozovic Marcelo,Marcelo,Brozović,Brozović,16/11/1992,FC Internazionale (ITA),181
+24,Croatia,2,Away,10,22,24210,13,MC,Vlasic Nikola,Nikola,Vlašić,Vlašić,4/10/1997,Torino FC (ITA),178
+24,Croatia,2,Away,11,22,24211,17,DC,Budimir Ante,Ante,Budimir,Budimir,22/7/1991,CA Osasuna (ESP),190
+24,Croatia,2,Away,12,22,24212,19,DF,Sosa Borna,Borna,Sosa,Sosa,21/1/1998,VfB Stuttgart (GER),187
+24,Croatia,2,Away,13,22,24213,20,DF,Gvardiol Josko,Joško,Gvardiol,Gvardiol,23/1/2002,RB Leipzig (GER),185
+24,Croatia,2,Away,14,22,24214,21,DF,Vida Domagoj,Domagoj,Vida,Vida,29/4/1989,AEK Athens (GRE),184
+24,Croatia,2,Away,15,22,24215,5,DF,Erlic Martin,Martin,Erlić,Erlić,24/1/1998,US Sassuolo (ITA),192
+24,Croatia,2,Away,16,30,24216,14,DC,Livaja Marko,Marko,Livaja,Livaja,26/8/1993,HNK Hajduk Split (CRO),182
+24,Croatia,2,Away,17,30,24217,15,MC,Pasalic Mario,Mario,Pašalić,Pašalić,9/2/1995,Atalanta Bergamo (ITA),189
+24,Croatia,2,Away,18,30,24218,16,DC,Petkovic Bruno,Bruno,Petković,Petković,16/9/1994,GNK Dinamo Zagreb (CRO),193
+24,Croatia,2,Away,19,30,24219,18,DC,Orsic Mislav,Mislav,Oršić,Oršić,29/12/1992,GNK Dinamo Zagreb (CRO),179
+24,Croatia,2,Away,20,30,24220,22,DF,Juranovic Josip,Josip,Juranović,Juranović,16/8/1995,Celtic FC (SCO),173
+24,Croatia,2,Away,21,30,24221,24,DF,Sutalo Josip,Josip,Šutalo,Šutalo,28/2/2000,GNK Dinamo Zagreb (CRO),190
+24,Croatia,2,Away,22,30,24222,25,MC,Sucic Luka,Luka,Sučić,Sučić,8/9/2002,FC Red Bull Salzburg (AUT),185
+24,Croatia,2,Away,23,30,24223,26,MC,Jakic Kristijan,Kristijan,Jakić,Jakić,14/5/1997,Eintracht Frankfurt (GER),181
+24,Croatia,3,Goalkeeper,1,110,24301,1,PO,Livakovic Dominik,Dominik,Livaković,Livaković,9/1/1995,GNK Dinamo Zagreb (CRO),188
+24,Croatia,3,Goalkeeper,2,220,24302,12,PO,Grbic Ivo,Ivo,Grbić,Grbić,18/1/1996,CA Atlético Madrid (ESP),195
+24,Croatia,3,Goalkeeper,3,220,24303,23,PO,Ivusic Ivica,Ivica,Ivušić,Ivušić,1/2/1995,NK Osijek (CRO),195
+25,Brasil,1,Home,1,5,25101,10,DC,Neymar,Neymar,Da Silva Santos Junior,Neymar Jr,5/2/1992,Paris Saint-Germain FC (FRA),175
+25,Brasil,1,Home,2,8,25102,2,DF,Danilo,Danilo Luiz,Da Silva,Danilo,15/7/1991,Juventus FC (ITA),184
+25,Brasil,1,Home,3,8,25103,3,DF,Thiago Silva,Thiago,Emiliano Da Silva,T. Silva,22/9/1984,Chelsea FC (ENG),183
+25,Brasil,1,Home,4,16,25104,4,DF,Marquinhos,Marcos,Aoas Correa,Marquinhos,14/5/1994,Paris Saint-Germain FC (FRA),183
+25,Brasil,1,Home,5,16,25105,5,MC,Casemiro,Carlos Henrique,Casimiro,Casemiro,23/2/1992,Manchester United FC (ENG),185
+25,Brasil,1,Home,6,16,25106,6,DF,Alex Sandro,Alex Sandro,Lobo Silva,Alex Sandro,26/1/1991,Juventus FC (ITA),180
+25,Brasil,1,Home,7,16,25107,7,MC,Lucas Paqueta,Lucas,Tolentino Coelho De Lima,L. Paquetá,27/8/1997,West Ham United FC (ENG),180
+25,Brasil,1,Home,8,16,25108,8,MC,Fred,Frederico,Rodrigues De Paula Santos,Fred,5/3/1993,Manchester United FC (ENG),169
+25,Brasil,1,Home,9,16,25109,9,DC,Richarlison,Richarlison,De Andrade,Richarlison,10/5/1997,Tottenham Hotspur FC (ENG),184
+25,Brasil,1,Home,10,16,25110,11,DC,Raphinha,Raphael,Dias Belloli,Raphinha,14/12/1996,FC Barcelona (ESP),176
+25,Brasil,1,Home,11,16,25111,14,DF,Eder Militao,Éder Gabriel,Militão,E. Militão,18/1/1998,Real Madrid CF (ESP),186
+25,Brasil,1,Home,12,16,25112,16,DF,Alex Telles,Alex,Nicolao Telles,Alex Telles,15/12/1992,Sevilla FC (ESP),181
+25,Brasil,1,Home,13,16,25113,18,DC,Gabriel Jesus,Gabriel Fernando,De Jesus,G. Jesus,3/4/1997,Arsenal FC (ENG),175
+25,Brasil,1,Home,14,16,25114,20,DC,Vinicius Junior,Vinicius José,Paixão De Oliveira Júnior,Vini Jr,12/7/2000,Real Madrid CF (ESP),176
+25,Brasil,1,Home,15,16,25115,13,DF,Dani Alves,Daniel,Alves Da Silva,Dani Alves,6/5/1983,Pumas UNAM (MEX),172
+25,Brasil,1,Home,16,22,25116,15,MC,Fabinho,Fabio Henrique,Tavares,Fabinho,23/10/1993,Liverpool FC (ENG),188
+25,Brasil,1,Home,17,22,25117,17,MC,Bruno Guimaraes,Bruno,Guimarães Rodriguez Moura,Bruno G.,16/11/1997,Newcastle United FC (ENG),182
+25,Brasil,1,Home,18,22,25118,19,DC,Antony,Antony Matheus,Dos Santos,Antony,24/2/2000,Manchester United FC (ENG),172
+25,Brasil,1,Home,19,22,25119,21,DC,Rodrygo,Rodrygo,Silva De Goes,Rodrygo,9/1/2001,Real Madrid CF (ESP),174
+25,Brasil,1,Home,20,22,25120,22,MC,Everton Ribeiro,Everton Augusto,De Barros Ribeiro,E. Ribeiro,10/4/1989,CR Flamengo (BRA),174
+25,Brasil,1,Home,21,22,25121,24,DF,Bremer,Gleison Bremer,Silva Nascimento,Bremer,18/3/1997,Juventus FC (ITA),188
+25,Brasil,1,Home,22,22,25122,25,DC,Pedro,Pedro Guilherme,Abreu Dos Santos,Pedro,20/6/1997,CR Flamengo (BRA),185
+25,Brasil,1,Home,23,22,25123,26,DC,Gabriel Martinelli,Gabriel,Teodoro Martinelli Silva,Martinelli,18/6/2001,Arsenal FC (ENG),178
+25,Brasil,2,Away,1,2,25201,10,DC,Neymar,Neymar,Da Silva Santos Junior,Neymar Jr,5/2/1992,Paris Saint-Germain FC (FRA),175
+25,Brasil,2,Away,2,5,25202,2,DF,Danilo,Danilo Luiz,Da Silva,Danilo,15/7/1991,Juventus FC (ITA),184
+25,Brasil,2,Away,3,5,25203,3,DF,Thiago Silva,Thiago,Emiliano Da Silva,T. Silva,22/9/1984,Chelsea FC (ENG),183
+25,Brasil,2,Away,4,5,25204,4,DF,Marquinhos,Marcos,Aoas Correa,Marquinhos,14/5/1994,Paris Saint-Germain FC (FRA),183
+25,Brasil,2,Away,5,5,25205,5,MC,Casemiro,Carlos Henrique,Casimiro,Casemiro,23/2/1992,Manchester United FC (ENG),185
+25,Brasil,2,Away,6,5,25206,6,DF,Alex Sandro,Alex Sandro,Lobo Silva,Alex Sandro,26/1/1991,Juventus FC (ITA),180
+25,Brasil,2,Away,7,5,25207,7,MC,Lucas Paqueta,Lucas,Tolentino Coelho De Lima,L. Paquetá,27/8/1997,West Ham United FC (ENG),180
+25,Brasil,2,Away,8,5,25208,8,MC,Fred,Frederico,Rodrigues De Paula Santos,Fred,5/3/1993,Manchester United FC (ENG),169
+25,Brasil,2,Away,9,5,25209,9,DC,Richarlison,Richarlison,De Andrade,Richarlison,10/5/1997,Tottenham Hotspur FC (ENG),184
+25,Brasil,2,Away,10,5,25210,11,DC,Raphinha,Raphael,Dias Belloli,Raphinha,14/12/1996,FC Barcelona (ESP),176
+25,Brasil,2,Away,11,5,25211,14,DF,Eder Militao,Éder Gabriel,Militão,E. Militão,18/1/1998,Real Madrid CF (ESP),186
+25,Brasil,2,Away,12,5,25212,16,DF,Alex Telles,Alex,Nicolao Telles,Alex Telles,15/12/1992,Sevilla FC (ESP),181
+25,Brasil,2,Away,13,5,25213,18,DC,Gabriel Jesus,Gabriel Fernando,De Jesus,G. Jesus,3/4/1997,Arsenal FC (ENG),175
+25,Brasil,2,Away,14,5,25214,20,DC,Vinicius Junior,Vinicius José,Paixão De Oliveira Júnior,Vini Jr,12/7/2000,Real Madrid CF (ESP),176
+25,Brasil,2,Away,15,5,25215,13,DF,Dani Alves,Daniel,Alves Da Silva,Dani Alves,6/5/1983,Pumas UNAM (MEX),172
+25,Brasil,2,Away,16,8,25216,15,MC,Fabinho,Fabio Henrique,Tavares,Fabinho,23/10/1993,Liverpool FC (ENG),188
+25,Brasil,2,Away,17,8,25217,17,MC,Bruno Guimaraes,Bruno,Guimarães Rodriguez Moura,Bruno G.,16/11/1997,Newcastle United FC (ENG),182
+25,Brasil,2,Away,18,8,25218,19,DC,Antony,Antony Matheus,Dos Santos,Antony,24/2/2000,Manchester United FC (ENG),172
+25,Brasil,2,Away,19,8,25219,21,DC,Rodrygo,Rodrygo,Silva De Goes,Rodrygo,9/1/2001,Real Madrid CF (ESP),174
+25,Brasil,2,Away,20,8,25220,22,MC,Everton Ribeiro,Everton Augusto,De Barros Ribeiro,E. Ribeiro,10/4/1989,CR Flamengo (BRA),174
+25,Brasil,2,Away,21,8,25221,24,DF,Bremer,Gleison Bremer,Silva Nascimento,Bremer,18/3/1997,Juventus FC (ITA),188
+25,Brasil,2,Away,22,8,25222,25,DC,Pedro,Pedro Guilherme,Abreu Dos Santos,Pedro,20/6/1997,CR Flamengo (BRA),185
+25,Brasil,2,Away,23,8,25223,26,DC,Gabriel Martinelli,Gabriel,Teodoro Martinelli Silva,Martinelli,18/6/2001,Arsenal FC (ENG),178
+25,Brasil,3,Goalkeeper,1,55,25301,1,PO,Alisson,Alisson Ramsés,Becker,A. Becker,2/10/1992,Liverpool FC (ENG),193
+25,Brasil,3,Goalkeeper,2,110,25302,12,PO,Weverton,Weverton,Pereira Da Silva,Weverton,13/12/1987,SE Palmeiras (BRA),189
+25,Brasil,3,Goalkeeper,3,110,25303,23,PO,Ederson,Ederson,Santana De Moraes,Ederson,17/8/1993,Manchester City FC (ENG),188
+26,Serbia,1,Home,1,2,26101,18,DC,Vlahovic Dusan,Dušan,Vlahović,Vlahović,28/1/2000,Juventus FC (ITA),190
+26,Serbia,1,Home,2,5,26102,2,DF,Pavlovic Strahinja,Strahinja,Pavlović,Pavlović,24/5/2001,FC Red Bull Salzburg (AUT),194
+26,Serbia,1,Home,3,5,26103,4,DF,Milenkovic Nikola,Nikola,Milenković,Milenković,12/10/1997,ACF Fiorentina (ITA),195
+26,Serbia,1,Home,4,5,26104,5,DF,Veljkovic Milos,Miloš,Veljković,Veljković,26/9/1995,SV Werder Bremen (GER),188
+26,Serbia,1,Home,5,5,26105,7,DC,Radonjic Nemanja,Nemanja,Radonjić,Radonjić,15/2/1996,Torino FC (ITA),185
+26,Serbia,1,Home,6,5,26106,9,DC,Mitrovic Aleksandar,Aleksandar,Mitrović,A. Mitrović,16/9/1994,Fulham FC (ENG),189
+26,Serbia,1,Home,7,5,26107,10,DC,Tadic Dusan,Dušan,Tadić,Tadić,20/11/1988,AFC Ajax (NED),181
+26,Serbia,1,Home,8,5,26108,13,DF,Mitrovic Stefan,Stefan,Mitrović,S. Mitrović,22/5/1990,Getafe CF (ESP),189
+26,Serbia,1,Home,9,5,26109,14,MC,Zivkovic Andrija,Andrija,Živković,Živković,11/7/1996,PAOK Saloniki (GRE),170
+26,Serbia,1,Home,10,5,26110,15,DF,Babic Srdjan,Srđan,Babić,Babić,22/4/1996,UD Almería (ESP),195
+26,Serbia,1,Home,11,5,26111,16,MC,Lukic Sasa,Saša,Lukić,Lukić,13/8/1996,Torino FC (ITA),183
+26,Serbia,1,Home,12,5,26112,17,MC,Kostic Filip,Filip,Kostić,Kostić,1/11/1992,Juventus FC (ITA),184
+26,Serbia,1,Home,13,5,26113,20,MC,Milinkovic-Savic Sergej,Sergej,Milinković-Savić,Sergej,27/2/1995,SS Lazio (ITA),192
+26,Serbia,1,Home,14,5,26114,24,MC,Ilic Ivan,Ivan,Ilić,Ilić,17/3/2001,Hellas Verona FC (ITA),182
+26,Serbia,1,Home,15,5,26115,3,DF,Erakovic Strahinja,Strahinja,Eraković,Eraković,22/1/2001,FK Crvena Zvezda (SRB),184
+26,Serbia,1,Home,16,8,26116,6,MC,Maksimovic Nemanja,Nemanja,Maksimović,Maksimović,26/1/1995,Getafe CF (ESP),189
+26,Serbia,1,Home,17,8,26117,8,MC,Gudelj Nemanja,Nemanja,Gudelj,Gudelj,16/11/1991,Sevilla FC (ESP),187
+26,Serbia,1,Home,18,8,26118,11,DC,Jovic Luka,Luka,Jović,Jović,23/12/1997,ACF Fiorentina (ITA),181
+26,Serbia,1,Home,19,8,26119,19,MC,Racic Uros,Uroš,Račić,Račić,17/3/1998,SC Braga (POR),193
+26,Serbia,1,Home,20,8,26120,21,DC,Djuricic Filip,Filip,Đuričić,Đuričić,30/1/1992,UC Sampdoria (ITA),176
+26,Serbia,1,Home,21,8,26121,22,MC,Lazovic Darko,Darko,Lazović,Lazović,15/9/1990,Hellas Verona FC (ITA),181
+26,Serbia,1,Home,22,8,26122,25,DF,Mladenovic Filip,Filip,Mladenović,Mladenović,15/8/1991,Legia Warsaw (POL),181
+26,Serbia,1,Home,23,8,26123,26,MC,Grujic Marko,Marko,Grujić,Grujić,13/4/1996,FC Porto (POR),191
+26,Serbia,2,Away,1,5,26201,18,DC,Vlahovic Dusan,Dušan,Vlahović,Vlahović,28/1/2000,Juventus FC (ITA),190
+26,Serbia,2,Away,2,11,26202,2,DF,Pavlovic Strahinja,Strahinja,Pavlović,Pavlović,24/5/2001,FC Red Bull Salzburg (AUT),194
+26,Serbia,2,Away,3,11,26203,4,DF,Milenkovic Nikola,Nikola,Milenković,Milenković,12/10/1997,ACF Fiorentina (ITA),195
+26,Serbia,2,Away,4,11,26204,5,DF,Veljkovic Milos,Miloš,Veljković,Veljković,26/9/1995,SV Werder Bremen (GER),188
+26,Serbia,2,Away,5,11,26205,7,DC,Radonjic Nemanja,Nemanja,Radonjić,Radonjić,15/2/1996,Torino FC (ITA),185
+26,Serbia,2,Away,6,11,26206,9,DC,Mitrovic Aleksandar,Aleksandar,Mitrović,A. Mitrović,16/9/1994,Fulham FC (ENG),189
+26,Serbia,2,Away,7,11,26207,10,DC,Tadic Dusan,Dušan,Tadić,Tadić,20/11/1988,AFC Ajax (NED),181
+26,Serbia,2,Away,8,11,26208,13,DF,Mitrovic Stefan,Stefan,Mitrović,S. Mitrović,22/5/1990,Getafe CF (ESP),189
+26,Serbia,2,Away,9,11,26209,14,MC,Zivkovic Andrija,Andrija,Živković,Živković,11/7/1996,PAOK Saloniki (GRE),170
+26,Serbia,2,Away,10,11,26210,15,DF,Babic Srdjan,Srđan,Babić,Babić,22/4/1996,UD Almería (ESP),195
+26,Serbia,2,Away,11,11,26211,16,MC,Lukic Sasa,Saša,Lukić,Lukić,13/8/1996,Torino FC (ITA),183
+26,Serbia,2,Away,12,11,26212,17,MC,Kostic Filip,Filip,Kostić,Kostić,1/11/1992,Juventus FC (ITA),184
+26,Serbia,2,Away,13,11,26213,20,MC,Milinkovic-Savic Sergej,Sergej,Milinković-Savić,Sergej,27/2/1995,SS Lazio (ITA),192
+26,Serbia,2,Away,14,11,26214,24,MC,Ilic Ivan,Ivan,Ilić,Ilić,17/3/2001,Hellas Verona FC (ITA),182
+26,Serbia,2,Away,15,11,26215,3,DF,Erakovic Strahinja,Strahinja,Eraković,Eraković,22/1/2001,FK Crvena Zvezda (SRB),184
+26,Serbia,2,Away,16,15,26216,6,MC,Maksimovic Nemanja,Nemanja,Maksimović,Maksimović,26/1/1995,Getafe CF (ESP),189
+26,Serbia,2,Away,17,15,26217,8,MC,Gudelj Nemanja,Nemanja,Gudelj,Gudelj,16/11/1991,Sevilla FC (ESP),187
+26,Serbia,2,Away,18,15,26218,11,DC,Jovic Luka,Luka,Jović,Jović,23/12/1997,ACF Fiorentina (ITA),181
+26,Serbia,2,Away,19,15,26219,19,MC,Racic Uros,Uroš,Račić,Račić,17/3/1998,SC Braga (POR),193
+26,Serbia,2,Away,20,15,26220,21,DC,Djuricic Filip,Filip,Đuričić,Đuričić,30/1/1992,UC Sampdoria (ITA),176
+26,Serbia,2,Away,21,15,26221,22,MC,Lazovic Darko,Darko,Lazović,Lazović,15/9/1990,Hellas Verona FC (ITA),181
+26,Serbia,2,Away,22,15,26222,25,DF,Mladenovic Filip,Filip,Mladenović,Mladenović,15/8/1991,Legia Warsaw (POL),181
+26,Serbia,2,Away,23,15,26223,26,MC,Grujic Marko,Marko,Grujić,Grujić,13/4/1996,FC Porto (POR),191
+26,Serbia,3,Goalkeeper,1,83,26301,23,PO,Milinkovic-Savic Vanja,Vanja,Milinković Savić,Vanja,20/2/1997,Torino FC (ITA),202
+26,Serbia,3,Goalkeeper,2,165,26302,1,PO,Dmitrovic Marko,Marko,Dmitrović,Dmitrović,24/1/1992,Sevilla FC (ESP),194
+26,Serbia,3,Goalkeeper,3,165,26303,12,PO,Rajkovic Predrag,Predrag,Rajković,Rajković,31/10/1995,RCD Mallorca (ESP),191
+27,Switzerland,1,Home,1,8,27101,23,MC,Shaqiri Xherdan,Xherdan,Shaqiri,Shaqiri,10/10/1991,Chicago Fire (USA),169
+27,Switzerland,1,Home,2,22,27102,3,DF,Widmer Silvan,Silvan Dominic,Widmer,Widmer,5/3/1993,FSV Mainz 05 (GER),183
+27,Switzerland,1,Home,3,22,27103,4,DF,Elvedi Nico,Nico,Elvedi,Elvedi,30/9/1996,VfL Borussia Mönchengladbach (GER),187
+27,Switzerland,1,Home,4,22,27104,5,DF,Akanji Manuel,Manuel Obafemi,Akanji,Akanji,19/7/1995,Manchester City FC (ENG),186
+27,Switzerland,1,Home,5,22,27105,6,MC,Zakaria Denis,Denis Lemi,Zakaria Lako Lado,Zakaria,20/11/1996,Chelsea FC (ENG),189
+27,Switzerland,1,Home,6,22,27106,7,DC,Embolo Breel,Breel Donald,Embolo,Embolo,14/2/1997,AS Monaco (FRA),184
+27,Switzerland,1,Home,7,22,27107,8,MC,Freuler Remo,Remo Marco,Freuler,Freuler,15/4/1992,Nottingham Forest FC (ENG),181
+27,Switzerland,1,Home,8,22,27108,9,DC,Seferovic Haris,Haris,Seferovic,Seferovic,22/2/1992,Galatasaray SK (TUR),186
+27,Switzerland,1,Home,9,22,27109,10,MC,Xhaka Granit,Granit,Xhaka,Xhaka,27/9/1992,Arsenal FC (ENG),183
+27,Switzerland,1,Home,10,22,27110,11,DF,Steffen Renato,Renato,Steffen,Steffen,3/11/1991,FC Lugano (SUI),170
+27,Switzerland,1,Home,11,22,27111,13,DF,Rodriguez Ricardo,Ricardo Ivan,Rodriguez Araya,Rodriguez,25/8/1992,Torino FC (ITA),180
+27,Switzerland,1,Home,12,22,27112,15,MC,Sow Djibril,Mohameth Djibril Ibrahima,Sow,Sow,6/2/1997,Eintracht Frankfurt (GER),183
+27,Switzerland,1,Home,13,22,27113,17,DC,Vargas Ruben,Ruben Estephan,Vargas Maritnez,Vargas,5/8/1998,FC Augsburg (GER),179
+27,Switzerland,1,Home,14,22,27114,22,DF,Schaer Fabian,Fabian Lukas,Schär,Schär,20/12/1991,Newcastle United FC (ENG),186
+27,Switzerland,1,Home,15,22,27115,2,DF,Fernandes Edimilson,Edimilson,Fernandes Ribeiro,Fernandes,15/4/1996,FSV Mainz 05 (GER),190
+27,Switzerland,1,Home,16,30,27116,14,MC,Aebischer Michel,Michel,Aebischer,Aebischer,6/1/1997,Bologna FC (ITA),183
+27,Switzerland,1,Home,17,30,27117,16,MC,Fassnacht Christian,Christian Andreas,Fassnacht,Fassnacht,11/11/1993,BSC Young Boys (SUI),185
+27,Switzerland,1,Home,18,30,27118,18,DF,Coemert Eray,Eray Ervin,Cömert,Cömert,4/2/1998,Valencia CF (ESP),183
+27,Switzerland,1,Home,19,30,27119,19,DC,Okafor Noah,Noah Arinzechukwu,Okafor,Okafor,24/5/2000,FC Red Bull Salzburg (AUT),185
+27,Switzerland,1,Home,20,30,27120,20,MC,Frei Fabian,Fabian,Frei,Frei,8/1/1989,FC Basel (SUI),183
+27,Switzerland,1,Home,21,30,27121,25,MC,Rieder Fabian,Fabian,Rieder,Rieder,16/2/2002,BSC Young Boys (SUI),181
+27,Switzerland,1,Home,22,30,27122,26,MC,Jashari Ardon,Ardon,Jashari,Jashari,30/7/2002,FC Luzern (SUI),181
+27,Switzerland,1,Home,23,0,27123,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+27,Switzerland,2,Away,1,7,27201,23,MC,Shaqiri Xherdan,Xherdan,Shaqiri,Shaqiri,10/10/1991,Chicago Fire (USA),169
+27,Switzerland,2,Away,2,16,27202,3,DF,Widmer Silvan,Silvan Dominic,Widmer,Widmer,5/3/1993,FSV Mainz 05 (GER),183
+27,Switzerland,2,Away,3,16,27203,4,DF,Elvedi Nico,Nico,Elvedi,Elvedi,30/9/1996,VfL Borussia Mönchengladbach (GER),187
+27,Switzerland,2,Away,4,16,27204,5,DF,Akanji Manuel,Manuel Obafemi,Akanji,Akanji,19/7/1995,Manchester City FC (ENG),186
+27,Switzerland,2,Away,5,16,27205,6,MC,Zakaria Denis,Denis Lemi,Zakaria Lako Lado,Zakaria,20/11/1996,Chelsea FC (ENG),189
+27,Switzerland,2,Away,6,16,27206,7,DC,Embolo Breel,Breel Donald,Embolo,Embolo,14/2/1997,AS Monaco (FRA),184
+27,Switzerland,2,Away,7,16,27207,8,MC,Freuler Remo,Remo Marco,Freuler,Freuler,15/4/1992,Nottingham Forest FC (ENG),181
+27,Switzerland,2,Away,8,16,27208,9,DC,Seferovic Haris,Haris,Seferovic,Seferovic,22/2/1992,Galatasaray SK (TUR),186
+27,Switzerland,2,Away,9,16,27209,10,MC,Xhaka Granit,Granit,Xhaka,Xhaka,27/9/1992,Arsenal FC (ENG),183
+27,Switzerland,2,Away,10,16,27210,11,DF,Steffen Renato,Renato,Steffen,Steffen,3/11/1991,FC Lugano (SUI),170
+27,Switzerland,2,Away,11,16,27211,13,DF,Rodriguez Ricardo,Ricardo Ivan,Rodriguez Araya,Rodriguez,25/8/1992,Torino FC (ITA),180
+27,Switzerland,2,Away,12,16,27212,15,MC,Sow Djibril,Mohameth Djibril Ibrahima,Sow,Sow,6/2/1997,Eintracht Frankfurt (GER),183
+27,Switzerland,2,Away,13,16,27213,17,DC,Vargas Ruben,Ruben Estephan,Vargas Maritnez,Vargas,5/8/1998,FC Augsburg (GER),179
+27,Switzerland,2,Away,14,16,27214,22,DF,Schaer Fabian,Fabian Lukas,Schär,Schär,20/12/1991,Newcastle United FC (ENG),186
+27,Switzerland,2,Away,15,16,27215,2,DF,Fernandes Edimilson,Edimilson,Fernandes Ribeiro,Fernandes,15/4/1996,FSV Mainz 05 (GER),190
+27,Switzerland,2,Away,16,22,27216,14,MC,Aebischer Michel,Michel,Aebischer,Aebischer,6/1/1997,Bologna FC (ITA),183
+27,Switzerland,2,Away,17,22,27217,16,MC,Fassnacht Christian,Christian Andreas,Fassnacht,Fassnacht,11/11/1993,BSC Young Boys (SUI),185
+27,Switzerland,2,Away,18,22,27218,18,DF,Coemert Eray,Eray Ervin,Cömert,Cömert,4/2/1998,Valencia CF (ESP),183
+27,Switzerland,2,Away,19,22,27219,19,DC,Okafor Noah,Noah Arinzechukwu,Okafor,Okafor,24/5/2000,FC Red Bull Salzburg (AUT),185
+27,Switzerland,2,Away,20,22,27220,20,MC,Frei Fabian,Fabian,Frei,Frei,8/1/1989,FC Basel (SUI),183
+27,Switzerland,2,Away,21,22,27221,25,MC,Rieder Fabian,Fabian,Rieder,Rieder,16/2/2002,BSC Young Boys (SUI),181
+27,Switzerland,2,Away,22,22,27222,26,MC,Jashari Ardon,Ardon,Jashari,Jashari,30/7/2002,FC Luzern (SUI),181
+27,Switzerland,2,Away,23,0,27223,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+27,Switzerland,3,Goalkeeper,1,28,27301,1,PO,Sommer Yann,Yann,Sommer,Sommer,17/12/1988,VfL Borussia Mönchengladbach (GER),183
+27,Switzerland,3,Goalkeeper,2,55,27302,12,PO,Omlin Jonas,Jonas,Omlin,Omlin,10/1/1994,Montpellier HSC (FRA),190
+27,Switzerland,3,Goalkeeper,3,55,27303,21,PO,Kobel Gregor,Gregor,Kobel,Kobel,6/12/1997,Borussia Dortmund (GER),194
+27,Switzerland,3,Goalkeeper,4,52,27304,24,PO,Koehn Philipp,Philipp Francois,Köhn,Köhn,2/4/1998,FC Red Bull Salzburg (AUT),190
+28,Cameroon,1,Home,1,5,28101,13,DC,Choupo-Moting Eric Maxim,Eric Maxim,Choupo-Moting,Choupo-Moting,23/3/1989,FC Bayern München (GER),191
+28,Cameroon,1,Home,2,11,28102,3,DF,Nkoulou Nicolas,Nicolas Julio,Nkoulou Ndoubena,Nkoulou,27/3/1990,Aris Thessaloniki FC (GRE),185
+28,Cameroon,1,Home,3,11,28103,4,DF,Wooh Christopher,Christopher Maurice,Wooh,Wooh,18/9/2001,Stade Rennais FC (FRA),191
+28,Cameroon,1,Home,4,11,28104,5,MC,Ondoua Gael,Gael,Bella Ondoua,Ondoua,4/11/1995,Hannover 96 (GER),185
+28,Cameroon,1,Home,5,11,28105,6,DC,Moumi Ngamaleu Nicolas,Nicolas Brice,Moumi Ngamaleu,Ngamaleu,9/7/1994,FC Dynamo Moscow (RUS),181
+28,Cameroon,1,Home,6,11,28106,8,MC,Zambo Anguissa Andre-Frank,Andre Frank,Zambo Anguissa,Anguissa,16/11/1995,SSC Napoli (ITA),184
+28,Cameroon,1,Home,7,11,28107,10,DC,Aboubakar Vincent,Vincent,Aboubakar,Aboubakar,22/1/1992,Al Nassr FC (KSA),176
+28,Cameroon,1,Home,8,11,28108,12,DC,Toko Ekambi Karl,Karl Louis-Brillant,Toko Ekambi,Toko-Ekambi,14/9/1992,Olympique Lyon (FRA),183
+28,Cameroon,1,Home,9,11,28109,14,MC,Oum Gouet Samuel,Samuel Yves,Oum Gouet,Oum,14/12/1997,KV Mechelen (BEL),185
+28,Cameroon,1,Home,10,11,28110,18,MC,Hongla Martin,Martin,Hongla Yma Ii,Hongla,16/3/1998,Hellas Verona FC (ITA),182
+28,Cameroon,1,Home,11,11,28111,19,DF,Fai Collins,Ngoran Suiru,Fai Collins,Fai,13/8/1992,Al Tai FC (KSA),165
+28,Cameroon,1,Home,12,11,28112,20,DC,Mbeumo Bryan,Bryan Tetsadong Marceau,Mbeumo,Mbeumo,7/8/1999,Brentford FC (ENG),173
+28,Cameroon,1,Home,13,11,28113,21,DF,Castelletto Jean-Charles,Jean-Charles Victor,Castelletto,Castelletto,26/1/1995,FC Nantes (FRA),186
+28,Cameroon,1,Home,14,11,28114,25,DF,Nouhou Tolo,Tolo,Nouhou,Nouhou,23/6/1997,Seattle Sounders FC (USA),178
+28,Cameroon,1,Home,15,11,28115,2,DF,Ngom Mbekeli Jerome,Jerome,Ngom Mbekeli,Ngom,30/9/1998,APEJES De Mfou (CMR),174
+28,Cameroon,1,Home,16,15,28116,7,MC,Nkoudou Georges-Kevin,Georges Kevin,Nkoudou Mbida,Nkoudou,13/2/1995,Besiktas JK (TUR),172
+28,Cameroon,1,Home,17,15,28117,9,DC,Nsame Jean-Pierre,Jean Pierre Junior,Nsame,Nsame,1/5/1993,BSC Young Boys (SUI),188
+28,Cameroon,1,Home,18,15,28118,11,DC,Bassogog Christian,Christian,Mougang Bassogog,Bassogog,18/10/1995,Shanghai Shenhua FC (CHN),178
+28,Cameroon,1,Home,19,15,28119,15,MC,Kunde Pierre,Pierre,Kunde Malong,Kunde Malong,26/7/1995,Olympiacos Piraeus FC (GRE),180
+28,Cameroon,1,Home,20,15,28120,17,DF,Mbaizo Olivier,Olivier,Mbaissidara Mbaizo,Mbaizo,15/8/1997,Philadelphia Union (USA),178
+28,Cameroon,1,Home,21,15,28121,22,MC,Ntcham Olivier,Jules Olivier,Ntcham,Ntcham,9/2/1996,Swansea City AFC (WAL),180
+28,Cameroon,1,Home,22,15,28122,24,DF,Ebosse Enzo,Enzo Jacques Rodolphe,Ebosse,Ebosse,11/3/1999,Udinese (ITA),185
+28,Cameroon,1,Home,23,15,28123,26,MC,Marou Souaibou,Souaibou,Marou,Souaibou,3/12/2000,Coton Sport FC (CMR),180
+28,Cameroon,2,Away,1,5,28201,13,DC,Choupo-Moting Eric Maxim,Eric Maxim,Choupo-Moting,Choupo-Moting,23/3/1989,FC Bayern München (GER),191
+28,Cameroon,2,Away,2,22,28202,3,DF,Nkoulou Nicolas,Nicolas Julio,Nkoulou Ndoubena,Nkoulou,27/3/1990,Aris Thessaloniki FC (GRE),185
+28,Cameroon,2,Away,3,22,28203,4,DF,Wooh Christopher,Christopher Maurice,Wooh,Wooh,18/9/2001,Stade Rennais FC (FRA),191
+28,Cameroon,2,Away,4,22,28204,5,MC,Ondoua Gael,Gael,Bella Ondoua,Ondoua,4/11/1995,Hannover 96 (GER),185
+28,Cameroon,2,Away,5,22,28205,6,DC,Moumi Ngamaleu Nicolas,Nicolas Brice,Moumi Ngamaleu,Ngamaleu,9/7/1994,FC Dynamo Moscow (RUS),181
+28,Cameroon,2,Away,6,22,28206,8,MC,Zambo Anguissa Andre-Frank,Andre Frank,Zambo Anguissa,Anguissa,16/11/1995,SSC Napoli (ITA),184
+28,Cameroon,2,Away,7,22,28207,10,DC,Aboubakar Vincent,Vincent,Aboubakar,Aboubakar,22/1/1992,Al Nassr FC (KSA),176
+28,Cameroon,2,Away,8,22,28208,12,DC,Toko Ekambi Karl,Karl Louis-Brillant,Toko Ekambi,Toko-Ekambi,14/9/1992,Olympique Lyon (FRA),183
+28,Cameroon,2,Away,9,22,28209,14,MC,Oum Gouet Samuel,Samuel Yves,Oum Gouet,Oum,14/12/1997,KV Mechelen (BEL),185
+28,Cameroon,2,Away,10,22,28210,18,MC,Hongla Martin,Martin,Hongla Yma Ii,Hongla,16/3/1998,Hellas Verona FC (ITA),182
+28,Cameroon,2,Away,11,22,28211,19,DF,Fai Collins,Ngoran Suiru,Fai Collins,Fai,13/8/1992,Al Tai FC (KSA),165
+28,Cameroon,2,Away,12,22,28212,20,DC,Mbeumo Bryan,Bryan Tetsadong Marceau,Mbeumo,Mbeumo,7/8/1999,Brentford FC (ENG),173
+28,Cameroon,2,Away,13,22,28213,21,DF,Castelletto Jean-Charles,Jean-Charles Victor,Castelletto,Castelletto,26/1/1995,FC Nantes (FRA),186
+28,Cameroon,2,Away,14,22,28214,25,DF,Nouhou Tolo,Tolo,Nouhou,Nouhou,23/6/1997,Seattle Sounders FC (USA),178
+28,Cameroon,2,Away,15,22,28215,2,DF,Ngom Mbekeli Jerome,Jerome,Ngom Mbekeli,Ngom,30/9/1998,APEJES De Mfou (CMR),174
+28,Cameroon,2,Away,16,30,28216,7,MC,Nkoudou Georges-Kevin,Georges Kevin,Nkoudou Mbida,Nkoudou,13/2/1995,Besiktas JK (TUR),172
+28,Cameroon,2,Away,17,30,28217,9,DC,Nsame Jean-Pierre,Jean Pierre Junior,Nsame,Nsame,1/5/1993,BSC Young Boys (SUI),188
+28,Cameroon,2,Away,18,30,28218,11,DC,Bassogog Christian,Christian,Mougang Bassogog,Bassogog,18/10/1995,Shanghai Shenhua FC (CHN),178
+28,Cameroon,2,Away,19,30,28219,15,MC,Kunde Pierre,Pierre,Kunde Malong,Kunde Malong,26/7/1995,Olympiacos Piraeus FC (GRE),180
+28,Cameroon,2,Away,20,30,28220,17,DF,Mbaizo Olivier,Olivier,Mbaissidara Mbaizo,Mbaizo,15/8/1997,Philadelphia Union (USA),178
+28,Cameroon,2,Away,21,30,28221,22,MC,Ntcham Olivier,Jules Olivier,Ntcham,Ntcham,9/2/1996,Swansea City AFC (WAL),180
+28,Cameroon,2,Away,22,30,28222,24,DF,Ebosse Enzo,Enzo Jacques Rodolphe,Ebosse,Ebosse,11/3/1999,Udinese (ITA),185
+28,Cameroon,2,Away,23,30,28223,26,MC,Marou Souaibou,Souaibou,Marou,Souaibou,3/12/2000,Coton Sport FC (CMR),180
+28,Cameroon,3,Goalkeeper,1,110,28301,23,PO,Onana Andre,Andre,Onana Onana,Onana,2/4/1996,FC Internazionale (ITA),190
+28,Cameroon,3,Goalkeeper,2,220,28302,1,PO,Ngapandouetnbu Simon,Simon Brady,Ngapandouetnbu,Ngapandouetnbu,12/4/2003,Olympique Marseille (FRA),186
+28,Cameroon,3,Goalkeeper,3,220,28303,16,PO,Epassy Devis,Devis Rogers,Epassy Mboka,Epassy,2/2/1993,Abha Club (KSA),187
+29,Portugal,1,Home,1,2,29101,7,DC,Cristiano Ronaldo,Cristiano Ronaldo,Dos Santos Aveiro,Ronaldo,5/2/1985,Manchester United FC (ENG),185
+29,Portugal,1,Home,2,5,29102,3,DF,Pepe,Kepler Laveran,De Lima Ferreira,Pepe,26/2/1983,FC Porto (POR),188
+29,Portugal,1,Home,3,5,29103,4,DF,Ruben Dias,Rúben,Dos Santos Gato Alves Dias,Ruben Dias,14/5/1997,Manchester City FC (ENG),187
+29,Portugal,1,Home,4,5,29104,8,MC,Bruno Fernandes,Bruno Miguel,Borges Fernandes,B. Fernandes,8/9/1994,Manchester United FC (ENG),183
+29,Portugal,1,Home,5,5,29105,10,DC,Bernardo Silva,Bernardo,Mota Veiga De Carvalho E Silva,Bernardo,10/8/1994,Manchester City FC (ENG),173
+29,Portugal,1,Home,6,5,29106,11,DC,Joao Felix,João,Félix Sequeira,João Félix,10/11/1999,CA Atlético Madrid (ESP),179
+29,Portugal,1,Home,7,5,29107,13,DF,Danilo Pereira,Danilo Luis Hélio,Pereira,Danilo,9/9/1991,Paris Saint-Germain FC (FRA),188
+29,Portugal,1,Home,8,5,29108,14,MC,William Carvalho,William,Silva De Carvalho,William,7/4/1992,Real Betis (ESP),190
+29,Portugal,1,Home,9,5,29109,15,DC,Rafael Leao,Rafael Alexandre,Da Conceição Leão,R. Leão,10/6/1999,AC Milan (ITA),188
+29,Portugal,1,Home,10,5,29110,16,MC,Vitinha,Vitor,Machado Ferreira,Vitinha,13/2/2000,Paris Saint-Germain FC (FRA),172
+29,Portugal,1,Home,11,5,29111,17,MC,Joao Mario,João Mário,Naval Da Costa Eduardo,J. Mário,19/1/1993,SL Benfica (POR),179
+29,Portugal,1,Home,12,5,29112,18,MC,Ruben Neves,Ruben Diogo,Silva Neves,R. Neves,13/3/1997,Wolverhampton Wanderers FC (ENG),180
+29,Portugal,1,Home,13,5,29113,19,DF,Nuno Mendes,Nuno Alexandre,Tavares Mendes,N. Mendes,19/6/2002,Paris Saint-Germain FC (FRA),176
+29,Portugal,1,Home,14,5,29114,20,DF,Joao Cancelo,João Pedro,Cavaco Cancelo,João Cancelo,27/5/1994,Manchester City FC (ENG),182
+29,Portugal,1,Home,15,5,29115,2,DF,Diogo Dalot,José Diogo,Dalot Teixeira,Dalot,18/3/1999,Manchester United FC (ENG),184
+29,Portugal,1,Home,16,8,29116,5,DF,Raphael Guerreiro,Raphael Adelino José,Guerreiro,Raphael,22/12/1993,Borussia Dortmund (GER),170
+29,Portugal,1,Home,17,8,29117,6,MC,Joao Palhinha,João Maria,Lobo Alves Palhinha Gonçalves,Palhinha,9/7/1995,Fulham FC (ENG),190
+29,Portugal,1,Home,18,8,29118,9,DC,Andre Silva,André Miguel,Valente Da Silva,André Silva,6/11/1995,RB Leipzig (GER),184
+29,Portugal,1,Home,19,8,29119,21,DC,Ricardo Horta,Ricardo Jorge,Da Luz Horta,R. Horta,15/9/1994,SC Braga (POR),173
+29,Portugal,1,Home,20,8,29120,23,MC,Matheus Nunes,Matheus Luís,Nunes,Matheus N.,27/8/1998,Wolverhampton Wanderers FC (ENG),181
+29,Portugal,1,Home,21,8,29121,24,DF,Antonio Silva,António João,Pereira De Albuquerque Tavares,António S.,30/10/2003,SL Benfica (POR),187
+29,Portugal,1,Home,22,8,29122,25,MC,Otavio,Otávio Edmilson,Da Silva Monteiro,Otávio,9/2/1995,FC Porto (POR),172
+29,Portugal,1,Home,23,8,29123,26,DC,Goncalo Ramos,Gonçalo,Matias Ramos,G. Ramos,20/6/2001,SL Benfica (POR),185
+29,Portugal,2,Away,1,5,29201,7,DC,Cristiano Ronaldo,Cristiano Ronaldo,Dos Santos Aveiro,Ronaldo,5/2/1985,Manchester United FC (ENG),185
+29,Portugal,2,Away,2,22,29202,3,DF,Pepe,Kepler Laveran,De Lima Ferreira,Pepe,26/2/1983,FC Porto (POR),188
+29,Portugal,2,Away,3,22,29203,4,DF,Ruben Dias,Rúben,Dos Santos Gato Alves Dias,Ruben Dias,14/5/1997,Manchester City FC (ENG),187
+29,Portugal,2,Away,4,22,29204,8,MC,Bruno Fernandes,Bruno Miguel,Borges Fernandes,B. Fernandes,8/9/1994,Manchester United FC (ENG),183
+29,Portugal,2,Away,5,22,29205,10,DC,Bernardo Silva,Bernardo,Mota Veiga De Carvalho E Silva,Bernardo,10/8/1994,Manchester City FC (ENG),173
+29,Portugal,2,Away,6,22,29206,11,DC,Joao Felix,João,Félix Sequeira,João Félix,10/11/1999,CA Atlético Madrid (ESP),179
+29,Portugal,2,Away,7,22,29207,13,DF,Danilo Pereira,Danilo Luis Hélio,Pereira,Danilo,9/9/1991,Paris Saint-Germain FC (FRA),188
+29,Portugal,2,Away,8,22,29208,14,MC,William Carvalho,William,Silva De Carvalho,William,7/4/1992,Real Betis (ESP),190
+29,Portugal,2,Away,9,22,29209,15,DC,Rafael Leao,Rafael Alexandre,Da Conceição Leão,R. Leão,10/6/1999,AC Milan (ITA),188
+29,Portugal,2,Away,10,22,29210,16,MC,Vitinha,Vitor,Machado Ferreira,Vitinha,13/2/2000,Paris Saint-Germain FC (FRA),172
+29,Portugal,2,Away,11,22,29211,17,MC,Joao Mario,João Mário,Naval Da Costa Eduardo,J. Mário,19/1/1993,SL Benfica (POR),179
+29,Portugal,2,Away,12,22,29212,18,MC,Ruben Neves,Ruben Diogo,Silva Neves,R. Neves,13/3/1997,Wolverhampton Wanderers FC (ENG),180
+29,Portugal,2,Away,13,22,29213,19,DF,Nuno Mendes,Nuno Alexandre,Tavares Mendes,N. Mendes,19/6/2002,Paris Saint-Germain FC (FRA),176
+29,Portugal,2,Away,14,22,29214,20,DF,Joao Cancelo,João Pedro,Cavaco Cancelo,João Cancelo,27/5/1994,Manchester City FC (ENG),182
+29,Portugal,2,Away,15,22,29215,2,DF,Diogo Dalot,José Diogo,Dalot Teixeira,Dalot,18/3/1999,Manchester United FC (ENG),184
+29,Portugal,2,Away,16,30,29216,5,DF,Raphael Guerreiro,Raphael Adelino José,Guerreiro,Raphael,22/12/1993,Borussia Dortmund (GER),170
+29,Portugal,2,Away,17,30,29217,6,MC,Joao Palhinha,João Maria,Lobo Alves Palhinha Gonçalves,Palhinha,9/7/1995,Fulham FC (ENG),190
+29,Portugal,2,Away,18,30,29218,9,DC,Andre Silva,André Miguel,Valente Da Silva,André Silva,6/11/1995,RB Leipzig (GER),184
+29,Portugal,2,Away,19,30,29219,21,DC,Ricardo Horta,Ricardo Jorge,Da Luz Horta,R. Horta,15/9/1994,SC Braga (POR),173
+29,Portugal,2,Away,20,30,29220,23,MC,Matheus Nunes,Matheus Luís,Nunes,Matheus N.,27/8/1998,Wolverhampton Wanderers FC (ENG),181
+29,Portugal,2,Away,21,30,29221,24,DF,Antonio Silva,António João,Pereira De Albuquerque Tavares,António S.,30/10/2003,SL Benfica (POR),187
+29,Portugal,2,Away,22,30,29222,25,MC,Otavio,Otávio Edmilson,Da Silva Monteiro,Otávio,9/2/1995,FC Porto (POR),172
+29,Portugal,2,Away,23,30,29223,26,DC,Goncalo Ramos,Gonçalo,Matias Ramos,G. Ramos,20/6/2001,SL Benfica (POR),185
+29,Portugal,3,Goalkeeper,1,110,29301,22,PO,Diogo Costa,Diogo,Meireles Da Costa,Diogo Costa,19/9/1999,FC Porto (POR),192
+29,Portugal,3,Goalkeeper,2,220,29302,12,PO,Jose Sa,José Pedro,Malheiro De Sá,José Sá,17/1/1993,Wolverhampton Wanderers FC (ENG),192
+29,Portugal,3,Goalkeeper,3,220,29303,1,PO,Rui Patricio,Rui Pedro,Dos Santos Patrício,Rui Patricio,15/2/1988,AS Roma (ITA),189
+30,Ghana,1,Home,1,8,30101,5,MC,Partey Thomas,Thomas Teye,Partey,Partey,13/6/1993,Arsenal FC (ENG),185
+30,Ghana,1,Home,2,22,30102,2,DF,Lamptey Tariq,Tariq Kwame Nii-Lante,Lamptey,Tariq,30/9/2000,Brighton & Hove Albion FC (ENG),170
+30,Ghana,1,Home,3,22,30103,3,DF,Odoi Denis,Denis Frimpong,Odoi,Odoi,27/5/1988,Club Brugge (BEL),178
+30,Ghana,1,Home,4,22,30104,4,DF,Salisu Mohammed,Mohammed Salisu,Abdul Karim,Salisu,19/4/1999,Southampton FC (ENG),191
+30,Ghana,1,Home,5,22,30105,6,MC,Owusu Elisha,Elisha,Owusu,Owusu,7/11/1997,KAA Gent (BEL),182
+30,Ghana,1,Home,6,22,30106,9,DC,Ayew Jordan,Jordan Pierre,Ayew,J. Ayew,11/9/1991,Crystal Palace FC (ENG),182
+30,Ghana,1,Home,7,22,30107,10,DC,Ayew Andre,André Morgan Rami,Ayew,A. Ayew,17/12/1989,Al Sadd SC (QAT),175
+30,Ghana,1,Home,8,22,30108,17,DF,Baba Abdul Rahman,Abdul Rahman,Baba,Baba,2/7/1994,Reading FC (ENG),180
+30,Ghana,1,Home,9,22,30109,18,DF,Amartey Daniel,Daniel,Amartey,Amartey,21/12/1994,Leicester City FC (ENG),186
+30,Ghana,1,Home,10,22,30110,19,DC,Williams Inaki,Iñaki,Williams Arthuer,Iñaki,15/6/1994,Athletic Club (ESP),186
+30,Ghana,1,Home,11,22,30111,20,MC,Kudus Mohammed,Kudus,Mohammed,Kudus,2/8/2000,AFC Ajax (NED),175
+30,Ghana,1,Home,12,22,30112,22,MC,Sulemana Kamaldeen,Kamaldeen,Sulemana,Sulemana,15/2/2002,Stade Rennais FC (FRA),174
+30,Ghana,1,Home,13,22,30113,23,DF,Djiku Alexander,Alexander Kwabena Baidooh,Djiku,Djiku,9/8/1994,RC Strasbourg (FRA),182
+30,Ghana,1,Home,14,22,30114,25,DC,Semenyo Antoine,Antoine Serlom,Semenyo,Semenyo,7/1/2000,Bristol City FC (ENG),172
+30,Ghana,1,Home,15,22,30115,7,MC,Issahaku Fatawu,Abdul Fatawu,Issahaku,Fatawu,8/3/2004,Sporting CP (POR),177
+30,Ghana,1,Home,16,30,30116,8,MC,Kyereh Daniel-Kofi,Daniel-Kofi,Kyereh,Kyere,8/3/1996,SC Freiburg (GER),179
+30,Ghana,1,Home,17,30,30117,11,MC,Bukari Osman,Osman,Bukari,Osman,13/12/1998,FK Crvena Zvezda (SRB),170
+30,Ghana,1,Home,18,30,30118,13,MC,Afriyie Daniel,Daniel,Afriyie Bernieh,Bernieh,26/6/2001,Hearts Of Oak SC (GHA),170
+30,Ghana,1,Home,19,30,30119,14,DF,Mensah Gideon,Gideon,Mensah,Mensah,18/7/1998,AJ Auxerre (FRA),178
+30,Ghana,1,Home,20,30,30120,15,DF,Aidoo Joseph,Joseph,Aidoo,Aidoo,29/9/1995,RC Celta Vigo (ESP),184
+30,Ghana,1,Home,21,30,30121,21,MC,Abdul Samed Salis,Salis,Abdul Samed,Salis,26/3/2000,RC Lens (FRA),179
+30,Ghana,1,Home,22,30,30122,24,MC,Sowah Kamal,Kamal,Sowah,Sowah,9/1/2000,Club Brugge (BEL),179
+30,Ghana,1,Home,23,30,30123,26,DF,Alidu Seidu,Seidu,Alidu,Seidu,4/6/2000,Clermont Foot (FRA),173
+30,Ghana,2,Away,1,7,30201,5,MC,Partey Thomas,Thomas Teye,Partey,Partey,13/6/1993,Arsenal FC (ENG),185
+30,Ghana,2,Away,2,16,30202,2,DF,Lamptey Tariq,Tariq Kwame Nii-Lante,Lamptey,Tariq,30/9/2000,Brighton & Hove Albion FC (ENG),170
+30,Ghana,2,Away,3,16,30203,3,DF,Odoi Denis,Denis Frimpong,Odoi,Odoi,27/5/1988,Club Brugge (BEL),178
+30,Ghana,2,Away,4,16,30204,4,DF,Salisu Mohammed,Mohammed Salisu,Abdul Karim,Salisu,19/4/1999,Southampton FC (ENG),191
+30,Ghana,2,Away,5,16,30205,6,MC,Owusu Elisha,Elisha,Owusu,Owusu,7/11/1997,KAA Gent (BEL),182
+30,Ghana,2,Away,6,16,30206,9,DC,Ayew Jordan,Jordan Pierre,Ayew,J. Ayew,11/9/1991,Crystal Palace FC (ENG),182
+30,Ghana,2,Away,7,16,30207,10,DC,Ayew Andre,André Morgan Rami,Ayew,A. Ayew,17/12/1989,Al Sadd SC (QAT),175
+30,Ghana,2,Away,8,16,30208,17,DF,Baba Abdul Rahman,Abdul Rahman,Baba,Baba,2/7/1994,Reading FC (ENG),180
+30,Ghana,2,Away,9,16,30209,18,DF,Amartey Daniel,Daniel,Amartey,Amartey,21/12/1994,Leicester City FC (ENG),186
+30,Ghana,2,Away,10,16,30210,19,DC,Williams Inaki,Iñaki,Williams Arthuer,Iñaki,15/6/1994,Athletic Club (ESP),186
+30,Ghana,2,Away,11,16,30211,20,MC,Kudus Mohammed,Kudus,Mohammed,Kudus,2/8/2000,AFC Ajax (NED),175
+30,Ghana,2,Away,12,16,30212,22,MC,Sulemana Kamaldeen,Kamaldeen,Sulemana,Sulemana,15/2/2002,Stade Rennais FC (FRA),174
+30,Ghana,2,Away,13,16,30213,23,DF,Djiku Alexander,Alexander Kwabena Baidooh,Djiku,Djiku,9/8/1994,RC Strasbourg (FRA),182
+30,Ghana,2,Away,14,16,30214,25,DC,Semenyo Antoine,Antoine Serlom,Semenyo,Semenyo,7/1/2000,Bristol City FC (ENG),172
+30,Ghana,2,Away,15,16,30215,7,MC,Issahaku Fatawu,Abdul Fatawu,Issahaku,Fatawu,8/3/2004,Sporting CP (POR),177
+30,Ghana,2,Away,16,22,30216,8,MC,Kyereh Daniel-Kofi,Daniel-Kofi,Kyereh,Kyere,8/3/1996,SC Freiburg (GER),179
+30,Ghana,2,Away,17,22,30217,11,MC,Bukari Osman,Osman,Bukari,Osman,13/12/1998,FK Crvena Zvezda (SRB),170
+30,Ghana,2,Away,18,22,30218,13,MC,Afriyie Daniel,Daniel,Afriyie Bernieh,Bernieh,26/6/2001,Hearts Of Oak SC (GHA),170
+30,Ghana,2,Away,19,22,30219,14,DF,Mensah Gideon,Gideon,Mensah,Mensah,18/7/1998,AJ Auxerre (FRA),178
+30,Ghana,2,Away,20,22,30220,15,DF,Aidoo Joseph,Joseph,Aidoo,Aidoo,29/9/1995,RC Celta Vigo (ESP),184
+30,Ghana,2,Away,21,22,30221,21,MC,Abdul Samed Salis,Salis,Abdul Samed,Salis,26/3/2000,RC Lens (FRA),179
+30,Ghana,2,Away,22,22,30222,24,MC,Sowah Kamal,Kamal,Sowah,Sowah,9/1/2000,Club Brugge (BEL),179
+30,Ghana,2,Away,23,22,30223,26,DF,Alidu Seidu,Seidu,Alidu,Seidu,4/6/2000,Clermont Foot (FRA),173
+30,Ghana,3,Goalkeeper,1,28,30301,1,PO,Zigi Lawrence Ati,Lawrence Ati,Zigi,Zigi,29/11/1996,FC St. Gallen (SUI),188
+30,Ghana,3,Goalkeeper,2,55,30302,12,PO,Danlad Ibrahim,Danlad,Ibrahim,Danlad,2/12/2002,Asante Kotoko SC (GHA),181
+30,Ghana,3,Goalkeeper,3,55,30303,16,PO,Nurudeen Manaf,Abdul Manaf,Nurudeen,Manaf,8/2/1999,KAS Eupen (BEL),190
+31,Uruguay,1,Home,1,7,31101,15,MC,Valverde Federico,Federico Santiago,Valverde Dipetta,F. Valverde,22/7/1998,Real Madrid CF (ESP),182
+31,Uruguay,1,Home,2,16,31102,2,DF,Gimenez Jose Maria,José María,Giménez De Vargas,J. M. Giménez,20/1/1995,CA Atlético Madrid (ESP),185
+31,Uruguay,1,Home,3,16,31103,3,DF,Godin Diego,Diego Roberto,Godin Leal,D. Godin,16/2/1986,CA Velez Sarsfield (ARG),185
+31,Uruguay,1,Home,4,16,31104,4,DF,Araujo Ronald,Ronald Federico,Araujo Da Silva,R. Araujo,7/3/1999,FC Barcelona (ESP),185
+31,Uruguay,1,Home,5,16,31105,5,MC,Vecino Matias,Matias,Vecino Falero,M. Vecino,24/8/1991,SS Lazio (ITA),189
+31,Uruguay,1,Home,6,16,31106,6,MC,Bentancur Rodrigo,Rodrigo,Bentancur Colman,R. Bentancur,25/6/1997,Tottenham Hotspur FC (ENG),187
+31,Uruguay,1,Home,7,16,31107,7,MC,De La Cruz Nicolas,Diego Nicolas,De La Cruz Arcosa,N. De La Cruz,1/6/1997,CA River Plate (ARG),167
+31,Uruguay,1,Home,8,16,31108,8,DC,Pellistri Facundo,Facundo,Pellistri Rebollo,F. Pellistri,20/12/2001,Manchester United FC (ENG),174
+31,Uruguay,1,Home,9,16,31109,9,DC,Suarez Luis,Luis Alberto,Suarez Diaz,L. Suarez,24/1/1987,Nacional Montevideo (URU),182
+31,Uruguay,1,Home,10,16,31110,10,MC,De Arrascaeta Giorgian,Giorgian Daniel,De Arrascaeta Benedetti,G. De Arrascaeta,1/6/1994,CR Flamengo (BRA),177
+31,Uruguay,1,Home,11,16,31111,11,DC,Nunez Darwin,Darwin Gabriel,Nuñez Ribeiro,D. Nuñez,24/6/1999,Liverpool FC (ENG),185
+31,Uruguay,1,Home,12,16,31112,13,DF,Varela Guillermo,Guillermo,Varela Olivera,G. Varela,24/3/1993,CR Flamengo (BRA),173
+31,Uruguay,1,Home,13,16,31113,16,DF,Olivera Mathias,Mathias,Olivera Miramontes,M. Olivera,31/10/1997,SSC Napoli (ITA),174
+31,Uruguay,1,Home,14,16,31114,19,DF,Coates Sebastian,Sebastián,Coates Nion,S. Coates,7/10/1990,Sporting CP (POR),196
+31,Uruguay,1,Home,15,16,31115,14,MC,Torreira Lucas,Lucas Sebastian,Torreira Di Pascua,L. Torreira,11/2/1996,Galatasaray SK (TUR),168
+31,Uruguay,1,Home,16,22,31116,17,DF,Vina Matias,Matias Nicolas,Viña Susperreguy,M. Viña,9/11/1997,AS Roma (ITA),180
+31,Uruguay,1,Home,17,22,31117,18,DC,Gomez Maxi,Maximiliano,Gómez González,M. Gómez,14/8/1996,Trabzonspor (TUR),186
+31,Uruguay,1,Home,18,22,31118,20,DC,Torres Facundo,Facundo Daniel,Torres Perez,F. Torres,13/4/2000,Orlando City SC (USA),175
+31,Uruguay,1,Home,19,22,31119,21,DC,Cavani Edinson,Edinson Roberto,Cavani Gomez,E. Cavani,14/2/1987,Valencia CF (ESP),188
+31,Uruguay,1,Home,20,22,31120,22,DF,Caceres Martin,José Martín,Cáceres Silva,M. Cáceres,7/4/1987,LA Galaxy (USA),178
+31,Uruguay,1,Home,21,22,31121,24,MC,Canobbio Agustin,Agustin,Canobbio Graviz,A. Canobbio,1/10/1998,Athletico Paranaense (BRA),175
+31,Uruguay,1,Home,22,22,31122,25,MC,Ugarte Manuel,Manuel,Ugarte Ribeiro,M. Ugarte,11/4/2001,Sporting CP (POR),182
+31,Uruguay,1,Home,23,22,31123,26,DF,Rodriguez Jose Luis,Jose Luis,Rodriguez Bebanz,J. L. Rodriguez,14/3/1997,Nacional Montevideo (URU),183
+31,Uruguay,2,Away,1,5,31201,15,MC,Valverde Federico,Federico Santiago,Valverde Dipetta,F. Valverde,22/7/1998,Real Madrid CF (ESP),182
+31,Uruguay,2,Away,2,11,31202,2,DF,Gimenez Jose Maria,José María,Giménez De Vargas,J. M. Giménez,20/1/1995,CA Atlético Madrid (ESP),185
+31,Uruguay,2,Away,3,11,31203,3,DF,Godin Diego,Diego Roberto,Godin Leal,D. Godin,16/2/1986,CA Velez Sarsfield (ARG),185
+31,Uruguay,2,Away,4,11,31204,4,DF,Araujo Ronald,Ronald Federico,Araujo Da Silva,R. Araujo,7/3/1999,FC Barcelona (ESP),185
+31,Uruguay,2,Away,5,11,31205,5,MC,Vecino Matias,Matias,Vecino Falero,M. Vecino,24/8/1991,SS Lazio (ITA),189
+31,Uruguay,2,Away,6,11,31206,6,MC,Bentancur Rodrigo,Rodrigo,Bentancur Colman,R. Bentancur,25/6/1997,Tottenham Hotspur FC (ENG),187
+31,Uruguay,2,Away,7,11,31207,7,MC,De La Cruz Nicolas,Diego Nicolas,De La Cruz Arcosa,N. De La Cruz,1/6/1997,CA River Plate (ARG),167
+31,Uruguay,2,Away,8,11,31208,8,DC,Pellistri Facundo,Facundo,Pellistri Rebollo,F. Pellistri,20/12/2001,Manchester United FC (ENG),174
+31,Uruguay,2,Away,9,11,31209,9,DC,Suarez Luis,Luis Alberto,Suarez Diaz,L. Suarez,24/1/1987,Nacional Montevideo (URU),182
+31,Uruguay,2,Away,10,11,31210,10,MC,De Arrascaeta Giorgian,Giorgian Daniel,De Arrascaeta Benedetti,G. De Arrascaeta,1/6/1994,CR Flamengo (BRA),177
+31,Uruguay,2,Away,11,11,31211,11,DC,Nunez Darwin,Darwin Gabriel,Nuñez Ribeiro,D. Nuñez,24/6/1999,Liverpool FC (ENG),185
+31,Uruguay,2,Away,12,11,31212,13,DF,Varela Guillermo,Guillermo,Varela Olivera,G. Varela,24/3/1993,CR Flamengo (BRA),173
+31,Uruguay,2,Away,13,11,31213,16,DF,Olivera Mathias,Mathias,Olivera Miramontes,M. Olivera,31/10/1997,SSC Napoli (ITA),174
+31,Uruguay,2,Away,14,11,31214,19,DF,Coates Sebastian,Sebastián,Coates Nion,S. Coates,7/10/1990,Sporting CP (POR),196
+31,Uruguay,2,Away,15,11,31215,14,MC,Torreira Lucas,Lucas Sebastian,Torreira Di Pascua,L. Torreira,11/2/1996,Galatasaray SK (TUR),168
+31,Uruguay,2,Away,16,15,31216,17,DF,Vina Matias,Matias Nicolas,Viña Susperreguy,M. Viña,9/11/1997,AS Roma (ITA),180
+31,Uruguay,2,Away,17,15,31217,18,DC,Gomez Maxi,Maximiliano,Gómez González,M. Gómez,14/8/1996,Trabzonspor (TUR),186
+31,Uruguay,2,Away,18,15,31218,20,DC,Torres Facundo,Facundo Daniel,Torres Perez,F. Torres,13/4/2000,Orlando City SC (USA),175
+31,Uruguay,2,Away,19,15,31219,21,DC,Cavani Edinson,Edinson Roberto,Cavani Gomez,E. Cavani,14/2/1987,Valencia CF (ESP),188
+31,Uruguay,2,Away,20,15,31220,22,DF,Caceres Martin,José Martín,Cáceres Silva,M. Cáceres,7/4/1987,LA Galaxy (USA),178
+31,Uruguay,2,Away,21,15,31221,24,MC,Canobbio Agustin,Agustin,Canobbio Graviz,A. Canobbio,1/10/1998,Athletico Paranaense (BRA),175
+31,Uruguay,2,Away,22,15,31222,25,MC,Ugarte Manuel,Manuel,Ugarte Ribeiro,M. Ugarte,11/4/2001,Sporting CP (POR),182
+31,Uruguay,2,Away,23,15,31223,26,DF,Rodriguez Jose Luis,Jose Luis,Rodriguez Bebanz,J. L. Rodriguez,14/3/1997,Nacional Montevideo (URU),183
+31,Uruguay,3,Goalkeeper,1,55,31301,23,PO,Rochet Sergio,Sergio Ramón,Rochet Alvarez,S. Rochet,23/3/1993,Nacional Montevideo (URU),189
+31,Uruguay,3,Goalkeeper,2,110,31302,1,PO,Muslera Fernando,Nestor Fernando,Muslera Micol,F. Muslera,16/6/1986,Galatasaray SK (TUR),190
+31,Uruguay,3,Goalkeeper,3,110,31303,12,PO,Sosa Sebastian,Carlos Sebastian,Sosa Silva,S. Sosa,19/8/1986,CA Independiente (ARG),184
+32,South corea,1,Home,1,5,32101,7,MC,Son Heungmin,Heung Min,Son,H M Son,8/7/1992,Tottenham Hotspur FC (ENG),183
+32,South corea,1,Home,2,11,32102,2,DF,Yoon Jonggyu,Jonggyu,Yoon,J G Yoon,20/3/1998,FC Seoul (KOR),173
+32,South corea,1,Home,3,11,32103,3,DF,Kim Jinsu,Jin Su,Kim,J S Kim,13/6/1992,Jeonbuk Hyundai FC (KOR),177
+32,South corea,1,Home,4,11,32104,4,DF,Kim Minjae,Minjae,Kim,M J Kim,15/11/1996,SSC Napoli (ITA),189
+32,South corea,1,Home,5,11,32105,5,MC,Jung Wooyoung,Wooyoung,Jung,W Y Jung,14/12/1989,Al Sadd SC (QAT),188
+32,South corea,1,Home,6,11,32106,6,MC,Hwang Inbeom,Inbeom,Hwang,I B Hwang,20/9/1996,Olympiacos Piraeus FC (GRE),177
+32,South corea,1,Home,7,11,32107,8,MC,Paik Seungho,Seungho,Paik,S H Paik,17/3/1997,Jeonbuk Hyundai FC (KOR),182
+32,South corea,1,Home,8,11,32108,11,MC,Hwang Heechan,Hee Chan,Hwang,H C Hwang,26/1/1996,Wolverhampton Wanderers FC (ENG),177
+32,South corea,1,Home,9,11,32109,13,MC,Son Junho,Junho,Son,J H Son,12/5/1992,Shandong Luneng Taishan FC (CHN),178
+32,South corea,1,Home,10,11,32110,15,DF,Kim Moonhwan,Moonhwan,Kim,M H Kim,1/8/1995,Jeonbuk Hyundai FC (KOR),173
+32,South corea,1,Home,11,11,32111,16,DC,Hwang Uijo,Ui Jo,Hwang,U J Hwang,28/8/1992,Olympiacos Piraeus FC (GRE),184
+32,South corea,1,Home,12,11,32112,20,DF,Kwon Kyungwon,Kyungwon,Kwon,K W Kwon,31/1/1992,Gamba Osaka (JPN),187
+32,South corea,1,Home,13,11,32113,22,MC,Kwon Changhoon,Changhoon,Kwon,C H Kwon,30/6/1994,Gimcheon Sangmu FC (KOR),174
+32,South corea,1,Home,14,11,32114,25,MC,Jeong Wooyeong,Wooyeong,Jeong,W Y Jeong,20/9/1999,SC Freiburg (GER),180
+32,South corea,1,Home,15,11,32115,9,DC,Cho Guesung,Guesung,Cho,G S Cho,25/1/1998,Jeonbuk Hyundai FC (KOR),188
+32,South corea,1,Home,16,15,32116,10,MC,Lee Jaesung,Jae Sung,Lee,J S Lee,10/8/1992,FSV Mainz 05 (GER),180
+32,South corea,1,Home,17,15,32117,14,DF,Hong Chul,Chul,Hong,C Hong,17/9/1990,Daegu FC (KOR),177
+32,South corea,1,Home,18,15,32118,17,MC,Na Sangho,Sangho,Na,S H Na,12/8/1996,FC Seoul (KOR),173
+32,South corea,1,Home,19,15,32119,18,MC,Lee Kangin,Kangin,Lee,K I Lee,19/2/2001,RCD Mallorca (ESP),173
+32,South corea,1,Home,20,15,32120,19,DF,Kim Younggwon,Younggwon,Kim,Y G Kim,27/2/1990,Ulsan Hyundai FC (KOR),186
+32,South corea,1,Home,21,15,32121,23,DF,Kim Taehwan,Taehwan,Kim,T H Kim,24/7/1989,Ulsan Hyundai FC (KOR),177
+32,South corea,1,Home,22,15,32122,24,DF,Cho Yumin,Yumin,Cho,Y M Cho,17/11/1996,Daejeon Citizen FC (KOR),182
+32,South corea,1,Home,23,15,32123,26,MC,Song Minkyu,Minkyu,Song,M K Song,12/9/1999,Jeonbuk Hyundai FC (KOR),179
+32,South corea,2,Away,1,5,32201,7,MC,Son Heungmin,Heung Min,Son,H M Son,8/7/1992,Tottenham Hotspur FC (ENG),183
+32,South corea,2,Away,2,3,32202,2,DF,Yoon Jonggyu,Jonggyu,Yoon,J G Yoon,20/3/1998,FC Seoul (KOR),173
+32,South corea,2,Away,3,8,32203,3,DF,Kim Jinsu,Jin Su,Kim,J S Kim,13/6/1992,Jeonbuk Hyundai FC (KOR),177
+32,South corea,2,Away,4,8,32204,4,DF,Kim Minjae,Minjae,Kim,M J Kim,15/11/1996,SSC Napoli (ITA),189
+32,South corea,2,Away,5,8,32205,5,MC,Jung Wooyoung,Wooyoung,Jung,W Y Jung,14/12/1989,Al Sadd SC (QAT),188
+32,South corea,2,Away,6,8,32206,6,MC,Hwang Inbeom,Inbeom,Hwang,I B Hwang,20/9/1996,Olympiacos Piraeus FC (GRE),177
+32,South corea,2,Away,7,8,32207,8,MC,Paik Seungho,Seungho,Paik,S H Paik,17/3/1997,Jeonbuk Hyundai FC (KOR),182
+32,South corea,2,Away,8,8,32208,11,MC,Hwang Heechan,Hee Chan,Hwang,H C Hwang,26/1/1996,Wolverhampton Wanderers FC (ENG),177
+32,South corea,2,Away,9,8,32209,13,MC,Son Junho,Junho,Son,J H Son,12/5/1992,Shandong Luneng Taishan FC (CHN),178
+32,South corea,2,Away,10,8,32210,15,DF,Kim Moonhwan,Moonhwan,Kim,M H Kim,1/8/1995,Jeonbuk Hyundai FC (KOR),173
+32,South corea,2,Away,11,8,32211,16,DC,Hwang Uijo,Ui Jo,Hwang,U J Hwang,28/8/1992,Olympiacos Piraeus FC (GRE),184
+32,South corea,2,Away,12,8,32212,20,DF,Kwon Kyungwon,Kyungwon,Kwon,K W Kwon,31/1/1992,Gamba Osaka (JPN),187
+32,South corea,2,Away,13,8,32213,22,MC,Kwon Changhoon,Changhoon,Kwon,C H Kwon,30/6/1994,Gimcheon Sangmu FC (KOR),174
+32,South corea,2,Away,14,8,32214,25,MC,Jeong Wooyeong,Wooyeong,Jeong,W Y Jeong,20/9/1999,SC Freiburg (GER),180
+32,South corea,2,Away,15,5,32215,9,DC,Cho Guesung,Guesung,Cho,G S Cho,25/1/1998,Jeonbuk Hyundai FC (KOR),188
+32,South corea,2,Away,16,8,32216,10,MC,Lee Jaesung,Jae Sung,Lee,J S Lee,10/8/1992,FSV Mainz 05 (GER),180
+32,South corea,2,Away,17,8,32217,14,DF,Hong Chul,Chul,Hong,C Hong,17/9/1990,Daegu FC (KOR),177
+32,South corea,2,Away,18,8,32218,17,MC,Na Sangho,Sangho,Na,S H Na,12/8/1996,FC Seoul (KOR),173
+32,South corea,2,Away,19,8,32219,18,MC,Lee Kangin,Kangin,Lee,K I Lee,19/2/2001,RCD Mallorca (ESP),173
+32,South corea,2,Away,20,8,32220,19,DF,Kim Younggwon,Younggwon,Kim,Y G Kim,27/2/1990,Ulsan Hyundai FC (KOR),186
+32,South corea,2,Away,21,8,32221,23,DF,Kim Taehwan,Taehwan,Kim,T H Kim,24/7/1989,Ulsan Hyundai FC (KOR),177
+32,South corea,2,Away,22,8,32222,24,DF,Cho Yumin,Yumin,Cho,Y M Cho,17/11/1996,Daejeon Citizen FC (KOR),182
+32,South corea,2,Away,23,8,32223,26,MC,Song Minkyu,Minkyu,Song,M K Song,12/9/1999,Jeonbuk Hyundai FC (KOR),179
+32,South corea,3,Goalkeeper,1,83,32301,1,PO,Kim Seunggyu,Seunggyu,Kim,S G Kim,30/9/1990,Al Shabab FC (KSA),187
+32,South corea,3,Goalkeeper,2,165,32302,12,PO,Song Bumkeun,Bumkeun,Song,B K Song,15/10/1997,Jeonbuk Hyundai FC (KOR),196
+32,South corea,3,Goalkeeper,3,165,32303,21,PO,Jo Hyeonwoo,Hyeonwoo,Jo,H W Jo,25/9/1991,Ulsan Hyundai FC (KOR),189
