@@ -83,6 +83,7 @@ const UserStickers = ({contract, wallet, collection}) => {
           { Object.keys(stickerCountries).map(c => <CountryFlag active={activeCountry === c} onClick={() => filterByCountr(c)} key={c} flag={c} total={stickerCountries[c]} />)}
         </div>
         <h1 className="text-xl my-4">{activeCountry ? activeCountry : 'All stickers'}</h1>
+        {filterStickers.length === 0 && <p>You don't have any stickers yet. Open a pack to get 3 random stickers</p>}
         <div className="mt-4 grid md:grid-cols-6 gap-4 grid-cols-2">
           { filterStickers.map(s => <Sticker key={s.tokenId} token={s.tokenId} />) }
         </div>

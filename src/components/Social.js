@@ -33,7 +33,7 @@ const Social = ({size = 'xl'}) => {
       <OutboundLink href="https://twitter.com/the_pixelcup" rel="noreferrer" target="_blank" aria-label="Twitter">
         <FontAwesomeIcon icon={faTwitter} size={size} />
       </OutboundLink>
-      <OutboundLink href="https://opensea.io/collection/thepixelcup" rel="noreferrer" target="_blank" aria-label="OpenSea">
+      <OutboundLink href="https://opensea.io/collection/the-pixel-cup" rel="noreferrer" target="_blank" aria-label="OpenSea">
         <img className={`inline ${imgClass}`} src={openseaIcon} alt="OpenSea" />
       </OutboundLink>
       <OutboundLink href="https://github.com/thepixelcup" rel="noreferrer" target="_blank" aria-label="Github">

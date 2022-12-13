@@ -89,7 +89,7 @@ const Packs = ({show, onClose, contract, onError, onComplete, completeText}) => 
                 Disconnect Wallet
               </button>
               <span className="flex-grow text-right text-xl">
-                Total: <FontAwesomeIcon className="text-neutral-300" icon={faEthereum} /> {packPrice*numberOfPacks} 
+                Total: {packPrice*numberOfPacks} MATIC
               </span>
             </div>
           </div>

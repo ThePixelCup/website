@@ -7,7 +7,7 @@ order: 4
 A fully transparent, decentralized and open sourced sticker album. 
 
 ## Albumetrics
-- **10 matic** Price per pack.
+- **5 matic** Price per pack.
 - **10,000** Available packs to mint.
 - **3** Stickers you can mint per pack.
 - **1,568** Unique stickers. (*)
