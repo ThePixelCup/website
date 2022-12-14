@@ -1,10 +1,6 @@
-import React, { useState, useRef, useEffect } from "react"
+import React, { useState, useEffect } from "react"
 import { OutboundLink } from "gatsby-plugin-google-gtag"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ThirdwebProvider, ChainId, useAddress, useContract, useContractWrite, useContractRead } from "@thirdweb-dev/react";
-import { faCircleXmark } from "@fortawesome/free-solid-svg-icons";
-import { ConnectWallet } from "@thirdweb-dev/react";
-import { ethers } from "ethers";
+import { ThirdwebProvider, ChainId, useAddress, useContract } from "@thirdweb-dev/react";
 import { usePapaParse } from 'react-papaparse';
 
 // Components
@@ -15,6 +11,7 @@ import AlbumBar from "../components/AlbumBar";
 import UserStickers from "../components/UserStickers";
 import OpenPacksModal from "../components/modals/OpenPacks";
 import PacksModal from "../components/modals/Packs";
+import TransferModal from "../components/modals/Transfer";
 
 const AlbumPage = () => {
   const wallet = useAddress();
@@ -25,9 +22,10 @@ const AlbumPage = () => {
   const [ errorMessage, setErrorMessage ] = useState('');
   const [ openPackVisible, setOpenPackVisible ] = useState(false);
   const [ buyPacksVisibile, showBuyPacks] = useState(false);
+  const [ transferVisibe, showTransfer ] = useState(false);
   const [ activePanel, setActivePanel ] = useState('stickers');
 
-  const { contract, isLoading: isContractLoading, error: errorLoadingContract } = useContract(process.env.GATSBY_CONTRACT_ADDRESS);
+  const { contract, error: errorLoadingContract } = useContract(process.env.GATSBY_CONTRACT_ADDRESS);
   
   function showError(message) {
     if (!errorVisible) {
@@ -49,7 +47,7 @@ const AlbumPage = () => {
         console.log('Error while parsing:', error, file);
       }
     });
-  }, []);
+  }, [readRemoteFile]);
 
   return (
     <React.Fragment>
@@ -57,8 +55,9 @@ const AlbumPage = () => {
       <WalletModal show={!wallet} />
       <OpenPacksModal onError={showError} show={openPackVisible} onClose={() => setOpenPackVisible(false)} contract={contract} collection={collectionData} />
       <PacksModal onComplete={() => {setOpenPackVisible(true); showBuyPacks(false);}} completeText="Open pack" onError={showError} show={buyPacksVisibile} onClose={() => showBuyPacks(false)} contract={contract} />
+      <TransferModal onError={showError} show={transferVisibe} onClose={() => showTransfer(false)} contract={contract} />
       <div className="container mx-auto max-w-6xl p-4">
-        <AlbumBar contract={contract} wallet={wallet} collection={collectionData} />
+        <AlbumBar contract={contract} wallet={wallet} collection={collectionData}  onTransfer={() => showTransfer(true)}  />
         <div className="mt-8">
           <div className="md:border-lime-400 md:border-b md:pb-4 flex md:flex-row flex-col space-y-4 md:space-y-0">
             <div className="hidden md:flex flex-row w-1/2 md:space-x-4">

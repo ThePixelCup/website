@@ -2,24 +2,19 @@ import React, { useEffect, useState } from "react";
 import { Link, navigate } from "gatsby";
 import { useContractRead, useDisconnect } from "@thirdweb-dev/react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLayerGroup, faNoteSticky, faCircleXmark, faUserCircle } from "@fortawesome/free-solid-svg-icons";
+import { faLayerGroup, faNoteSticky, faCircleXmark, faUserCircle, faRightLeft } from "@fortawesome/free-solid-svg-icons";
 
 // Assets
 import logoMini from "../assets/images/logo-mini.png";
-import iconImg from "../assets/images/icon.png";
 
-const AlbumBar = ({contract, wallet, collection}) => {
+const AlbumBar = ({contract, wallet, collection, onTransfer}) => {
   const [ userMenuVisible, showUserMenu ] = useState(false);
   const [ totalStickers, setTotalStickers ] = useState(0);
   const tokenIds = collection.filter(s => Number(s[5]) > 0).map(s => s[6]);
   const disconnect = useDisconnect();
 
-  const {
-    data: packBalance, isLoading: isPackBalanceLoading, error: errorLoadingPackBalance
-  } = useContractRead(contract, 'packBalance', wallet);
-  const {
-    data: stickerBalance, isLoading: isStickerBalanceLoading, error: errorLoadingStickerBalance
-  } = useContractRead(contract, 'balanceOfBatch', tokenIds.map(t => wallet), tokenIds);
+  const { data: packBalance } = useContractRead(contract, 'packBalance', wallet);
+  const { data: stickerBalance } = useContractRead(contract, 'balanceOfBatch', tokenIds.map(t => wallet), tokenIds);
 
   useEffect(() => {
     if (stickerBalance && stickerBalance.length > 0) {
@@ -61,6 +56,10 @@ const AlbumBar = ({contract, wallet, collection}) => {
           <span className="w-10 text-center"><FontAwesomeIcon className="text-neutral-800 text-xl" icon={faNoteSticky} /></span>
           <span>Stickers balance</span>
           <span className="grow text-right mr-1">{totalStickers}</span>
+        </div>
+        <div className="flex flex-row">
+          <span className="w-10 text-center"><FontAwesomeIcon className="text-neutral-800 text-xl" icon={faRightLeft} /></span>
+          <button onClick={() => { onTransfer(); showUserMenu(false);}}>Transfer</button>
         </div>
         <div className="flex flex-row">
           <span className="w-10 text-center"><FontAwesomeIcon className="text-neutral-800 text-xl" icon={faCircleXmark} /></span>

@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleXmark, faCircleCheck } from "@fortawesome/free-solid-svg-icons";
-import { faEthereum } from "@fortawesome/free-brands-svg-icons"
 import { useDisconnect, ChainId, useContractWrite, useAddress, useNetworkMismatch } from "@thirdweb-dev/react";
 import { ethers } from "ethers";
 
@@ -25,7 +24,7 @@ const Packs = ({show, onClose, contract, onError, onComplete, completeText}) => 
       const errorMessage = error.message ? error.message.substring(0, 140) : 'Error from the wallet provider';
       onError(errorMessage); 
     }
-  }, [error]);
+  }, [error, onError]);
   
   if (!show) return null;
   
@@ -37,7 +36,7 @@ const Packs = ({show, onClose, contract, onError, onComplete, completeText}) => 
 
   function buyPacks(){
     if (isMismatched) {
-      if (onError) onError(`You need to be connected to Ethereum ${ChainId[process.env.GATSBY_CHAIN_ID]}`);
+      if (onError) onError(`You need to be connected to ${ChainId[process.env.GATSBY_CHAIN_ID]}`);
       return;
     }
     setPurchaseInProgress(true);
