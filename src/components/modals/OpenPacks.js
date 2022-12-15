@@ -1,14 +1,10 @@
 import React, { useState, useRef, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCircleXmark, faChevronLeft, faChevronRight } from "@fortawesome/free-solid-svg-icons";
-import { faEthereum } from "@fortawesome/free-brands-svg-icons"
-import { useDisconnect, ChainId, useContractWrite, useAddress, useNetworkMismatch } from "@thirdweb-dev/react";
-import { ethers } from "ethers";
+import { faCircleXmark, faChevronRight } from "@fortawesome/free-solid-svg-icons";
+import { useContractWrite } from "@thirdweb-dev/react";
 
 // assets
-import packImg from "../../assets/images/pack-front-st.png";
 import stickerBackImg from "../../assets/images/stickers/back.jpg";
-import packVideo from "../../assets/videos/pack-open.mp4";
 import packFront from "../../assets/images/pack-front.png";
 import packBack from "../../assets/images/pack-back.png";
 
@@ -41,7 +37,6 @@ const Sticker = ({className = '', token, active, style = {}, onReveal}) => {
 }
 
 const OpenPacks = ({show, onClose, contract, collection, onError}) => {
-  const wallet = useAddress();
   const videoRef = useRef(null);
   const stickersContainerRef = useRef(null);
   const [ stickersInPack, setStickersInPack ] = useState([]);
@@ -49,12 +44,7 @@ const OpenPacks = ({show, onClose, contract, collection, onError}) => {
   const [ packOpened, setPackOpened ] = useState(false);
   const [ transactionCompleted, setTransactionCompleted ] = useState(false);
   const [ resetOpen, setResetOpen ] = useState(false);
-  const [numberOfPacks, setNumberOfPacks] = useState(3);
-  const [purchaseInProgress, setPurchaseInProgress] = useState(false);
-  const [purchaseCompleted, setPurchaseCompleted] = useState(false);
-  const disconnect = useDisconnect();
-  const isMismatched = useNetworkMismatch()
-  const { mutateAsync: openPack, isLoading: isMintLoading, error } = useContractWrite(contract, 'openPacks');
+  const { mutateAsync: openPack, isLoading: isMintLoading } = useContractWrite(contract, 'openPacks');
 
   useEffect(() => {
     const video = videoRef.current;
@@ -98,7 +88,7 @@ const OpenPacks = ({show, onClose, contract, collection, onError}) => {
     }
 
     setStickersInPack(stickersInPack.map((s, i) => {
-      if (i == indexToActive) {
+      if (i === indexToActive) {
         return {id: s.id, active: true, reveal: s.reveal}
       }
       return {id: s.id, reveal: s.reveal};

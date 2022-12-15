@@ -28,6 +28,13 @@ module.exports = {
         path: `${__dirname}/src/pages/docs`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `stickers`,
+        path: `${__dirname}/static/image/sticker`,
+      },
+    },
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     'gatsby-transformer-sharp',

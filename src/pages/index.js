@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from "react"
+import React, { useState } from "react"
 import { Link, navigate } from "gatsby"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faEthereum } from "@fortawesome/free-brands-svg-icons"
 import { faLayerGroup, faSackDollar, faSpinner } from "@fortawesome/free-solid-svg-icons";
 import { ThirdwebProvider, ChainId, useAddress, useContract, useContractRead } from "@thirdweb-dev/react";
 import { ethers } from "ethers";
