@@ -5,19 +5,10 @@ import { useContractRead } from "@thirdweb-dev/react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
 
-const CountryFlag = ({flag, total, onClick, active}) => {
-  return (
-    <button onClick={onClick} className={`border border-neutral-300 px-4 py-2 inline-block rounded-lg hover:bg-lime-400 hover:text-neutral-800 ${active && 'bg-lime-400 text-neutral-800'}`}>
-      <img src={`/image/flag/${flag}.jpg`} className="h-3 mr-2 inline-block" alt={flag} /> {total}
-    </button>
-  )
-};
+import icon from "../assets/images/icon.png";
 
 const UserStickers = ({contract, wallet, collection}) => {
-  const [ userStickers, setUserStickers ] = useState([]);
-  const [ filterStickers, setFilterStickers ] = useState([]);
-  const [ stickerCountries, setStickerCountries ] = useState({});
-  const [ activeCountry, setActiveCountry ] = useState(null);
+  const [ userStickers, setUserStickers ] = useState({});
   const stickerImg = useStaticQuery(graphql`
     query StickerImages {
       allFile(filter: {sourceInstanceName: {eq: "stickers"}}) {
@@ -33,6 +24,16 @@ const UserStickers = ({contract, wallet, collection}) => {
     }
   `)
 
+  const countries = ['Argentina', 'Australia', 'Belgium', 'Brazil', 'Cameroon', 'Canada', 'Costa Rica', 'Croatia', 'Denmark', 'Ecuador', 'England', 'France', 'Germany', 'Ghana', 'Iran', 'Japan', 'Mexico', 'Morocco', 'Netherlands', 'Poland', 'Portugal', 'Qatar', 'Saudi Arabia', 'Senegal', 'Serbia', 'South Korea', 'Spain', 'Switzerland', 'Tunisia', 'Uruguay', 'USA', 'Wales'];
+  const album = {};
+  countries.forEach(c => {
+    album[c] = {
+      Home: '',
+      Away: '',
+      Goalkeeper: ''
+    };
+  });
+
   const tokenIds = collection.filter(s => Number(s[5]) > 0).map(s => s[6]);
   
   const {
@@ -41,69 +42,83 @@ const UserStickers = ({contract, wallet, collection}) => {
 
   useEffect(() => {
     if (!stickerBalance || stickerBalance.length === 0) return;
-    let stickersAvailable = [];
+    let stickersAvailable = {};
+    countries.forEach(c => {
+      stickersAvailable[c] = {
+        Home: [],
+        Away: [],
+        Goalkeeper: []
+      };
+    });
     stickerBalance.forEach((s, i) => {
       if (s.toNumber() === 0) return;
-      // Hay sticker
       const stickerData = collection.find(sd => sd[6] === tokenIds[i]);
-      stickersAvailable.push({
+      const country = stickerData[1];
+      stickersAvailable[country][stickerData[3]].push({
         tokenId: tokenIds[i],
         quantity: s.toNumber(),
         country: stickerData[1],
         type: stickerData[3],
         number: stickerData[7],
-        name: stickerData[12]
+        name: stickerData[12],
+        active: !stickersAvailable[country][stickerData[3]].find(s => s.active)
       })
     });
-    let countries = {};
-    stickersAvailable.forEach((s, i) => {
-      if (!countries[s.country]) {
-        countries[s.country] = 0;
-      }
-      countries[s.country] += s.quantity;
-    });
-
     setUserStickers(stickersAvailable);
-    setFilterStickers(stickersAvailable);
-    setStickerCountries(countries);
   }, [stickerBalance])
 
-  function filterByCountr(c) {
-    if (activeCountry === c) {
-      setActiveCountry(null); // reset
-      setFilterStickers([...userStickers]);
-    } else {
-      setActiveCountry(c);
-      setFilterStickers([...userStickers.filter(s => s.country === c)]);
-    }
+  const setStickerActive = (sticker) => {
+    const stickers = { ...userStickers };
+    stickers[sticker.country][sticker.type].map(s => s.active = false);
+    stickers[sticker.country][sticker.type].find(s => s.tokenId === sticker.tokenId).active = true;
+    setUserStickers(stickers);
   }
 
-  const Sticker = ({token}) => {
-    const image = stickerImg.allFile.edges.find(e => e.node.name === token);
-    const data = userStickers.find(s => s.tokenId === token);
+  const CountryStickers = ({country}) => {
+    const stickers = userStickers[country];
     return (
-      <div className="rounded-md border shadow-md bg-neutral-900 border-neutral-500 scale-100 hover:scale-105 ease-in duration-100">
-        <GatsbyImage className="rounded-t-md" image={getImage(image.node)} alt={token} />
-        <div className="mx-4 my-3">
-          <span className="block truncate">{data.country} | {data.type}</span>
-          <span className="block truncate">{data.name}</span>
+      <div className="flex flex-col gap-2 ">
+        <div className="border-neutral-300 border px-2 py-2">
+          <img src={`/image/flag/${country}.jpg`} className="h-6 mr-2 -my-2 inline-block" alt={country} /> {country}
+        </div>
+        <div className="flex flex-row gap-2">
+          { ['Home', 'Away', 'Goalkeeper'].map(t => 
+            <div className="flex flex-col w-1/3 aspect-[0.8] border-neutral-300 border justify-center items-center gap-4 bg-neutral-900">
+              { stickers && stickers[t].length > 0 ? 
+                <React.Fragment>
+                  <GatsbyImage className="rounded-t-md inline-block w-full" image={getImage(stickerImg.allFile.edges.find(e => e.node.name === stickers[t].find(s => s.active).tokenId).node)} alt={stickers[t].find(s => s.active).tokenId} />
+                </React.Fragment>
+                : 
+                <React.Fragment>
+                  <img src={icon} className="brightness-[0.3] w-1/2" alt="Pixel Cup Sticker" />
+                  <span className="uppercase text-neutral-500">{t}</span>
+                </React.Fragment>
+              }
+            </div>
+          )}
+        </div>
+        <div className="flex flex-row gap-2">
+          { ['Home', 'Away', 'Goalkeeper'].map(t => 
+            <div className="flex flex-col w-1/3">
+              { stickers && stickers[t].length > 0 ? 
+                <div className="flex flex-row gap-2 justify-center items-center">
+                  {stickers[t].map(s => 
+                    <button className="cursor-pointer text-xl" onClick={() => setStickerActive(s)}>•</button>
+                  )}
+                </div>
+              : null }
+            </div>
+          )}
         </div>
       </div>
-    )
-  };
+    );
+  }
 
   return (
     <div id="stickers" className="mt-4">
       {isStickerBalanceLoading && <p><FontAwesomeIcon icon={faSpinner} className="fa-spin mr-2" /> Loading your collection ... </p>}
-      {!isStickerBalanceLoading && <div>
-        <div className="grid md:grid-cols-12 gap-2 grid-cols-4">
-          { Object.keys(stickerCountries).map(c => <CountryFlag active={activeCountry === c} onClick={() => filterByCountr(c)} key={c} flag={c} total={stickerCountries[c]} />)}
-        </div>
-        <h1 className="text-xl my-4">{activeCountry ? activeCountry : 'All stickers'}</h1>
-        {filterStickers.length === 0 && <p>You don't have any stickers yet. Open a pack to get 3 random stickers</p>}
-        <div className="mt-4 grid md:grid-cols-5 gap-4 grid-cols-2">
-          { filterStickers.map(s => <Sticker key={s.tokenId} token={s.tokenId} />) }
-        </div>
+      {!isStickerBalanceLoading && <div className="grid md:grid-cols-2 grid-cols-1 gap-4">
+        {countries.map(c => <CountryStickers country={c} key={c} />)}
       </div> }
     </div>
   );

@@ -1177,55 +1177,55 @@ COUNTRY_ID,COUNTRY_NAME,TYPE_ID,TYPE_NAME,NUMBER,QTY,TOKEN_ID,CAMISETA,POS,FULL_
 24,Croatia,3,Goalkeeper,1,110,24301,1,PO,Livakovic Dominik,Dominik,Livaković,Livaković,9/1/1995,GNK Dinamo Zagreb (CRO),188
 24,Croatia,3,Goalkeeper,2,220,24302,12,PO,Grbic Ivo,Ivo,Grbić,Grbić,18/1/1996,CA Atlético Madrid (ESP),195
 24,Croatia,3,Goalkeeper,3,220,24303,23,PO,Ivusic Ivica,Ivica,Ivušić,Ivušić,1/2/1995,NK Osijek (CRO),195
-25,Brasil,1,Home,1,5,25101,10,DC,Neymar,Neymar,Da Silva Santos Junior,Neymar Jr,5/2/1992,Paris Saint-Germain FC (FRA),175
-25,Brasil,1,Home,2,8,25102,2,DF,Danilo,Danilo Luiz,Da Silva,Danilo,15/7/1991,Juventus FC (ITA),184
-25,Brasil,1,Home,3,8,25103,3,DF,Thiago Silva,Thiago,Emiliano Da Silva,T. Silva,22/9/1984,Chelsea FC (ENG),183
-25,Brasil,1,Home,4,16,25104,4,DF,Marquinhos,Marcos,Aoas Correa,Marquinhos,14/5/1994,Paris Saint-Germain FC (FRA),183
-25,Brasil,1,Home,5,16,25105,5,MC,Casemiro,Carlos Henrique,Casimiro,Casemiro,23/2/1992,Manchester United FC (ENG),185
-25,Brasil,1,Home,6,16,25106,6,DF,Alex Sandro,Alex Sandro,Lobo Silva,Alex Sandro,26/1/1991,Juventus FC (ITA),180
-25,Brasil,1,Home,7,16,25107,7,MC,Lucas Paqueta,Lucas,Tolentino Coelho De Lima,L. Paquetá,27/8/1997,West Ham United FC (ENG),180
-25,Brasil,1,Home,8,16,25108,8,MC,Fred,Frederico,Rodrigues De Paula Santos,Fred,5/3/1993,Manchester United FC (ENG),169
-25,Brasil,1,Home,9,16,25109,9,DC,Richarlison,Richarlison,De Andrade,Richarlison,10/5/1997,Tottenham Hotspur FC (ENG),184
-25,Brasil,1,Home,10,16,25110,11,DC,Raphinha,Raphael,Dias Belloli,Raphinha,14/12/1996,FC Barcelona (ESP),176
-25,Brasil,1,Home,11,16,25111,14,DF,Eder Militao,Éder Gabriel,Militão,E. Militão,18/1/1998,Real Madrid CF (ESP),186
-25,Brasil,1,Home,12,16,25112,16,DF,Alex Telles,Alex,Nicolao Telles,Alex Telles,15/12/1992,Sevilla FC (ESP),181
-25,Brasil,1,Home,13,16,25113,18,DC,Gabriel Jesus,Gabriel Fernando,De Jesus,G. Jesus,3/4/1997,Arsenal FC (ENG),175
-25,Brasil,1,Home,14,16,25114,20,DC,Vinicius Junior,Vinicius José,Paixão De Oliveira Júnior,Vini Jr,12/7/2000,Real Madrid CF (ESP),176
-25,Brasil,1,Home,15,16,25115,13,DF,Dani Alves,Daniel,Alves Da Silva,Dani Alves,6/5/1983,Pumas UNAM (MEX),172
-25,Brasil,1,Home,16,22,25116,15,MC,Fabinho,Fabio Henrique,Tavares,Fabinho,23/10/1993,Liverpool FC (ENG),188
-25,Brasil,1,Home,17,22,25117,17,MC,Bruno Guimaraes,Bruno,Guimarães Rodriguez Moura,Bruno G.,16/11/1997,Newcastle United FC (ENG),182
-25,Brasil,1,Home,18,22,25118,19,DC,Antony,Antony Matheus,Dos Santos,Antony,24/2/2000,Manchester United FC (ENG),172
-25,Brasil,1,Home,19,22,25119,21,DC,Rodrygo,Rodrygo,Silva De Goes,Rodrygo,9/1/2001,Real Madrid CF (ESP),174
-25,Brasil,1,Home,20,22,25120,22,MC,Everton Ribeiro,Everton Augusto,De Barros Ribeiro,E. Ribeiro,10/4/1989,CR Flamengo (BRA),174
-25,Brasil,1,Home,21,22,25121,24,DF,Bremer,Gleison Bremer,Silva Nascimento,Bremer,18/3/1997,Juventus FC (ITA),188
-25,Brasil,1,Home,22,22,25122,25,DC,Pedro,Pedro Guilherme,Abreu Dos Santos,Pedro,20/6/1997,CR Flamengo (BRA),185
-25,Brasil,1,Home,23,22,25123,26,DC,Gabriel Martinelli,Gabriel,Teodoro Martinelli Silva,Martinelli,18/6/2001,Arsenal FC (ENG),178
-25,Brasil,2,Away,1,2,25201,10,DC,Neymar,Neymar,Da Silva Santos Junior,Neymar Jr,5/2/1992,Paris Saint-Germain FC (FRA),175
-25,Brasil,2,Away,2,5,25202,2,DF,Danilo,Danilo Luiz,Da Silva,Danilo,15/7/1991,Juventus FC (ITA),184
-25,Brasil,2,Away,3,5,25203,3,DF,Thiago Silva,Thiago,Emiliano Da Silva,T. Silva,22/9/1984,Chelsea FC (ENG),183
-25,Brasil,2,Away,4,5,25204,4,DF,Marquinhos,Marcos,Aoas Correa,Marquinhos,14/5/1994,Paris Saint-Germain FC (FRA),183
-25,Brasil,2,Away,5,5,25205,5,MC,Casemiro,Carlos Henrique,Casimiro,Casemiro,23/2/1992,Manchester United FC (ENG),185
-25,Brasil,2,Away,6,5,25206,6,DF,Alex Sandro,Alex Sandro,Lobo Silva,Alex Sandro,26/1/1991,Juventus FC (ITA),180
-25,Brasil,2,Away,7,5,25207,7,MC,Lucas Paqueta,Lucas,Tolentino Coelho De Lima,L. Paquetá,27/8/1997,West Ham United FC (ENG),180
-25,Brasil,2,Away,8,5,25208,8,MC,Fred,Frederico,Rodrigues De Paula Santos,Fred,5/3/1993,Manchester United FC (ENG),169
-25,Brasil,2,Away,9,5,25209,9,DC,Richarlison,Richarlison,De Andrade,Richarlison,10/5/1997,Tottenham Hotspur FC (ENG),184
-25,Brasil,2,Away,10,5,25210,11,DC,Raphinha,Raphael,Dias Belloli,Raphinha,14/12/1996,FC Barcelona (ESP),176
-25,Brasil,2,Away,11,5,25211,14,DF,Eder Militao,Éder Gabriel,Militão,E. Militão,18/1/1998,Real Madrid CF (ESP),186
-25,Brasil,2,Away,12,5,25212,16,DF,Alex Telles,Alex,Nicolao Telles,Alex Telles,15/12/1992,Sevilla FC (ESP),181
-25,Brasil,2,Away,13,5,25213,18,DC,Gabriel Jesus,Gabriel Fernando,De Jesus,G. Jesus,3/4/1997,Arsenal FC (ENG),175
-25,Brasil,2,Away,14,5,25214,20,DC,Vinicius Junior,Vinicius José,Paixão De Oliveira Júnior,Vini Jr,12/7/2000,Real Madrid CF (ESP),176
-25,Brasil,2,Away,15,5,25215,13,DF,Dani Alves,Daniel,Alves Da Silva,Dani Alves,6/5/1983,Pumas UNAM (MEX),172
-25,Brasil,2,Away,16,8,25216,15,MC,Fabinho,Fabio Henrique,Tavares,Fabinho,23/10/1993,Liverpool FC (ENG),188
-25,Brasil,2,Away,17,8,25217,17,MC,Bruno Guimaraes,Bruno,Guimarães Rodriguez Moura,Bruno G.,16/11/1997,Newcastle United FC (ENG),182
-25,Brasil,2,Away,18,8,25218,19,DC,Antony,Antony Matheus,Dos Santos,Antony,24/2/2000,Manchester United FC (ENG),172
-25,Brasil,2,Away,19,8,25219,21,DC,Rodrygo,Rodrygo,Silva De Goes,Rodrygo,9/1/2001,Real Madrid CF (ESP),174
-25,Brasil,2,Away,20,8,25220,22,MC,Everton Ribeiro,Everton Augusto,De Barros Ribeiro,E. Ribeiro,10/4/1989,CR Flamengo (BRA),174
-25,Brasil,2,Away,21,8,25221,24,DF,Bremer,Gleison Bremer,Silva Nascimento,Bremer,18/3/1997,Juventus FC (ITA),188
-25,Brasil,2,Away,22,8,25222,25,DC,Pedro,Pedro Guilherme,Abreu Dos Santos,Pedro,20/6/1997,CR Flamengo (BRA),185
-25,Brasil,2,Away,23,8,25223,26,DC,Gabriel Martinelli,Gabriel,Teodoro Martinelli Silva,Martinelli,18/6/2001,Arsenal FC (ENG),178
-25,Brasil,3,Goalkeeper,1,55,25301,1,PO,Alisson,Alisson Ramsés,Becker,A. Becker,2/10/1992,Liverpool FC (ENG),193
-25,Brasil,3,Goalkeeper,2,110,25302,12,PO,Weverton,Weverton,Pereira Da Silva,Weverton,13/12/1987,SE Palmeiras (BRA),189
-25,Brasil,3,Goalkeeper,3,110,25303,23,PO,Ederson,Ederson,Santana De Moraes,Ederson,17/8/1993,Manchester City FC (ENG),188
+25,Brazil,1,Home,1,5,25101,10,DC,Neymar,Neymar,Da Silva Santos Junior,Neymar Jr,5/2/1992,Paris Saint-Germain FC (FRA),175
+25,Brazil,1,Home,2,8,25102,2,DF,Danilo,Danilo Luiz,Da Silva,Danilo,15/7/1991,Juventus FC (ITA),184
+25,Brazil,1,Home,3,8,25103,3,DF,Thiago Silva,Thiago,Emiliano Da Silva,T. Silva,22/9/1984,Chelsea FC (ENG),183
+25,Brazil,1,Home,4,16,25104,4,DF,Marquinhos,Marcos,Aoas Correa,Marquinhos,14/5/1994,Paris Saint-Germain FC (FRA),183
+25,Brazil,1,Home,5,16,25105,5,MC,Casemiro,Carlos Henrique,Casimiro,Casemiro,23/2/1992,Manchester United FC (ENG),185
+25,Brazil,1,Home,6,16,25106,6,DF,Alex Sandro,Alex Sandro,Lobo Silva,Alex Sandro,26/1/1991,Juventus FC (ITA),180
+25,Brazil,1,Home,7,16,25107,7,MC,Lucas Paqueta,Lucas,Tolentino Coelho De Lima,L. Paquetá,27/8/1997,West Ham United FC (ENG),180
+25,Brazil,1,Home,8,16,25108,8,MC,Fred,Frederico,Rodrigues De Paula Santos,Fred,5/3/1993,Manchester United FC (ENG),169
+25,Brazil,1,Home,9,16,25109,9,DC,Richarlison,Richarlison,De Andrade,Richarlison,10/5/1997,Tottenham Hotspur FC (ENG),184
+25,Brazil,1,Home,10,16,25110,11,DC,Raphinha,Raphael,Dias Belloli,Raphinha,14/12/1996,FC Barcelona (ESP),176
+25,Brazil,1,Home,11,16,25111,14,DF,Eder Militao,Éder Gabriel,Militão,E. Militão,18/1/1998,Real Madrid CF (ESP),186
+25,Brazil,1,Home,12,16,25112,16,DF,Alex Telles,Alex,Nicolao Telles,Alex Telles,15/12/1992,Sevilla FC (ESP),181
+25,Brazil,1,Home,13,16,25113,18,DC,Gabriel Jesus,Gabriel Fernando,De Jesus,G. Jesus,3/4/1997,Arsenal FC (ENG),175
+25,Brazil,1,Home,14,16,25114,20,DC,Vinicius Junior,Vinicius José,Paixão De Oliveira Júnior,Vini Jr,12/7/2000,Real Madrid CF (ESP),176
+25,Brazil,1,Home,15,16,25115,13,DF,Dani Alves,Daniel,Alves Da Silva,Dani Alves,6/5/1983,Pumas UNAM (MEX),172
+25,Brazil,1,Home,16,22,25116,15,MC,Fabinho,Fabio Henrique,Tavares,Fabinho,23/10/1993,Liverpool FC (ENG),188
+25,Brazil,1,Home,17,22,25117,17,MC,Bruno Guimaraes,Bruno,Guimarães Rodriguez Moura,Bruno G.,16/11/1997,Newcastle United FC (ENG),182
+25,Brazil,1,Home,18,22,25118,19,DC,Antony,Antony Matheus,Dos Santos,Antony,24/2/2000,Manchester United FC (ENG),172
+25,Brazil,1,Home,19,22,25119,21,DC,Rodrygo,Rodrygo,Silva De Goes,Rodrygo,9/1/2001,Real Madrid CF (ESP),174
+25,Brazil,1,Home,20,22,25120,22,MC,Everton Ribeiro,Everton Augusto,De Barros Ribeiro,E. Ribeiro,10/4/1989,CR Flamengo (BRA),174
+25,Brazil,1,Home,21,22,25121,24,DF,Bremer,Gleison Bremer,Silva Nascimento,Bremer,18/3/1997,Juventus FC (ITA),188
+25,Brazil,1,Home,22,22,25122,25,DC,Pedro,Pedro Guilherme,Abreu Dos Santos,Pedro,20/6/1997,CR Flamengo (BRA),185
+25,Brazil,1,Home,23,22,25123,26,DC,Gabriel Martinelli,Gabriel,Teodoro Martinelli Silva,Martinelli,18/6/2001,Arsenal FC (ENG),178
+25,Brazil,2,Away,1,2,25201,10,DC,Neymar,Neymar,Da Silva Santos Junior,Neymar Jr,5/2/1992,Paris Saint-Germain FC (FRA),175
+25,Brazil,2,Away,2,5,25202,2,DF,Danilo,Danilo Luiz,Da Silva,Danilo,15/7/1991,Juventus FC (ITA),184
+25,Brazil,2,Away,3,5,25203,3,DF,Thiago Silva,Thiago,Emiliano Da Silva,T. Silva,22/9/1984,Chelsea FC (ENG),183
+25,Brazil,2,Away,4,5,25204,4,DF,Marquinhos,Marcos,Aoas Correa,Marquinhos,14/5/1994,Paris Saint-Germain FC (FRA),183
+25,Brazil,2,Away,5,5,25205,5,MC,Casemiro,Carlos Henrique,Casimiro,Casemiro,23/2/1992,Manchester United FC (ENG),185
+25,Brazil,2,Away,6,5,25206,6,DF,Alex Sandro,Alex Sandro,Lobo Silva,Alex Sandro,26/1/1991,Juventus FC (ITA),180
+25,Brazil,2,Away,7,5,25207,7,MC,Lucas Paqueta,Lucas,Tolentino Coelho De Lima,L. Paquetá,27/8/1997,West Ham United FC (ENG),180
+25,Brazil,2,Away,8,5,25208,8,MC,Fred,Frederico,Rodrigues De Paula Santos,Fred,5/3/1993,Manchester United FC (ENG),169
+25,Brazil,2,Away,9,5,25209,9,DC,Richarlison,Richarlison,De Andrade,Richarlison,10/5/1997,Tottenham Hotspur FC (ENG),184
+25,Brazil,2,Away,10,5,25210,11,DC,Raphinha,Raphael,Dias Belloli,Raphinha,14/12/1996,FC Barcelona (ESP),176
+25,Brazil,2,Away,11,5,25211,14,DF,Eder Militao,Éder Gabriel,Militão,E. Militão,18/1/1998,Real Madrid CF (ESP),186
+25,Brazil,2,Away,12,5,25212,16,DF,Alex Telles,Alex,Nicolao Telles,Alex Telles,15/12/1992,Sevilla FC (ESP),181
+25,Brazil,2,Away,13,5,25213,18,DC,Gabriel Jesus,Gabriel Fernando,De Jesus,G. Jesus,3/4/1997,Arsenal FC (ENG),175
+25,Brazil,2,Away,14,5,25214,20,DC,Vinicius Junior,Vinicius José,Paixão De Oliveira Júnior,Vini Jr,12/7/2000,Real Madrid CF (ESP),176
+25,Brazil,2,Away,15,5,25215,13,DF,Dani Alves,Daniel,Alves Da Silva,Dani Alves,6/5/1983,Pumas UNAM (MEX),172
+25,Brazil,2,Away,16,8,25216,15,MC,Fabinho,Fabio Henrique,Tavares,Fabinho,23/10/1993,Liverpool FC (ENG),188
+25,Brazil,2,Away,17,8,25217,17,MC,Bruno Guimaraes,Bruno,Guimarães Rodriguez Moura,Bruno G.,16/11/1997,Newcastle United FC (ENG),182
+25,Brazil,2,Away,18,8,25218,19,DC,Antony,Antony Matheus,Dos Santos,Antony,24/2/2000,Manchester United FC (ENG),172
+25,Brazil,2,Away,19,8,25219,21,DC,Rodrygo,Rodrygo,Silva De Goes,Rodrygo,9/1/2001,Real Madrid CF (ESP),174
+25,Brazil,2,Away,20,8,25220,22,MC,Everton Ribeiro,Everton Augusto,De Barros Ribeiro,E. Ribeiro,10/4/1989,CR Flamengo (BRA),174
+25,Brazil,2,Away,21,8,25221,24,DF,Bremer,Gleison Bremer,Silva Nascimento,Bremer,18/3/1997,Juventus FC (ITA),188
+25,Brazil,2,Away,22,8,25222,25,DC,Pedro,Pedro Guilherme,Abreu Dos Santos,Pedro,20/6/1997,CR Flamengo (BRA),185
+25,Brazil,2,Away,23,8,25223,26,DC,Gabriel Martinelli,Gabriel,Teodoro Martinelli Silva,Martinelli,18/6/2001,Arsenal FC (ENG),178
+25,Brazil,3,Goalkeeper,1,55,25301,1,PO,Alisson,Alisson Ramsés,Becker,A. Becker,2/10/1992,Liverpool FC (ENG),193
+25,Brazil,3,Goalkeeper,2,110,25302,12,PO,Weverton,Weverton,Pereira Da Silva,Weverton,13/12/1987,SE Palmeiras (BRA),189
+25,Brazil,3,Goalkeeper,3,110,25303,23,PO,Ederson,Ederson,Santana De Moraes,Ederson,17/8/1993,Manchester City FC (ENG),188
 26,Serbia,1,Home,1,2,26101,18,DC,Vlahovic Dusan,Dušan,Vlahović,Vlahović,28/1/2000,Juventus FC (ITA),190
 26,Serbia,1,Home,2,5,26102,2,DF,Pavlovic Strahinja,Strahinja,Pavlović,Pavlović,24/5/2001,FC Red Bull Salzburg (AUT),194
 26,Serbia,1,Home,3,5,26103,4,DF,Milenkovic Nikola,Nikola,Milenković,Milenković,12/10/1997,ACF Fiorentina (ITA),195
